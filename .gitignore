@@ -2,6 +2,7 @@
 data/raw/
 *.csv
 !data/splits/*.csv
+!reports/error_logs/*.csv
 
 # Python
 __pycache__/

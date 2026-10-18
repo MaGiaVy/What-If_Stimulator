@@ -1,0 +1,32 @@
+{
+    "model_name": "XGBoost with Imblearn SMOTE Pipeline",
+    "stage": 1,
+    "task": "Academic Early Warning (Binary Classification)",
+    "features": [
+        "weighted_final_score",
+        "gpa_credits",
+        "gap_process_exam",
+        "submitted_count",
+        "attendance_rate",
+        "total_clicks",
+        "num_of_prev_attempts",
+        "studied_credits",
+        "vle_engagement_score",
+        "vle_drop_ratio"
+    ],
+    "target": "is_dropout",
+    "optimal_threshold": 0.38,
+    "test_metrics": {
+        "accuracy": 0.9213,
+        "precision": 0.9381,
+        "recall": 0.9109,
+        "f1_score": 0.9243,
+        "roc_auc": 0.975
+    },
+    "confusion_matrix": {
+        "tn": 2153,
+        "fp": 155,
+        "fn": 230,
+        "tp": 2351
+    }
+}
