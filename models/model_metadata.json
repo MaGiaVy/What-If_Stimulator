@@ -28,5 +28,25 @@
         "fp": 155,
         "fn": 230,
         "tp": 2351
+    },
+    "stage2": {
+        "model_name": "Ridge Regression with StandardScaler",
+        "task": "Final Exam Score Prediction & What-If Simulation (Regression)",
+        "features": [
+            "Hours_Studied",
+            "Sleep_Hours",
+            "Attendance",
+            "Previous_Scores",
+            "Tutoring_Sessions",
+            "effective_study_index"
+        ],
+        "target": "Exam_Score",
+        "pass_threshold": 6.0,
+        "safe_target_threshold": 6.5,
+        "test_metrics": {
+            "r2_score": 0.5695,
+            "rmse": 0.2544,
+            "mae": 0.134
+        }
     }
 }
