@@ -30,23 +30,56 @@
         "tp": 2351
     },
     "stage2": {
-        "model_name": "Ridge Regression with StandardScaler",
-        "task": "Final Exam Score Prediction & What-If Simulation (Regression)",
-        "features": [
+        "model_name": "Contextual Ridge Regression (alpha=1.0) with ColumnTransformer",
+        "task": "Final Exam Score Prediction & Contextual What-If Simulation (Regression)",
+        "actionable_features": [
             "Hours_Studied",
             "Sleep_Hours",
             "Attendance",
-            "Previous_Scores",
             "Tutoring_Sessions",
             "effective_study_index"
+        ],
+        "context_features": [
+            "Previous_Scores",
+            "Access_to_Resources",
+            "Parental_Involvement",
+            "Teacher_Quality",
+            "Family_Income",
+            "Motivation_Level",
+            "Internet_Access",
+            "Learning_Disabilities",
+            "Extracurricular_Activities",
+            "Peer_Influence"
+        ],
+        "all_features": [
+            "Hours_Studied",
+            "Sleep_Hours",
+            "Attendance",
+            "Tutoring_Sessions",
+            "effective_study_index",
+            "Previous_Scores",
+            "Access_to_Resources",
+            "Parental_Involvement",
+            "Teacher_Quality",
+            "Family_Income",
+            "Motivation_Level",
+            "Internet_Access",
+            "Learning_Disabilities",
+            "Extracurricular_Activities",
+            "Peer_Influence"
         ],
         "target": "Exam_Score",
         "pass_threshold": 6.0,
         "safe_target_threshold": 6.5,
-        "test_metrics": {
-            "r2_score": 0.5695,
-            "rmse": 0.2544,
-            "mae": 0.134
+        "test_metrics_raw": {
+            "r2_score": 0.6553,
+            "rmse": 0.2276,
+            "mae": 0.0744
+        },
+        "test_metrics_clean": {
+            "r2_score": 0.944,
+            "rmse": 0.0798,
+            "mae": 0.0539
         }
     }
 }

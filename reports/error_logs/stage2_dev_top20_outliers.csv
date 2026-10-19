@@ -1,21 +1,21 @@
-Hours_Studied,Sleep_Hours,Attendance,Previous_Scores,Tutoring_Sessions,effective_study_index,Exam_Score,predicted_score,residual,abs_error
-11,8,71,5.5,1,7.81,8.7,6.16,2.54,2.54
-27,6,98,9.3,5,26.46,10.0,7.56,2.44,2.44
-22,6,86,5.4,2,18.92,6.4,6.83,-0.43,0.43
-10,7,89,8.8,2,8.9,7.1,6.69,0.41,0.41
-18,8,94,7.7,3,16.92,7.4,7.02,0.38,0.38
-14,9,63,7.2,3,8.82,5.9,6.27,-0.37,0.37
-20,4,95,8.9,3,19.0,6.8,7.17,-0.37,0.37
-16,7,62,8.9,0,9.92,5.9,6.26,-0.36,0.36
-23,7,76,8.6,1,17.48,6.4,6.76,-0.36,0.36
-21,6,93,6.7,1,19.53,7.3,6.95,0.35,0.35
-19,7,94,6.2,0,17.86,6.5,6.84,-0.34,0.34
-13,6,72,9.3,1,9.36,6.1,6.44,-0.34,0.34
-9,7,77,8.0,3,6.93,6.1,6.44,-0.34,0.34
-18,8,69,5.9,1,12.42,6.0,6.34,-0.34,0.34
-20,6,81,6.1,0,16.2,6.3,6.61,-0.31,0.31
-29,7,64,7.4,0,18.56,6.9,6.59,0.31,0.31
-13,6,64,5.7,1,8.32,5.8,6.1,-0.3,0.3
-18,9,97,8.8,0,17.46,6.7,6.99,-0.29,0.29
-21,7,75,7.0,1,15.75,6.9,6.61,0.29,0.29
-18,9,67,6.8,2,12.06,6.1,6.39,-0.29,0.29
+Hours_Studied,Attendance,Parental_Involvement,Access_to_Resources,Extracurricular_Activities,Sleep_Hours,Previous_Scores,Motivation_Level,Internet_Access,Tutoring_Sessions,Family_Income,Teacher_Quality,School_Type,Peer_Influence,Physical_Activity,Learning_Disabilities,Parental_Education_Level,Distance_from_Home,Gender,effective_study_index,sleep_group,Exam_Score,predicted_score,residual,abs_error
+11,71,Low,Medium,Yes,8,5.5,Medium,Yes,1,Low,Medium,Public,Negative,3,No,College,Near,Female,7.81,Ngủ chuẩn (6 – 8h),8.7,5.96,2.74,2.74
+27,98,Low,Medium,Yes,6,9.3,Low,No,5,High,High,Public,Positive,3,No,High School,Moderate,Female,26.46,Ngủ chuẩn (6 – 8h),10.0,7.46,2.54,2.54
+4,62,Medium,Medium,No,6,7.8,High,Yes,3,High,Medium,Public,Neutral,2,No,High School,Far,Female,2.48,Ngủ chuẩn (6 – 8h),5.8,6.03,-0.23,0.23
+20,98,Medium,High,Yes,4,7.3,Medium,Yes,2,Medium,Low,Private,Positive,1,No,High School,Far,Male,19.6,Thiếu ngủ (≤ 5h),7.0,7.2,-0.2,0.2
+22,86,Low,Low,No,6,5.4,Medium,Yes,2,Medium,Medium,Public,Neutral,0,No,High School,Moderate,Male,18.92,Ngủ chuẩn (6 – 8h),6.4,6.58,-0.18,0.18
+24,99,High,Medium,No,4,9.2,Low,Yes,2,High,Medium,Private,Neutral,3,No,High School,Far,Male,23.76,Thiếu ngủ (≤ 5h),7.2,7.37,-0.17,0.17
+18,66,High,Medium,Yes,6,6.8,Low,No,1,Medium,High,Public,Positive,3,Yes,High School,Far,Male,11.88,Ngủ chuẩn (6 – 8h),6.1,6.27,-0.17,0.17
+18,94,High,Medium,Yes,8,7.7,Medium,Yes,3,Medium,High,Public,Positive,4,No,Postgraduate,Near,Male,16.92,Ngủ chuẩn (6 – 8h),7.4,7.23,0.17,0.17
+24,71,Low,High,Yes,6,9.1,Medium,Yes,3,High,Medium,Public,Neutral,2,No,High School,Far,Female,17.04,Ngủ chuẩn (6 – 8h),6.7,6.86,-0.16,0.16
+29,81,High,Medium,No,7,6.8,Medium,Yes,2,Medium,Medium,Public,Neutral,4,No,Postgraduate,Near,Male,23.49,Ngủ chuẩn (6 – 8h),7.2,7.05,0.15,0.15
+18,99,Medium,High,Yes,10,5.1,Medium,Yes,1,Medium,Low,Public,Neutral,4,No,Postgraduate,Near,Male,17.82,Ngủ nhiều (> 8h),7.1,6.95,0.15,0.15
+24,84,Medium,Medium,Yes,6,7.4,Medium,Yes,2,Medium,High,Public,Positive,2,No,High School,Far,Male,20.16,Ngủ chuẩn (6 – 8h),6.9,7.05,-0.15,0.15
+15,78,Medium,High,No,8,9.7,Medium,Yes,1,Medium,Medium,Public,Neutral,4,No,Postgraduate,Near,Male,11.7,Ngủ chuẩn (6 – 8h),6.8,6.66,0.14,0.14
+19,81,High,High,No,8,6.1,Low,Yes,3,Medium,Medium,Private,Negative,5,No,Postgraduate,Near,Male,15.39,Ngủ chuẩn (6 – 8h),6.9,6.76,0.14,0.14
+19,85,High,Medium,No,4,7.1,Low,Yes,1,Medium,High,Public,Negative,3,No,High School,Far,Female,16.15,Thiếu ngủ (≤ 5h),6.6,6.74,-0.14,0.14
+16,62,Low,Low,No,7,8.9,High,Yes,0,Medium,Medium,Public,Neutral,3,No,High School,Far,Female,9.92,Ngủ chuẩn (6 – 8h),5.9,6.04,-0.14,0.14
+23,70,Medium,Medium,Yes,8,7.5,Medium,Yes,0,High,Medium,Public,Positive,2,No,High School,Moderate,Male,16.1,Ngủ chuẩn (6 – 8h),6.5,6.64,-0.14,0.14
+23,74,Low,Low,No,9,6.1,Low,Yes,0,Medium,Low,Public,Positive,4,No,Postgraduate,Near,Male,17.02,Ngủ nhiều (> 8h),6.4,6.26,0.14,0.14
+14,62,Medium,High,Yes,7,7.9,Low,Yes,2,Medium,Medium,Private,Positive,2,No,High School,Moderate,Female,8.68,Ngủ chuẩn (6 – 8h),6.2,6.33,-0.13,0.13
+31,81,Medium,Medium,No,9,7.0,Low,Yes,1,Low,Medium,Public,Neutral,4,No,Postgraduate,Near,Female,25.11,Ngủ nhiều (> 8h),7.0,6.87,0.13,0.13

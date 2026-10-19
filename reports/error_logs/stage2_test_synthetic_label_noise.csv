@@ -1,0 +1,11 @@
+Hours_Studied,Attendance,Parental_Involvement,Access_to_Resources,Extracurricular_Activities,Sleep_Hours,Previous_Scores,Motivation_Level,Internet_Access,Tutoring_Sessions,Family_Income,Teacher_Quality,School_Type,Peer_Influence,Physical_Activity,Learning_Disabilities,Parental_Education_Level,Distance_from_Home,Gender,effective_study_index,sleep_group,Exam_Score,Predicted_Score,Abs_Error
+7,69,Medium,High,Yes,8,5.4,High,Yes,1,Medium,High,Public,Positive,2,No,High School,Far,Male,4.83,Ngủ chuẩn (6 – 8h),8.7,6.24,2.46
+22,70,Low,Medium,No,7,5.3,Low,Yes,1,Low,Medium,Public,Positive,3,No,High School,Near,Female,15.4,Ngủ chuẩn (6 – 8h),8.3,6.25,2.05
+27,90,Low,Medium,No,9,5.2,Low,No,2,Low,High,Public,Positive,2,Yes,College,Near,Male,24.3,Ngủ nhiều (> 8h),8.6,6.7,1.9
+18,87,Low,Low,No,8,7.9,High,Yes,1,Low,High,Public,Negative,4,No,College,Near,Male,15.66,Ngủ chuẩn (6 – 8h),8.2,6.56,1.64
+16,82,Medium,Medium,No,7,5.6,Low,Yes,0,High,High,Private,Negative,1,Yes,High School,Far,Female,13.12,Ngủ chuẩn (6 – 8h),7.9,6.32,1.58
+16,71,Low,Low,Yes,6,5.9,High,Yes,1,Low,High,Public,Positive,3,No,Postgraduate,Near,Male,11.36,Ngủ chuẩn (6 – 8h),8.2,6.23,1.97
+31,69,Medium,Medium,No,7,5.2,Medium,No,2,High,Low,Public,Neutral,5,No,College,Far,Male,21.39,Ngủ chuẩn (6 – 8h),9.2,6.59,2.61
+10,76,Medium,Low,No,6,7.6,Medium,Yes,1,High,High,Public,Negative,2,No,Postgraduate,Near,Male,7.6,Ngủ chuẩn (6 – 8h),8.0,6.22,1.78
+14,90,High,High,Yes,8,8.6,Medium,Yes,4,Medium,Medium,Private,Negative,2,No,High School,Near,Female,12.6,Ngủ chuẩn (6 – 8h),9.9,7.07,2.83
+17,77,Low,High,Yes,5,5.3,Medium,Yes,2,High,Medium,Public,Neutral,3,No,College,Near,Male,13.09,Thiếu ngủ (≤ 5h),8.6,6.54,2.06
