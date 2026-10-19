@@ -1,0 +1,11 @@
+Hours_Studied,Attendance,Parental_Involvement,Access_to_Resources,Extracurricular_Activities,Sleep_Hours,Previous_Scores,Motivation_Level,Internet_Access,Tutoring_Sessions,Family_Income,Teacher_Quality,School_Type,Peer_Influence,Physical_Activity,Learning_Disabilities,Parental_Education_Level,Distance_from_Home,Gender,Exam_Score,effective_study_index,at_risk,predicted_risk,risk_probability,cohort_category
+16,64,Medium,High,Yes,7,7.0,Medium,Yes,5,Low,Low,Public,Positive,4,No,High School,Moderate,Male,6.5,10.24,0,1,0.5428,False Positive (FP - Báo nhầm)
+21,72,Medium,Medium,Yes,5,5.7,Medium,Yes,1,High,Medium,Public,Neutral,5,Yes,College,Moderate,Male,6.4,15.12,1,0,0.3712,False Negative (FN - Bỏ sót)
+17,72,Low,Medium,Yes,5,6.6,Medium,Yes,2,High,High,Public,Negative,3,No,College,Near,Male,6.5,12.24,0,1,0.6535,False Positive (FP - Báo nhầm)
+18,68,Low,High,No,8,9.6,Medium,Yes,1,High,Medium,Public,Neutral,3,No,High School,Moderate,Male,6.5,12.24,0,1,0.6989,False Positive (FP - Báo nhầm)
+23,71,Medium,High,No,8,5.0,Medium,Yes,0,High,Medium,Public,Positive,2,No,High School,Far,Female,6.4,16.33,1,0,0.3883,False Negative (FN - Bỏ sót)
+24,60,Medium,Medium,Yes,10,6.0,Low,Yes,3,Low,High,Private,Neutral,2,No,Postgraduate,Near,Female,6.5,14.4,0,1,0.6523,False Positive (FP - Báo nhầm)
+20,64,Medium,Medium,Yes,6,5.7,Medium,Yes,3,Low,High,Public,Neutral,4,No,College,Near,Female,6.5,12.8,0,1,0.6229,False Positive (FP - Báo nhầm)
+15,87,Low,Medium,No,4,5.4,Medium,Yes,1,Medium,Medium,Public,Neutral,6,No,High School,Moderate,Male,6.5,13.05,0,1,0.6844,False Positive (FP - Báo nhầm)
+12,83,Medium,Medium,No,6,7.9,Medium,Yes,1,High,Low,Public,Neutral,4,No,High School,Moderate,Female,6.5,9.96,0,1,0.6686,False Positive (FP - Báo nhầm)
+12,84,Low,Medium,No,7,5.0,Medium,Yes,3,High,High,Public,Neutral,3,No,High School,Near,Male,6.5,10.08,0,1,0.6863,False Positive (FP - Báo nhầm)
