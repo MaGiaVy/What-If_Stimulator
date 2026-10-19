@@ -1,0 +1,21 @@
+Hours_Studied,Attendance,Parental_Involvement,Access_to_Resources,Extracurricular_Activities,Sleep_Hours,Previous_Scores,Motivation_Level,Internet_Access,Tutoring_Sessions,Family_Income,Teacher_Quality,School_Type,Peer_Influence,Physical_Activity,Learning_Disabilities,Parental_Education_Level,Distance_from_Home,Gender,Exam_Score,effective_study_index,at_risk,Predicted_Score,Absolute_Error,Residual
+1,88,Medium,High,Yes,4,7.2,High,Yes,3,Medium,Medium,Private,Negative,2,No,College,Near,Male,9.2,0.88,0,6.49,2.709,2.709
+25,98,Medium,Medium,Yes,7,9.0,High,Yes,1,High,Low,Public,Neutral,4,No,Postgraduate,Near,Male,9.4,24.5,0,7.44,1.957,1.957
+18,87,Low,Low,No,8,7.9,High,Yes,1,Low,High,Public,Negative,4,No,College,Near,Male,8.2,15.66,0,6.62,1.5823,1.5823
+2,84,Low,High,No,8,5.4,Low,Yes,3,Low,Low,Public,Positive,4,No,High School,Near,Male,6.2,1.68,1,6.1,0.098,0.098
+19,92,Medium,Medium,Yes,6,6.5,Medium,Yes,3,Medium,High,Public,Neutral,4,No,College,Near,Female,7.0,17.48,0,7.07,0.0717,-0.0717
+19,67,High,Medium,Yes,8,9.2,Low,Yes,2,High,Medium,Public,Neutral,5,No,Postgraduate,Moderate,Female,6.8,12.73,0,6.73,0.0709,0.0709
+27,96,Medium,Medium,No,7,9.3,Medium,Yes,2,Medium,Medium,Public,Neutral,2,No,College,Near,Male,7.4,25.92,0,7.33,0.0686,0.0686
+18,67,Low,Low,Yes,9,6.8,Low,Yes,2,Low,High,Private,Negative,2,No,Postgraduate,Near,Male,6.1,12.06,1,6.17,0.0685,-0.0685
+31,84,Low,Medium,Yes,8,9.8,Low,Yes,1,Medium,Medium,Public,Positive,4,No,Postgraduate,Near,Female,7.3,26.04,0,7.24,0.0648,0.0648
+23,91,Low,High,Yes,9,6.7,Low,Yes,2,Low,Medium,Public,Neutral,4,No,High School,Near,Female,7.0,20.93,0,6.94,0.0647,0.0647
+24,67,High,Medium,Yes,4,7.8,Low,Yes,1,Low,High,Public,Positive,2,No,High School,Near,Female,6.7,16.08,0,6.64,0.0642,0.0642
+29,80,Medium,Medium,Yes,6,7.1,Medium,Yes,0,Medium,Medium,Public,Positive,3,No,College,Moderate,Female,7.0,23.2,0,6.94,0.0639,0.0639
+19,76,Low,High,Yes,10,7.0,Low,Yes,1,Low,Medium,Public,Negative,3,No,College,Far,Female,6.3,14.44,1,6.36,0.0617,-0.0617
+21,72,Medium,Medium,Yes,5,5.7,Medium,Yes,1,High,Medium,Public,Neutral,5,Yes,College,Moderate,Male,6.4,15.12,1,6.46,0.061,-0.061
+15,69,Low,Medium,Yes,9,5.2,Medium,Yes,0,High,Medium,Public,Neutral,3,No,College,Near,Female,6.1,10.35,1,6.16,0.0606,-0.0606
+15,87,Low,Medium,No,4,5.4,Medium,Yes,1,Medium,Medium,Public,Neutral,6,No,High School,Moderate,Male,6.5,13.05,0,6.44,0.0597,0.0597
+15,83,Medium,Medium,Yes,7,5.7,Low,Yes,0,Medium,Medium,Private,Positive,3,No,Postgraduate,Near,Male,6.5,12.45,0,6.56,0.0595,-0.0595
+14,62,Medium,Medium,Yes,6,7.8,Medium,Yes,0,High,Medium,Public,Positive,2,No,College,Near,Female,6.3,8.68,1,6.24,0.059,0.059
+19,84,Medium,Medium,Yes,6,8.4,Medium,Yes,3,Medium,High,Public,Neutral,2,No,Postgraduate,Moderate,Male,6.9,15.96,0,6.96,0.0586,-0.0586
+24,71,Medium,Low,No,9,8.0,Medium,Yes,2,Medium,High,Private,Positive,3,No,High School,Near,Female,6.6,17.04,0,6.66,0.0581,-0.0581

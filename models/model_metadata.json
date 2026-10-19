@@ -1,37 +1,38 @@
 {
-  "model_name": "XGBoost with Imblearn SMOTE Pipeline",
-  "stage": 1,
-  "task": "Academic Early Warning (Binary Classification)",
-  "features": [
-    "weighted_final_score",
-    "gpa_credits",
-    "gap_process_exam",
-    "submitted_count",
-    "attendance_rate",
-    "total_clicks",
-    "num_of_prev_attempts",
-    "studied_credits",
-    "vle_engagement_score",
-    "vle_drop_ratio"
-  ],
-  "target": "is_dropout",
-  "optimal_threshold": 0.38,
-  "test_metrics": {
-    "accuracy": 0.9213,
-    "precision": 0.9381,
-    "recall": 0.9109,
-    "f1_score": 0.9243,
-    "roc_auc": 0.975
-  },
-  "confusion_matrix": {
-    "tn": 2153,
-    "fp": 155,
-    "fn": 230,
-    "tp": 2351
+  "project": "He thong Ho tro Hoc tap Lop 12",
+  "version": "2.0",
+  "updated_at": "2026-10-19",
+  "scope": "Hoc sinh Lop 12 Viet Nam (1 hoc ky)",
+  "dataset": "StudentPerformanceFactors.csv",
+  "stage1": {
+    "project": "He thong Ho tro Hoc tap Lop 12",
+    "stage": 1,
+    "task": "Binary Classification (at_risk < 6.5)",
+    "target_column": "at_risk",
+    "features_count": 20,
+    "winning_algorithm": "Logistic Regression + SMOTE",
+    "optimal_threshold": 0.53,
+    "dev_blackbox_metrics": {
+      "roc_auc": 0.9969,
+      "recall": 0.9868,
+      "precision": 0.9317,
+      "f1_score": 0.9585
+    },
+    "test_metrics": {
+      "roc_auc": 0.9974,
+      "recall": 0.9771,
+      "precision": 0.9771,
+      "f1_score": 0.9771
+    }
   },
   "stage2": {
-    "model_name": "Contextual Ridge Regression (alpha=1.0) with ColumnTransformer",
-    "task": "Final Exam Score Prediction & Contextual What-If Simulation (Regression)",
+    "project": "He thong Ho tro Hoc tap Lop 12",
+    "stage": 2,
+    "task": "Regression + What-If Simulator",
+    "target_column": "Exam_Score",
+    "scale": "0-10",
+    "algorithm": "Ridge(alpha=1.0) with Huber noise-filtered training",
+    "features_total": 20,
     "actionable_features": [
       "Hours_Studied",
       "Sleep_Hours",
@@ -41,66 +42,32 @@
     ],
     "context_features": [
       "Previous_Scores",
+      "Physical_Activity",
       "Access_to_Resources",
       "Parental_Involvement",
       "Teacher_Quality",
       "Family_Income",
       "Motivation_Level",
+      "Parental_Education_Level",
       "Internet_Access",
       "Learning_Disabilities",
       "Extracurricular_Activities",
-      "Peer_Influence"
+      "Peer_Influence",
+      "School_Type",
+      "Distance_from_Home",
+      "Gender"
     ],
-    "all_features": [
-      "Hours_Studied",
-      "Sleep_Hours",
-      "Attendance",
-      "Tutoring_Sessions",
-      "effective_study_index",
-      "Previous_Scores",
-      "Access_to_Resources",
-      "Parental_Involvement",
-      "Teacher_Quality",
-      "Family_Income",
-      "Motivation_Level",
-      "Internet_Access",
-      "Learning_Disabilities",
-      "Extracurricular_Activities",
-      "Peer_Influence"
-    ],
-    "target": "Exam_Score",
-    "pass_threshold": 6.0,
-    "safe_target_threshold": 6.5,
     "test_metrics_raw": {
-      "r2_score": 0.6553,
-      "rmse": 0.2276,
-      "mae": 0.0744
+      "mae": 0.0506,
+      "rmse": 0.2440,
+      "r2": 0.6666,
+      "sample_count": 992
     },
-    "test_metrics_clean": {
-      "r2_score": 0.944,
-      "rmse": 0.0798,
-      "mae": 0.0539
-    }
-  },
-  "stage1": {
-    "project": "He thong Ho tro Hoc tap Lop 12",
-    "stage": 1,
-    "task": "Binary Classification (at_risk < 6.5)",
-    "target_column": "at_risk",
-    "features_count": 20,
-    "winning_algorithm": "Logistic Regression",
-    "optimal_threshold": 0.53,
-    "dev_blackbox_metrics": {
-      "roc_auc": 0.9968503745500535,
-      "recall": 0.9868421052631579,
-      "precision": 0.9316770186335404,
-      "f1_score": 0.9584664536741214
-    },
-    "test_metrics": {
-      "roc_auc": 0.9974219472299268,
-      "recall": 0.9770642201834863,
-      "precision": 0.9770642201834863,
-      "f1_score": 0.9770642201834863
+    "test_metrics_sensitivity_clean": {
+      "mae": 0.0270,
+      "r2": 0.9909,
+      "noise_cases_excluded": 10,
+      "sample_count": 982
     }
   }
 }
