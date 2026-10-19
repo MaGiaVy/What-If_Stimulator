@@ -1,299 +1,299 @@
-Hours_Studied,Sleep_Hours,Attendance,Previous_Scores,Tutoring_Sessions,effective_study_index,Exam_Score
-21,7,95,8.1,0,19.95,7.1
-13,6,72,9.3,1,9.36,6.1
-22,5,78,6.1,2,17.16,6.8
-18,6,98,8.7,0,17.64,7.0
-24,6,89,6.3,2,21.36,7.2
-18,5,94,8.1,0,16.92,7.1
-19,5,76,6.6,2,14.44,6.6
-23,9,97,9.4,2,22.31,7.3
-12,7,85,5.4,4,10.2,6.6
-19,6,100,6.6,0,19.0,6.8
-20,7,83,10.0,4,16.6,6.8
-25,7,98,9.1,2,24.5,7.2
-21,6,83,9.5,4,17.43,7.0
-22,5,73,9.1,1,16.06,6.7
-24,10,60,6.0,3,14.4,6.5
-11,4,85,9.2,0,9.35,6.4
-18,5,98,6.6,0,17.64,6.9
-18,7,91,7.1,0,16.38,7.0
-22,8,63,9.7,5,13.86,6.9
-22,7,79,7.5,1,17.38,6.5
-18,10,85,5.5,3,15.3,6.7
-19,4,64,7.1,1,12.16,6.5
-31,4,96,5.9,3,29.76,7.5
-19,10,89,7.4,1,16.91,6.6
-27,7,86,7.2,1,23.22,6.9
-29,8,97,5.8,1,28.13,7.2
-27,8,78,5.5,3,21.06,6.9
-14,8,82,8.3,0,11.48,6.4
-21,5,85,7.5,1,17.85,7.0
-9,8,70,8.2,2,6.3,6.2
-20,9,74,6.0,1,14.8,6.4
-24,7,90,5.5,1,21.6,6.8
-14,7,62,7.9,2,8.68,6.2
-18,4,70,5.6,1,12.6,6.5
-29,6,69,9.6,1,20.01,7.0
-20,8,93,6.3,0,18.6,6.6
-23,6,98,6.6,1,22.54,7.0
-29,8,99,9.8,5,28.71,7.7
-19,8,68,7.5,1,12.92,6.4
-22,5,72,6.7,2,15.84,6.7
-27,9,61,7.0,0,16.47,6.4
-18,9,97,8.8,0,17.46,6.7
-29,4,68,5.3,1,19.72,6.6
-21,7,87,10.0,1,18.27,7.0
-18,8,100,6.6,3,18.0,6.9
-19,8,88,9.4,1,16.72,7.0
-17,7,86,9.8,2,14.62,7.1
-18,6,76,7.9,1,13.68,6.7
-19,7,90,8.1,4,17.1,7.1
-17,5,65,6.2,2,11.05,6.3
-26,9,73,6.8,4,18.98,6.8
-20,4,90,8.3,1,18.0,6.9
-29,7,81,6.8,2,23.49,7.2
-20,8,95,8.3,1,19.0,6.9
-23,6,77,7.1,3,17.71,6.8
-19,9,69,9.6,0,13.11,6.6
-19,7,79,9.0,1,15.01,6.8
-21,6,84,6.1,1,17.64,6.8
-29,7,90,9.4,1,26.1,7.3
-26,6,78,7.2,1,20.28,6.7
-19,6,76,5.3,2,14.44,6.6
-24,5,70,6.2,2,16.8,6.5
-16,9,99,5.7,4,15.84,7.1
-20,6,94,9.6,2,18.8,7.0
-16,8,70,9.8,2,11.2,6.5
-32,5,90,9.8,0,28.8,7.4
-26,4,71,8.3,1,18.46,6.6
-24,7,90,9.3,1,21.6,7.1
-31,5,84,5.0,2,26.04,6.9
-23,8,73,7.8,0,16.79,6.7
-11,8,71,5.5,1,7.81,8.7
-4,6,62,7.8,3,2.48,5.8
-26,8,73,9.1,4,18.98,6.9
-14,8,71,8.5,2,9.94,6.4
-17,9,78,7.6,4,13.26,6.6
-30,9,88,9.1,3,26.4,7.3
-38,6,86,8.8,1,32.68,7.4
-16,7,62,8.9,0,9.92,5.9
-30,5,63,9.7,2,18.9,6.7
-24,8,63,9.9,2,15.12,6.6
-16,9,67,9.4,1,10.72,6.6
-28,6,94,6.5,1,26.32,7.3
-23,7,68,5.3,3,15.64,6.6
-16,7,75,9.1,2,12.0,6.5
-13,9,79,5.3,1,10.27,6.3
-18,7,91,6.2,3,16.38,7.1
-11,7,78,9.8,2,8.58,6.4
-10,6,68,9.6,1,6.8,6.1
-11,10,85,8.0,0,9.35,6.3
-25,6,73,7.1,0,18.25,6.7
-14,9,60,6.7,3,8.4,6.1
-15,8,94,6.4,2,14.1,6.8
-21,7,81,8.5,1,17.01,6.8
-23,7,67,9.8,4,15.41,6.6
-19,8,65,9.3,1,12.35,6.4
-18,9,67,6.8,2,12.06,6.1
-24,7,93,7.6,2,22.32,7.0
-19,8,75,9.8,1,14.25,6.7
-11,9,61,9.8,0,6.71,6.1
-21,9,84,9.8,1,17.64,6.7
-22,6,86,5.4,2,18.92,6.4
-18,6,69,8.4,2,12.42,6.5
-16,6,82,7.5,3,13.12,6.8
-20,8,89,5.2,2,17.8,6.9
-14,9,70,9.1,2,9.8,6.5
-24,6,84,7.4,2,20.16,6.9
-15,8,78,9.7,1,11.7,6.8
-20,7,100,7.3,1,20.0,7.1
-28,8,89,8.2,0,24.92,7.2
-22,9,75,6.6,0,16.5,6.7
-23,8,70,7.5,0,16.1,6.5
-26,7,65,5.3,3,16.9,6.4
-13,6,70,8.1,2,9.1,6.6
-18,6,72,8.5,1,12.96,6.8
-21,7,75,7.0,1,15.75,6.9
-25,7,77,5.4,2,19.25,6.6
-17,6,84,8.5,1,14.28,6.7
-20,4,90,5.6,0,18.0,6.8
-11,8,82,8.8,1,9.02,6.4
-22,9,79,9.4,1,17.38,6.8
-22,5,78,9.6,0,17.16,6.7
-15,7,71,10.0,2,10.65,6.6
-28,8,71,6.9,1,19.88,6.7
-27,7,81,9.7,1,21.87,7.0
-9,7,77,8.0,3,6.93,6.1
-27,9,65,5.1,2,17.55,6.6
-25,8,75,9.6,1,18.75,6.8
-23,10,91,6.7,2,20.93,7.2
-8,6,80,8.6,2,6.4,6.4
-17,8,64,6.7,3,10.88,6.4
-12,6,68,6.8,2,8.16,6.4
-13,4,90,9.9,1,11.7,6.9
-11,8,97,6.0,0,10.67,6.7
-15,6,75,8.3,1,11.25,6.5
-25,5,64,8.9,2,16.0,6.6
-16,9,67,9.9,2,10.72,6.4
-29,7,77,5.2,5,22.33,7.0
-30,7,82,7.1,3,24.6,7.2
-24,8,61,8.8,1,14.64,6.4
-9,7,78,10.0,2,7.02,6.6
-19,6,97,6.6,2,18.43,7.2
-24,6,71,9.1,3,17.04,6.7
-29,7,86,5.2,1,24.94,6.8
-18,8,94,7.7,3,16.92,7.4
-7,9,86,8.8,2,6.02,6.3
-15,8,72,5.0,2,10.8,6.5
-20,6,68,9.5,0,13.6,6.6
-13,9,64,8.3,1,8.32,6.4
-25,8,81,7.9,1,20.25,6.8
-25,8,90,8.3,2,22.5,7.3
-25,7,99,8.6,3,24.75,7.5
-20,8,82,8.5,1,16.4,6.6
-25,6,88,5.3,2,22.0,7.0
-29,7,95,9.1,1,27.55,7.3
-25,8,75,7.5,2,18.75,6.8
-21,9,96,8.7,0,20.16,7.0
-31,9,92,5.4,1,28.52,7.1
-17,8,63,5.9,1,10.71,6.2
-24,7,93,7.7,0,22.32,6.8
-23,6,68,8.6,0,15.64,6.8
-19,6,72,6.6,0,13.68,6.4
-24,7,78,5.3,0,18.72,6.6
-18,7,68,7.2,0,12.24,6.4
-22,8,60,8.9,2,13.2,6.6
-8,5,82,8.6,0,6.56,6.4
-24,8,88,7.4,0,21.12,7.1
-27,6,67,9.0,2,18.09,6.7
-25,7,62,9.5,1,15.5,6.5
-23,9,74,6.1,0,17.02,6.4
-13,8,63,8.8,0,8.19,5.9
-24,4,99,9.2,2,23.76,7.2
-15,7,73,7.6,2,10.95,6.4
-30,9,71,9.5,1,21.3,7.0
-32,7,61,8.0,0,19.52,6.8
-27,9,68,9.5,1,18.36,6.7
-23,7,70,7.5,0,16.1,6.6
-12,9,79,8.0,1,9.48,6.3
-14,8,89,5.9,1,12.46,6.7
-19,7,92,8.9,0,17.48,6.9
-16,10,68,6.4,2,10.88,6.1
-14,9,73,8.2,1,10.22,6.4
-21,6,65,10.0,3,13.65,6.7
-20,4,95,8.9,3,19.0,6.8
-23,7,64,5.5,0,14.72,6.5
-3,7,83,5.9,2,2.49,6.3
-21,7,69,5.2,0,14.49,6.4
-21,9,91,7.4,2,19.11,6.9
-18,7,78,8.5,3,14.04,6.7
-30,7,67,9.7,2,20.1,6.9
-23,6,79,8.7,2,18.17,6.8
-12,6,79,5.5,1,9.48,6.2
-24,5,93,6.2,1,22.32,7.0
-13,8,96,6.2,0,12.48,6.9
-13,6,64,5.7,1,8.32,5.8
-17,6,66,5.4,2,11.22,6.3
-10,7,89,8.8,2,8.9,7.1
-23,4,71,7.9,2,16.33,6.7
-21,8,88,9.4,0,18.48,7.0
-20,9,76,6.4,2,15.2,6.4
-23,7,77,7.9,0,17.71,6.6
-20,6,70,7.8,0,14.0,6.6
-19,7,96,9.5,3,18.24,7.3
-23,8,72,6.4,1,16.56,6.6
-17,6,77,5.4,3,13.09,6.4
-29,7,90,7.6,0,26.1,7.1
-27,8,81,7.8,0,21.87,6.8
-27,5,95,6.6,3,25.65,7.2
-24,6,95,9.6,3,22.8,7.3
-23,6,91,5.7,2,20.93,6.9
-16,6,67,8.8,0,10.72,6.5
-24,9,88,7.1,2,21.12,7.2
-19,6,91,5.9,5,17.29,7.0
-21,7,81,8.6,1,17.01,6.9
-14,4,82,9.6,2,11.48,6.6
-20,6,81,6.1,0,16.2,6.3
-22,7,97,9.8,0,21.34,7.1
-29,8,67,8.3,2,19.43,6.7
-18,5,79,7.7,1,14.22,6.5
-20,6,70,9.2,2,14.0,6.7
-19,6,62,8.2,0,11.78,6.2
-22,7,86,5.6,1,18.92,6.9
-20,7,86,5.3,1,17.2,6.5
-21,6,67,6.1,0,14.07,6.1
-24,6,75,5.1,1,18.0,6.7
-33,7,62,7.4,2,20.46,6.6
-19,9,91,6.7,0,17.29,6.6
-22,6,95,6.9,3,20.9,7.0
-19,8,85,9.8,2,16.15,6.7
-2,7,98,8.0,2,1.96,6.6
-29,10,92,6.3,1,26.68,7.1
-17,7,75,6.9,1,12.75,6.6
-23,7,63,10.0,2,14.49,6.9
-27,7,96,9.3,2,25.92,7.4
-18,8,74,7.5,1,13.32,6.8
-23,7,76,5.7,1,17.48,6.6
-20,8,81,6.8,0,16.2,6.8
-16,8,82,7.3,3,13.12,6.7
-28,4,74,6.2,1,20.72,6.5
-9,8,86,8.6,1,7.74,6.5
-23,6,96,9.3,5,22.08,7.2
-31,9,69,8.1,2,21.39,6.7
-25,8,95,9.6,1,23.75,7.4
-29,7,64,7.4,0,18.56,6.9
-18,5,73,6.5,1,13.14,6.3
-19,8,81,6.1,3,15.39,6.9
-1,8,81,6.6,1,0.81,6.0
-21,8,63,9.5,2,13.23,6.6
-20,4,98,7.3,2,19.6,7.0
-27,6,98,9.3,5,26.46,10.0
-23,7,70,7.3,1,16.1,6.8
-15,6,91,8.0,0,13.65,6.9
-21,8,77,8.8,2,16.17,6.8
-24,7,80,5.3,2,19.2,6.7
-21,8,71,8.6,2,14.91,6.6
-19,7,94,6.2,0,17.86,6.5
-12,6,81,8.5,0,9.72,6.4
-19,6,78,5.8,1,14.82,6.6
-25,7,66,8.4,2,16.5,6.7
-26,8,83,8.3,2,21.58,7.1
-22,9,76,8.7,2,16.72,6.5
-14,7,61,7.1,0,8.54,6.0
-22,7,79,7.1,2,17.38,6.6
-21,6,76,7.4,2,15.96,6.7
-21,6,93,6.7,1,19.53,7.3
-19,8,83,5.4,1,15.77,6.6
-26,5,87,7.0,1,22.62,7.0
-17,8,68,7.0,2,11.56,6.4
-13,8,61,8.4,1,7.93,6.0
-35,5,84,8.6,1,29.4,7.2
-32,8,65,5.7,2,20.8,6.5
-37,8,94,5.2,1,34.78,7.6
-18,6,81,8.6,3,14.58,6.9
-21,6,93,8.7,1,19.53,7.0
-23,7,76,8.6,1,17.48,6.4
-17,10,82,9.4,1,13.94,6.6
-20,8,72,9.0,2,14.4,6.5
-31,9,81,7.0,1,25.11,7.0
-14,5,77,8.9,0,10.78,6.7
-14,9,63,7.2,3,8.82,5.9
-22,6,82,7.8,3,18.04,6.9
-19,5,96,8.6,3,18.24,6.9
-18,10,99,5.1,1,17.82,7.1
-25,6,84,8.4,2,21.0,7.0
-25,8,72,9.4,2,18.0,7.0
-18,4,83,6.5,3,14.94,6.8
-17,10,64,6.3,0,10.88,6.2
-24,7,68,5.1,0,16.32,6.3
-22,6,60,9.2,2,13.2,6.3
-27,7,73,9.1,2,19.71,6.8
-25,8,78,9.1,3,19.5,6.9
-16,7,64,6.5,2,10.24,6.3
-24,5,72,7.3,2,17.28,6.7
-18,6,66,6.8,1,11.88,6.1
-15,4,81,8.9,0,12.15,6.6
-19,9,65,5.7,1,12.35,6.1
-19,4,85,7.1,1,16.15,6.6
-24,6,79,9.9,2,18.96,6.8
-18,8,69,5.9,1,12.42,6.0
+Hours_Studied,Attendance,Parental_Involvement,Access_to_Resources,Extracurricular_Activities,Sleep_Hours,Previous_Scores,Motivation_Level,Internet_Access,Tutoring_Sessions,Family_Income,Teacher_Quality,School_Type,Peer_Influence,Physical_Activity,Learning_Disabilities,Parental_Education_Level,Distance_from_Home,Gender,effective_study_index,sleep_group,Exam_Score
+21,95,High,Medium,Yes,7,8.1,Medium,Yes,0,Medium,Medium,Public,Neutral,3,No,High School,Near,Male,19.95,Ngủ chuẩn (6 – 8h),7.1
+13,72,Low,Medium,No,6,9.3,Low,Yes,1,Low,Medium,Public,Negative,3,No,High School,Near,Male,9.36,Ngủ chuẩn (6 – 8h),6.1
+22,78,Medium,High,Yes,5,6.1,Low,Yes,2,Low,Medium,Public,Neutral,4,No,College,Near,Male,17.16,Thiếu ngủ (≤ 5h),6.8
+18,98,Low,High,Yes,6,8.7,Medium,Yes,0,Medium,Medium,Public,Neutral,1,No,High School,Near,Male,17.64,Ngủ chuẩn (6 – 8h),7.0
+24,89,Medium,High,Yes,6,6.3,Medium,Yes,2,High,Medium,Private,Positive,3,No,College,Near,Male,21.36,Ngủ chuẩn (6 – 8h),7.2
+18,94,High,High,Yes,5,8.1,Medium,Yes,0,High,Low,Public,Negative,5,No,High School,Near,Female,16.92,Thiếu ngủ (≤ 5h),7.1
+19,76,Medium,Low,Yes,5,6.6,Medium,Yes,2,Medium,Medium,Private,Positive,4,No,College,Near,Female,14.44,Thiếu ngủ (≤ 5h),6.6
+23,97,High,Low,Yes,9,9.4,High,Yes,2,Low,Medium,Public,Positive,3,No,High School,Moderate,Male,22.31,Ngủ nhiều (> 8h),7.3
+12,85,Medium,Medium,Yes,7,5.4,Medium,Yes,4,Low,High,Public,Positive,3,No,College,Moderate,Male,10.2,Ngủ chuẩn (6 – 8h),6.6
+19,100,Medium,Low,No,6,6.6,High,Yes,0,Low,Medium,Public,Neutral,3,No,High School,Moderate,Male,19.0,Ngủ chuẩn (6 – 8h),6.8
+20,83,Low,Medium,No,7,10.0,Medium,Yes,4,Low,Medium,Public,Negative,3,No,College,Near,Male,16.6,Ngủ chuẩn (6 – 8h),6.8
+25,98,Low,Low,Yes,7,9.1,Medium,Yes,2,Low,Low,Public,Positive,3,No,Postgraduate,Near,Female,24.5,Ngủ chuẩn (6 – 8h),7.2
+21,83,Medium,Medium,No,6,9.5,High,Yes,4,High,High,Public,Neutral,2,No,High School,Far,Female,17.43,Ngủ chuẩn (6 – 8h),7.0
+22,73,High,Low,No,5,9.1,Medium,Yes,1,Medium,Medium,Public,Positive,3,No,Postgraduate,Moderate,Male,16.06,Thiếu ngủ (≤ 5h),6.7
+24,60,Medium,Medium,Yes,10,6.0,Low,Yes,3,Low,High,Private,Neutral,2,No,Postgraduate,Near,Female,14.4,Ngủ nhiều (> 8h),6.5
+11,85,Medium,Low,Yes,4,9.2,Low,Yes,0,Medium,High,Public,Neutral,1,No,College,Near,Male,9.35,Thiếu ngủ (≤ 5h),6.4
+18,98,Medium,High,Yes,5,6.6,Medium,Yes,0,Medium,Medium,Private,Negative,0,No,Postgraduate,Near,Male,17.64,Thiếu ngủ (≤ 5h),6.9
+18,91,High,High,Yes,7,7.1,High,Yes,0,Medium,Medium,Public,Neutral,3,No,High School,Near,Male,16.38,Ngủ chuẩn (6 – 8h),7.0
+22,63,Medium,High,Yes,8,9.7,High,Yes,5,Medium,Medium,Private,Neutral,3,No,High School,Near,Male,13.86,Ngủ chuẩn (6 – 8h),6.9
+22,79,Low,Medium,No,7,7.5,Low,Yes,1,Low,High,Private,Neutral,3,No,High School,Near,Female,17.38,Ngủ chuẩn (6 – 8h),6.5
+18,85,Medium,Low,Yes,10,5.5,High,Yes,3,Medium,High,Public,Neutral,3,No,High School,Near,Male,15.3,Ngủ nhiều (> 8h),6.7
+19,64,Medium,High,Yes,4,7.1,Medium,Yes,1,High,Medium,Public,Neutral,3,No,High School,Near,Male,12.16,Thiếu ngủ (≤ 5h),6.5
+31,96,High,Medium,Yes,4,5.9,Medium,Yes,3,Low,Medium,Private,Neutral,5,No,High School,Near,Female,29.76,Thiếu ngủ (≤ 5h),7.5
+19,89,Medium,Low,No,10,7.4,Medium,Yes,1,Low,Medium,Public,Positive,2,No,High School,Moderate,Female,16.91,Ngủ nhiều (> 8h),6.6
+27,86,Medium,Medium,No,7,7.2,Low,Yes,1,Medium,High,Public,Positive,4,No,High School,Far,Male,23.22,Ngủ chuẩn (6 – 8h),6.9
+29,97,Medium,Medium,No,8,5.8,Medium,Yes,1,High,Medium,Private,Negative,4,No,College,Moderate,Female,28.13,Ngủ chuẩn (6 – 8h),7.2
+27,78,Medium,Medium,Yes,8,5.5,Low,Yes,3,High,Medium,Public,Neutral,2,No,Postgraduate,Moderate,Male,21.06,Ngủ chuẩn (6 – 8h),6.9
+14,82,Medium,Medium,Yes,8,8.3,Medium,Yes,0,Medium,Medium,Public,Negative,2,No,High School,Moderate,Male,11.48,Ngủ chuẩn (6 – 8h),6.4
+21,85,High,Medium,Yes,5,7.5,Low,Yes,1,High,High,Public,Positive,2,No,High School,Moderate,Female,17.85,Thiếu ngủ (≤ 5h),7.0
+9,70,High,Medium,No,8,8.2,Low,No,2,High,High,Public,Negative,2,No,High School,Near,Female,6.3,Ngủ chuẩn (6 – 8h),6.2
+20,74,Medium,High,Yes,9,6.0,Medium,No,1,Low,Medium,Public,Positive,3,No,High School,Moderate,Female,14.8,Ngủ nhiều (> 8h),6.4
+24,90,Low,Medium,Yes,7,5.5,Medium,Yes,1,High,Medium,Public,Negative,2,No,Postgraduate,Far,Male,21.6,Ngủ chuẩn (6 – 8h),6.8
+14,62,Medium,High,Yes,7,7.9,Low,Yes,2,Medium,Medium,Private,Positive,2,No,High School,Moderate,Female,8.68,Ngủ chuẩn (6 – 8h),6.2
+18,70,Medium,Medium,Yes,4,5.6,Medium,Yes,1,High,High,Public,Neutral,4,No,High School,Near,Male,12.6,Thiếu ngủ (≤ 5h),6.5
+29,69,Medium,High,No,6,9.6,Low,Yes,1,High,Medium,Public,Positive,4,No,High School,Near,Female,20.01,Ngủ chuẩn (6 – 8h),7.0
+20,93,Medium,Low,No,8,6.3,Medium,Yes,0,Low,High,Public,Negative,3,No,High School,Moderate,Male,18.6,Ngủ chuẩn (6 – 8h),6.6
+23,98,Medium,High,No,6,6.6,Medium,Yes,1,Low,Medium,Public,Neutral,1,No,High School,Moderate,Male,22.54,Ngủ chuẩn (6 – 8h),7.0
+29,99,High,Medium,Yes,8,9.8,High,No,5,Low,Low,Public,Neutral,2,No,Postgraduate,Near,Male,28.71,Ngủ chuẩn (6 – 8h),7.7
+19,68,Medium,Low,Yes,8,7.5,Low,Yes,1,Medium,Medium,Private,Neutral,4,No,Postgraduate,Near,Male,12.92,Ngủ chuẩn (6 – 8h),6.4
+22,72,High,Medium,Yes,5,6.7,Low,Yes,2,Medium,Medium,Public,Neutral,4,No,College,Near,Female,15.84,Thiếu ngủ (≤ 5h),6.7
+27,61,Medium,Medium,Yes,9,7.0,Medium,Yes,0,Medium,Medium,Public,Neutral,2,No,High School,Near,Male,16.47,Ngủ nhiều (> 8h),6.4
+18,97,Medium,Low,No,9,8.8,Medium,Yes,0,Low,Medium,Public,Neutral,4,No,High School,Moderate,Female,17.46,Ngủ nhiều (> 8h),6.7
+29,68,Medium,High,Yes,4,5.3,Medium,Yes,1,Medium,Medium,Private,Negative,4,No,High School,Far,Male,19.72,Thiếu ngủ (≤ 5h),6.6
+21,87,Medium,High,No,7,10.0,Low,Yes,1,Low,Medium,Public,Positive,3,No,High School,Near,Male,18.27,Ngủ chuẩn (6 – 8h),7.0
+18,100,Medium,Low,Yes,8,6.6,High,No,3,Low,Medium,Public,Negative,3,No,College,Near,Male,18.0,Ngủ chuẩn (6 – 8h),6.9
+19,88,Medium,High,No,8,9.4,High,Yes,1,Medium,Medium,Public,Neutral,3,No,High School,Moderate,Male,16.72,Ngủ chuẩn (6 – 8h),7.0
+17,86,Medium,High,No,7,9.8,Medium,Yes,2,Low,High,Public,Positive,5,No,Postgraduate,Moderate,Male,14.62,Ngủ chuẩn (6 – 8h),7.1
+18,76,High,High,No,6,7.9,Medium,Yes,1,Medium,Medium,Private,Positive,2,No,Postgraduate,Far,Female,13.68,Ngủ chuẩn (6 – 8h),6.7
+19,90,High,Low,No,7,8.1,Medium,Yes,4,High,High,Public,Neutral,4,Yes,College,Near,Female,17.1,Ngủ chuẩn (6 – 8h),7.1
+17,65,Medium,Medium,No,5,6.2,Medium,Yes,2,Medium,Medium,Public,Positive,4,No,High School,Near,Female,11.05,Thiếu ngủ (≤ 5h),6.3
+26,73,Medium,Medium,Yes,9,6.8,High,Yes,4,Medium,Medium,Public,Neutral,2,No,High School,Far,Male,18.98,Ngủ nhiều (> 8h),6.8
+20,90,Medium,Medium,Yes,4,8.3,High,Yes,1,Low,Low,Public,Positive,3,No,College,Near,Male,18.0,Thiếu ngủ (≤ 5h),6.9
+29,81,High,Medium,No,7,6.8,Medium,Yes,2,Medium,Medium,Public,Neutral,4,No,Postgraduate,Near,Male,23.49,Ngủ chuẩn (6 – 8h),7.2
+20,95,Low,Low,No,8,8.3,High,Yes,1,Medium,Medium,Private,Positive,3,No,High School,Near,Female,19.0,Ngủ chuẩn (6 – 8h),6.9
+23,77,Medium,High,No,6,7.1,Low,Yes,3,Medium,Low,Private,Positive,4,No,High School,Moderate,Male,17.71,Ngủ chuẩn (6 – 8h),6.8
+19,69,Medium,Medium,Yes,9,9.6,Medium,Yes,0,High,High,Private,Positive,3,No,High School,Moderate,Female,13.11,Ngủ nhiều (> 8h),6.6
+19,79,Medium,High,Yes,7,9.0,Medium,Yes,1,High,Medium,Public,Negative,4,No,College,Far,Female,15.01,Ngủ chuẩn (6 – 8h),6.8
+21,84,High,High,Yes,6,6.1,Low,Yes,1,Medium,High,Private,Negative,4,No,High School,Moderate,Female,17.64,Ngủ chuẩn (6 – 8h),6.8
+29,90,High,Medium,Yes,7,9.4,Medium,Yes,1,Low,Low,Private,Neutral,4,No,High School,Near,Female,26.1,Ngủ chuẩn (6 – 8h),7.3
+26,78,Medium,Medium,No,6,7.2,Medium,Yes,1,Low,Medium,Private,Neutral,3,No,High School,Moderate,Female,20.28,Ngủ chuẩn (6 – 8h),6.7
+19,76,Medium,Medium,Yes,6,5.3,Medium,Yes,2,Medium,Medium,Public,Positive,5,No,High School,Near,Male,14.44,Ngủ chuẩn (6 – 8h),6.6
+24,70,Medium,High,No,5,6.2,Medium,Yes,2,Low,Medium,Private,Negative,4,Yes,College,Near,Male,16.8,Thiếu ngủ (≤ 5h),6.5
+16,99,High,Medium,No,9,5.7,High,No,4,Medium,Medium,Public,Positive,3,No,College,Near,Female,15.84,Ngủ nhiều (> 8h),7.1
+20,94,Low,Medium,Yes,6,9.6,Medium,Yes,2,Medium,Medium,Private,Negative,3,No,College,Near,Male,18.8,Ngủ chuẩn (6 – 8h),7.0
+16,70,Medium,Medium,Yes,8,9.8,Medium,Yes,2,Medium,Medium,Public,Positive,3,No,High School,Moderate,Male,11.2,Ngủ chuẩn (6 – 8h),6.5
+32,90,Medium,Medium,Yes,5,9.8,High,Yes,0,Medium,High,Public,Neutral,3,No,College,Moderate,Male,28.8,Thiếu ngủ (≤ 5h),7.4
+26,71,High,Low,Yes,4,8.3,Low,Yes,1,Medium,Medium,Public,Negative,3,No,College,Moderate,Male,18.46,Thiếu ngủ (≤ 5h),6.6
+24,90,Medium,High,No,7,9.3,Low,Yes,1,Low,High,Public,Neutral,2,Yes,Postgraduate,Near,Male,21.6,Ngủ chuẩn (6 – 8h),7.1
+31,84,Medium,Medium,No,5,5.0,Medium,No,2,Low,High,Private,Positive,3,No,High School,Near,Male,26.04,Thiếu ngủ (≤ 5h),6.9
+23,73,High,High,No,8,7.8,Low,Yes,0,High,Medium,Public,Neutral,4,No,High School,Moderate,Female,16.79,Ngủ chuẩn (6 – 8h),6.7
+11,71,Low,Medium,Yes,8,5.5,Medium,Yes,1,Low,Medium,Public,Negative,3,No,College,Near,Female,7.81,Ngủ chuẩn (6 – 8h),8.7
+4,62,Medium,Medium,No,6,7.8,High,Yes,3,High,Medium,Public,Neutral,2,No,High School,Far,Female,2.48,Ngủ chuẩn (6 – 8h),5.8
+26,73,High,Medium,No,8,9.1,Medium,Yes,4,Low,Low,Public,Neutral,5,No,High School,Moderate,Male,18.98,Ngủ chuẩn (6 – 8h),6.9
+14,71,Medium,Medium,Yes,8,8.5,Low,Yes,2,Medium,High,Public,Neutral,4,No,High School,Near,Male,9.94,Ngủ chuẩn (6 – 8h),6.4
+17,78,Low,Medium,Yes,9,7.6,Low,Yes,4,Medium,Medium,Public,Positive,2,No,College,Near,Male,13.26,Ngủ nhiều (> 8h),6.6
+30,88,Medium,Medium,No,9,9.1,Medium,Yes,3,Medium,Low,Public,Positive,3,No,High School,Near,Female,26.4,Ngủ nhiều (> 8h),7.3
+38,86,High,Medium,No,6,8.8,High,Yes,1,Low,High,Public,Negative,4,No,High School,Moderate,Female,32.68,Ngủ chuẩn (6 – 8h),7.4
+16,62,Low,Low,No,7,8.9,High,Yes,0,Medium,Medium,Public,Neutral,3,No,High School,Far,Female,9.92,Ngủ chuẩn (6 – 8h),5.9
+30,63,High,Low,No,5,9.7,High,Yes,2,Low,High,Public,Positive,2,Yes,College,Moderate,Female,18.9,Thiếu ngủ (≤ 5h),6.7
+24,63,Medium,Medium,No,8,9.9,Low,Yes,2,Low,High,Public,Neutral,1,No,Postgraduate,Near,Female,15.12,Ngủ chuẩn (6 – 8h),6.6
+16,67,Medium,High,Yes,9,9.4,High,Yes,1,Medium,Medium,Private,Neutral,2,No,Postgraduate,Near,Female,10.72,Ngủ nhiều (> 8h),6.6
+28,94,Medium,High,Yes,6,6.5,High,Yes,1,Low,High,Public,Positive,1,No,High School,Near,Female,26.32,Ngủ chuẩn (6 – 8h),7.3
+23,68,Medium,High,No,7,5.3,High,Yes,3,High,Medium,Public,Neutral,3,No,High School,Moderate,Female,15.64,Ngủ chuẩn (6 – 8h),6.6
+16,75,Medium,High,Yes,7,9.1,Low,Yes,2,Low,Low,Public,Positive,5,No,High School,Far,Male,12.0,Ngủ chuẩn (6 – 8h),6.5
+13,79,High,Medium,No,9,5.3,Medium,No,1,Medium,Medium,Private,Positive,2,No,College,Moderate,Male,10.27,Ngủ nhiều (> 8h),6.3
+18,91,High,High,Yes,7,6.2,Medium,Yes,3,Low,Medium,Private,Positive,3,No,High School,Near,Male,16.38,Ngủ chuẩn (6 – 8h),7.1
+11,78,Medium,Low,Yes,7,9.8,Low,Yes,2,Medium,Medium,Public,Neutral,3,No,High School,Near,Female,8.58,Ngủ chuẩn (6 – 8h),6.4
+10,68,Low,Medium,No,6,9.6,Low,Yes,1,High,Medium,Public,Neutral,3,No,College,Moderate,Male,6.8,Ngủ chuẩn (6 – 8h),6.1
+11,85,Medium,Low,No,10,8.0,Low,No,0,Low,High,Public,Positive,3,No,College,Near,Female,9.35,Ngủ nhiều (> 8h),6.3
+25,73,High,Medium,Yes,6,7.1,Low,Yes,0,Low,Medium,Private,Positive,3,No,College,Far,Female,18.25,Ngủ chuẩn (6 – 8h),6.7
+14,60,Low,Low,Yes,9,6.7,Low,Yes,3,High,High,Public,Positive,3,No,High School,Near,Female,8.4,Ngủ nhiều (> 8h),6.1
+15,94,Medium,High,Yes,8,6.4,Medium,Yes,2,Low,Medium,Public,Negative,1,No,College,Near,Male,14.1,Ngủ chuẩn (6 – 8h),6.8
+21,81,Medium,Medium,Yes,7,8.5,Medium,Yes,1,Low,High,Public,Negative,3,No,Postgraduate,Moderate,Male,17.01,Ngủ chuẩn (6 – 8h),6.8
+23,67,Medium,Medium,No,7,9.8,Low,Yes,4,Low,Medium,Private,Neutral,3,No,High School,Moderate,Male,15.41,Ngủ chuẩn (6 – 8h),6.6
+19,65,Low,Medium,No,8,9.3,Low,Yes,1,Medium,High,Private,Neutral,4,No,College,Near,Male,12.35,Ngủ chuẩn (6 – 8h),6.4
+18,67,Low,Low,Yes,9,6.8,Low,Yes,2,Low,High,Private,Negative,2,No,Postgraduate,Near,Male,12.06,Ngủ nhiều (> 8h),6.1
+24,93,Medium,Medium,Yes,7,7.6,High,Yes,2,Low,Medium,Public,Neutral,1,Yes,High School,Near,Male,22.32,Ngủ chuẩn (6 – 8h),7.0
+19,75,High,Medium,No,8,9.8,Low,Yes,1,Low,Medium,Public,Neutral,3,No,Postgraduate,Moderate,Male,14.25,Ngủ chuẩn (6 – 8h),6.7
+11,61,Medium,Medium,Yes,9,9.8,High,Yes,0,Medium,High,Public,Negative,2,No,High School,Moderate,Male,6.71,Ngủ nhiều (> 8h),6.1
+21,84,Low,High,No,9,9.8,Medium,Yes,1,Low,Medium,Public,Negative,3,No,High School,Moderate,Male,17.64,Ngủ nhiều (> 8h),6.7
+22,86,Low,Low,No,6,5.4,Medium,Yes,2,Medium,Medium,Public,Neutral,0,No,High School,Moderate,Male,18.92,Ngủ chuẩn (6 – 8h),6.4
+18,69,Medium,Medium,Yes,6,8.4,Medium,Yes,2,Low,Medium,Public,Positive,4,No,High School,Near,Male,12.42,Ngủ chuẩn (6 – 8h),6.5
+16,82,High,High,Yes,6,7.5,Low,Yes,3,Medium,Medium,Public,Neutral,3,No,College,Moderate,Female,13.12,Ngủ chuẩn (6 – 8h),6.8
+20,89,High,High,Yes,8,5.2,Low,Yes,2,Medium,Medium,Public,Negative,3,No,College,Moderate,Female,17.8,Ngủ chuẩn (6 – 8h),6.9
+14,70,Medium,Medium,Yes,9,9.1,High,Yes,2,Medium,Medium,Public,Neutral,4,No,High School,Near,Female,9.8,Ngủ nhiều (> 8h),6.5
+24,84,Medium,Medium,Yes,6,7.4,Medium,Yes,2,Medium,High,Public,Positive,2,No,High School,Far,Male,20.16,Ngủ chuẩn (6 – 8h),6.9
+15,78,Medium,High,No,8,9.7,Medium,Yes,1,Medium,Medium,Public,Neutral,4,No,Postgraduate,Near,Male,11.7,Ngủ chuẩn (6 – 8h),6.8
+20,100,Medium,Medium,Yes,7,7.3,Medium,Yes,1,Low,Medium,Public,Neutral,4,No,College,Near,Female,20.0,Ngủ chuẩn (6 – 8h),7.1
+28,89,High,High,No,8,8.2,Medium,Yes,0,Medium,Medium,Public,Negative,3,No,Postgraduate,Far,Male,24.92,Ngủ chuẩn (6 – 8h),7.2
+22,75,High,High,Yes,9,6.6,Low,Yes,0,Low,Medium,Private,Neutral,2,No,Postgraduate,Near,Male,16.5,Ngủ nhiều (> 8h),6.7
+23,70,Medium,Medium,Yes,8,7.5,Medium,Yes,0,High,Medium,Public,Positive,2,No,High School,Moderate,Male,16.1,Ngủ chuẩn (6 – 8h),6.5
+26,65,Low,Medium,No,7,5.3,Low,Yes,3,High,Medium,Public,Positive,2,No,High School,Near,Female,16.9,Ngủ chuẩn (6 – 8h),6.4
+13,70,High,High,No,6,8.1,Medium,Yes,2,Medium,Low,Public,Positive,2,No,Postgraduate,Near,Male,9.1,Ngủ chuẩn (6 – 8h),6.6
+18,72,High,High,No,6,8.5,High,Yes,1,High,High,Private,Positive,1,No,High School,Moderate,Male,12.96,Ngủ chuẩn (6 – 8h),6.8
+21,75,High,High,No,7,7.0,High,Yes,1,Medium,High,Private,Neutral,3,No,Postgraduate,Near,Female,15.75,Ngủ chuẩn (6 – 8h),6.9
+25,77,Low,Medium,Yes,7,5.4,Medium,Yes,2,Medium,Medium,Public,Neutral,1,No,College,Moderate,Male,19.25,Ngủ chuẩn (6 – 8h),6.6
+17,84,Low,High,No,6,8.5,Medium,Yes,1,Medium,Low,Public,Positive,2,No,College,Near,Female,14.28,Ngủ chuẩn (6 – 8h),6.7
+20,90,High,Medium,Yes,4,5.6,Medium,Yes,0,Low,High,Private,Positive,1,No,High School,Moderate,Male,18.0,Thiếu ngủ (≤ 5h),6.8
+11,82,Medium,Medium,Yes,8,8.8,Medium,No,1,Low,Medium,Private,Negative,2,No,Postgraduate,Moderate,Female,9.02,Ngủ chuẩn (6 – 8h),6.4
+22,79,Medium,Medium,No,9,9.4,Medium,Yes,1,Medium,Medium,Public,Positive,3,No,High School,Near,Male,17.38,Ngủ nhiều (> 8h),6.8
+22,78,Medium,Medium,Yes,5,9.6,Medium,Yes,0,Low,Medium,Public,Neutral,3,No,High School,Moderate,Male,17.16,Thiếu ngủ (≤ 5h),6.7
+15,71,High,High,No,7,10.0,Low,Yes,2,Low,Low,Public,Neutral,4,No,High School,Near,Male,10.65,Ngủ chuẩn (6 – 8h),6.6
+28,71,Medium,Medium,No,8,6.9,High,Yes,1,Medium,High,Private,Neutral,1,No,College,Moderate,Female,19.88,Ngủ chuẩn (6 – 8h),6.7
+27,81,Medium,Medium,Yes,7,9.7,Low,Yes,1,Medium,Medium,Public,Neutral,2,No,College,Near,Female,21.87,Ngủ chuẩn (6 – 8h),7.0
+9,77,Low,Low,No,7,8.0,Medium,Yes,3,Medium,Medium,Public,Positive,3,Yes,High School,Near,Male,6.93,Ngủ chuẩn (6 – 8h),6.1
+27,65,Medium,Medium,Yes,9,5.1,Medium,Yes,2,High,Medium,Private,Positive,2,No,Postgraduate,Moderate,Female,17.55,Ngủ nhiều (> 8h),6.6
+25,75,Low,High,Yes,8,9.6,High,Yes,1,Low,Medium,Private,Neutral,0,No,College,Near,Male,18.75,Ngủ chuẩn (6 – 8h),6.8
+23,91,High,High,No,10,6.7,High,Yes,2,Low,Medium,Public,Positive,2,No,College,Near,Male,20.93,Ngủ nhiều (> 8h),7.2
+8,80,High,Medium,No,6,8.6,Medium,Yes,2,Low,Medium,Public,Neutral,3,No,High School,Near,Male,6.4,Ngủ chuẩn (6 – 8h),6.4
+17,64,Medium,High,Yes,8,6.7,Medium,Yes,3,Low,Medium,Public,Negative,3,No,College,Near,Male,10.88,Ngủ chuẩn (6 – 8h),6.4
+12,68,High,Medium,Yes,6,6.8,Low,Yes,2,Medium,Medium,Public,Positive,4,No,College,Near,Male,8.16,Ngủ chuẩn (6 – 8h),6.4
+13,90,Medium,High,No,4,9.9,High,Yes,1,High,Medium,Public,Neutral,4,Yes,College,Moderate,Male,11.7,Thiếu ngủ (≤ 5h),6.9
+11,97,Medium,High,Yes,8,6.0,Medium,Yes,0,Medium,Low,Private,Positive,3,No,High School,Near,Male,10.67,Ngủ chuẩn (6 – 8h),6.7
+15,75,Medium,High,No,6,8.3,Low,Yes,1,High,Medium,Private,Negative,2,No,High School,Near,Female,11.25,Ngủ chuẩn (6 – 8h),6.5
+25,64,Medium,High,No,5,8.9,Low,Yes,2,Medium,Medium,Public,Neutral,4,No,College,Far,Male,16.0,Thiếu ngủ (≤ 5h),6.6
+16,67,High,High,No,9,9.9,Medium,Yes,2,Medium,Medium,Public,Neutral,2,Yes,High School,Moderate,Male,10.72,Ngủ nhiều (> 8h),6.4
+29,77,Medium,Medium,No,7,5.2,Medium,Yes,5,Low,Medium,Public,Positive,4,No,College,Near,Female,22.33,Ngủ chuẩn (6 – 8h),7.0
+30,82,Medium,High,Yes,7,7.1,Medium,Yes,3,Low,High,Public,Neutral,3,No,Postgraduate,Far,Female,24.6,Ngủ chuẩn (6 – 8h),7.2
+24,61,Medium,Medium,Yes,8,8.8,Low,Yes,1,Low,Medium,Private,Positive,4,No,High School,Moderate,Female,14.64,Ngủ chuẩn (6 – 8h),6.4
+9,78,High,Medium,Yes,7,10.0,Low,Yes,2,Medium,Medium,Public,Positive,2,No,High School,Near,Male,7.02,Ngủ chuẩn (6 – 8h),6.6
+19,97,High,Medium,Yes,6,6.6,High,Yes,2,Medium,Medium,Private,Positive,2,No,College,Moderate,Female,18.43,Ngủ chuẩn (6 – 8h),7.2
+24,71,Low,High,Yes,6,9.1,Medium,Yes,3,High,Medium,Public,Neutral,2,No,High School,Far,Female,17.04,Ngủ chuẩn (6 – 8h),6.7
+29,86,Low,Low,Yes,7,5.2,Medium,Yes,1,Low,Medium,Public,Positive,3,No,College,Near,Female,24.94,Ngủ chuẩn (6 – 8h),6.8
+18,94,High,Medium,Yes,8,7.7,Medium,Yes,3,Medium,High,Public,Positive,4,No,Postgraduate,Near,Male,16.92,Ngủ chuẩn (6 – 8h),7.4
+7,86,Medium,Low,No,9,8.8,Medium,Yes,2,Low,Medium,Public,Negative,2,No,College,Near,Female,6.02,Ngủ nhiều (> 8h),6.3
+15,72,High,High,No,8,5.0,Medium,Yes,2,Medium,Medium,Public,Neutral,4,No,High School,Near,Female,10.8,Ngủ chuẩn (6 – 8h),6.5
+20,68,Medium,High,Yes,6,9.5,Medium,Yes,0,Low,Medium,Public,Positive,4,No,High School,Near,Female,13.6,Ngủ chuẩn (6 – 8h),6.6
+13,64,Medium,High,Yes,9,8.3,Low,Yes,1,High,Medium,Public,Positive,4,No,High School,Near,Male,8.32,Ngủ nhiều (> 8h),6.4
+25,81,Medium,Medium,No,8,7.9,Low,Yes,1,Medium,Medium,Public,Neutral,4,No,College,Near,Female,20.25,Ngủ chuẩn (6 – 8h),6.8
+25,90,High,High,Yes,8,8.3,Medium,Yes,2,Medium,Medium,Public,Negative,3,No,College,Near,Male,22.5,Ngủ chuẩn (6 – 8h),7.3
+25,99,High,High,No,7,8.6,Low,No,3,Medium,Medium,Public,Positive,3,No,College,Near,Female,24.75,Ngủ chuẩn (6 – 8h),7.5
+20,82,Low,Medium,No,8,8.5,Low,Yes,1,Medium,High,Private,Neutral,3,Yes,Postgraduate,Near,Female,16.4,Ngủ chuẩn (6 – 8h),6.6
+25,88,Low,High,Yes,6,5.3,Medium,Yes,2,Medium,High,Public,Negative,4,No,College,Near,Female,22.0,Ngủ chuẩn (6 – 8h),7.0
+29,95,High,Medium,Yes,7,9.1,Low,Yes,1,Low,Medium,Public,Neutral,3,No,High School,Moderate,Female,27.55,Ngủ chuẩn (6 – 8h),7.3
+25,75,Medium,Low,Yes,8,7.5,High,Yes,2,High,High,Private,Negative,4,Yes,Postgraduate,Near,Male,18.75,Ngủ chuẩn (6 – 8h),6.8
+21,96,Medium,Medium,Yes,9,8.7,Medium,Yes,0,Medium,Medium,Public,Neutral,6,Yes,High School,Near,Female,20.16,Ngủ nhiều (> 8h),7.0
+31,92,Medium,Medium,Yes,9,5.4,Medium,No,1,Low,Medium,Private,Positive,3,No,College,Near,Male,28.52,Ngủ nhiều (> 8h),7.1
+17,63,Medium,Medium,Yes,8,5.9,Medium,Yes,1,Low,High,Public,Positive,1,No,Postgraduate,Moderate,Male,10.71,Ngủ chuẩn (6 – 8h),6.2
+24,93,Medium,Low,Yes,7,7.7,Medium,Yes,0,Low,Medium,Private,Negative,3,No,High School,Near,Female,22.32,Ngủ chuẩn (6 – 8h),6.8
+23,68,High,Medium,Yes,6,8.6,Medium,Yes,0,Medium,Medium,Public,Positive,2,No,Postgraduate,Near,Male,15.64,Ngủ chuẩn (6 – 8h),6.8
+19,72,Medium,Low,No,6,6.6,Medium,Yes,0,Medium,High,Private,Neutral,2,No,Postgraduate,Near,Male,13.68,Ngủ chuẩn (6 – 8h),6.4
+24,78,High,Low,Yes,7,5.3,High,Yes,0,Medium,Medium,Public,Neutral,4,Yes,High School,Near,Male,18.72,Ngủ chuẩn (6 – 8h),6.6
+18,68,High,Medium,No,7,7.2,Medium,Yes,0,Medium,Medium,Public,Neutral,3,No,College,Near,Male,12.24,Ngủ chuẩn (6 – 8h),6.4
+22,60,High,Medium,Yes,8,8.9,Medium,Yes,2,Medium,High,Private,Neutral,4,No,College,Moderate,Male,13.2,Ngủ chuẩn (6 – 8h),6.6
+8,82,Medium,High,Yes,5,8.6,Medium,No,0,Low,Medium,Public,Negative,3,No,Postgraduate,Near,Female,6.56,Thiếu ngủ (≤ 5h),6.4
+24,88,Medium,High,Yes,8,7.4,Medium,Yes,0,Low,High,Private,Neutral,3,No,Postgraduate,Near,Male,21.12,Ngủ chuẩn (6 – 8h),7.1
+27,67,Low,Medium,Yes,6,9.0,Medium,Yes,2,High,High,Private,Neutral,3,No,High School,Moderate,Male,18.09,Ngủ chuẩn (6 – 8h),6.7
+25,62,Medium,Medium,Yes,7,9.5,Low,Yes,1,High,Medium,Public,Neutral,4,Yes,College,Near,Male,15.5,Ngủ chuẩn (6 – 8h),6.5
+23,74,Low,Low,No,9,6.1,Low,Yes,0,Medium,Low,Public,Positive,4,No,Postgraduate,Near,Male,17.02,Ngủ nhiều (> 8h),6.4
+13,63,Low,Medium,No,8,8.8,Medium,Yes,0,Low,Medium,Private,Negative,2,No,High School,Near,Male,8.19,Ngủ chuẩn (6 – 8h),5.9
+24,99,High,Medium,No,4,9.2,Low,Yes,2,High,Medium,Private,Neutral,3,No,High School,Far,Male,23.76,Thiếu ngủ (≤ 5h),7.2
+15,73,Medium,Medium,No,7,7.6,High,Yes,2,Low,Medium,Public,Positive,4,No,High School,Far,Female,10.95,Ngủ chuẩn (6 – 8h),6.4
+30,71,High,Medium,Yes,9,9.5,High,No,1,Medium,Medium,Public,Neutral,4,No,College,Near,Male,21.3,Ngủ nhiều (> 8h),7.0
+32,61,High,High,Yes,7,8.0,Medium,Yes,0,Low,Medium,Public,Positive,4,Yes,College,Moderate,Female,19.52,Ngủ chuẩn (6 – 8h),6.8
+27,68,Medium,Low,Yes,9,9.5,Medium,Yes,1,Low,Medium,Public,Positive,3,No,College,Moderate,Male,18.36,Ngủ nhiều (> 8h),6.7
+23,70,Low,High,Yes,7,7.5,High,Yes,0,Low,Medium,Public,Positive,4,No,High School,Near,Female,16.1,Ngủ chuẩn (6 – 8h),6.6
+12,79,Medium,Low,No,9,8.0,Low,Yes,1,High,Medium,Public,Positive,2,No,College,Moderate,Male,9.48,Ngủ nhiều (> 8h),6.3
+14,89,Medium,Medium,Yes,8,5.9,High,Yes,1,Low,Medium,Private,Neutral,3,No,College,Near,Male,12.46,Ngủ chuẩn (6 – 8h),6.7
+19,92,Medium,Medium,Yes,7,8.9,Medium,No,0,Low,High,Private,Neutral,2,No,Postgraduate,Near,Male,17.48,Ngủ chuẩn (6 – 8h),6.9
+16,68,Medium,Low,Yes,10,6.4,Medium,Yes,2,High,Low,Public,Negative,2,No,High School,Moderate,Male,10.88,Ngủ nhiều (> 8h),6.1
+14,73,Medium,High,Yes,9,8.2,Medium,Yes,1,Medium,Medium,Public,Negative,3,No,High School,Near,Female,10.22,Ngủ nhiều (> 8h),6.4
+21,65,Medium,Medium,No,6,10.0,Medium,Yes,3,Medium,Medium,Public,Neutral,4,No,Postgraduate,Near,Male,13.65,Ngủ chuẩn (6 – 8h),6.7
+20,95,Low,Medium,No,4,8.9,Medium,Yes,3,Low,Medium,Public,Negative,3,Yes,High School,Near,Male,19.0,Thiếu ngủ (≤ 5h),6.8
+23,64,Medium,High,Yes,7,5.5,Medium,Yes,0,Medium,Medium,Public,Positive,4,No,High School,Moderate,Male,14.72,Ngủ chuẩn (6 – 8h),6.5
+3,83,High,Low,Yes,7,5.9,Low,Yes,2,Medium,High,Public,Positive,5,No,High School,Moderate,Male,2.49,Ngủ chuẩn (6 – 8h),6.3
+21,69,High,Medium,Yes,7,5.2,Low,Yes,0,Low,Medium,Public,Negative,3,No,Postgraduate,Near,Male,14.49,Ngủ chuẩn (6 – 8h),6.4
+21,91,High,Medium,No,9,7.4,Medium,Yes,2,Low,Low,Private,Negative,2,No,High School,Near,Female,19.11,Ngủ nhiều (> 8h),6.9
+18,78,High,Low,Yes,7,8.5,High,Yes,3,Low,Low,Public,Negative,2,No,College,Near,Male,14.04,Ngủ chuẩn (6 – 8h),6.7
+30,67,Medium,Medium,No,7,9.7,High,Yes,2,High,Medium,Public,Neutral,3,Yes,High School,Near,Male,20.1,Ngủ chuẩn (6 – 8h),6.9
+23,79,Medium,Medium,Yes,6,8.7,Medium,No,2,Low,High,Public,Neutral,4,No,College,Moderate,Male,18.17,Ngủ chuẩn (6 – 8h),6.8
+12,79,Low,High,No,6,5.5,Medium,Yes,1,Low,High,Private,Neutral,4,No,College,Far,Female,9.48,Ngủ chuẩn (6 – 8h),6.2
+24,93,Medium,High,No,5,6.2,Medium,Yes,1,Low,Medium,Public,Neutral,1,No,College,Near,Female,22.32,Thiếu ngủ (≤ 5h),7.0
+13,96,Medium,High,No,8,6.2,Medium,Yes,0,High,Medium,Private,Neutral,2,No,Postgraduate,Near,Male,12.48,Ngủ chuẩn (6 – 8h),6.9
+13,64,Medium,High,No,6,5.7,Low,Yes,1,Low,Low,Public,Neutral,3,Yes,High School,Moderate,Female,8.32,Ngủ chuẩn (6 – 8h),5.8
+17,66,High,Medium,No,6,5.4,Medium,Yes,2,High,Low,Public,Positive,3,Yes,High School,Near,Female,11.22,Ngủ chuẩn (6 – 8h),6.3
+10,89,High,High,Yes,7,8.8,Medium,Yes,2,High,Medium,Private,Positive,2,No,Postgraduate,Near,Female,8.9,Ngủ chuẩn (6 – 8h),7.1
+23,71,High,Medium,Yes,4,7.9,Medium,No,2,Low,Medium,Public,Positive,3,No,High School,Near,Male,16.33,Thiếu ngủ (≤ 5h),6.7
+21,88,Medium,Medium,No,8,9.4,Medium,Yes,0,Medium,High,Public,Neutral,3,No,College,Near,Male,18.48,Ngủ chuẩn (6 – 8h),7.0
+20,76,Medium,Medium,No,9,6.4,Low,Yes,2,Low,Medium,Public,Negative,2,No,College,Moderate,Male,15.2,Ngủ nhiều (> 8h),6.4
+23,77,Medium,Medium,Yes,7,7.9,Medium,Yes,0,Low,High,Public,Neutral,2,No,High School,Moderate,Male,17.71,Ngủ chuẩn (6 – 8h),6.6
+20,70,Medium,Medium,Yes,6,7.8,High,Yes,0,Medium,Medium,Private,Positive,2,No,College,Near,Female,14.0,Ngủ chuẩn (6 – 8h),6.6
+19,96,Medium,Medium,Yes,7,9.5,High,Yes,3,Medium,High,Private,Negative,3,No,College,Near,Female,18.24,Ngủ chuẩn (6 – 8h),7.3
+23,72,Medium,Medium,Yes,8,6.4,Low,Yes,1,Low,Medium,Public,Neutral,4,No,Postgraduate,Near,Female,16.56,Ngủ chuẩn (6 – 8h),6.6
+17,77,Medium,Medium,Yes,6,5.4,Low,Yes,3,Low,Medium,Public,Neutral,4,No,High School,Moderate,Male,13.09,Ngủ chuẩn (6 – 8h),6.4
+29,90,Medium,High,No,7,7.6,Medium,Yes,0,Low,Medium,Public,Neutral,1,No,Postgraduate,Moderate,Female,26.1,Ngủ chuẩn (6 – 8h),7.1
+27,81,Medium,Medium,No,8,7.8,Medium,Yes,0,Medium,Medium,Public,Positive,3,No,High School,Moderate,Male,21.87,Ngủ chuẩn (6 – 8h),6.8
+27,95,Medium,Medium,No,5,6.6,Low,Yes,3,Medium,Medium,Public,Neutral,4,No,High School,Near,Male,25.65,Thiếu ngủ (≤ 5h),7.2
+24,95,Medium,Low,Yes,6,9.6,High,Yes,3,Low,Medium,Private,Neutral,3,No,Postgraduate,Near,Female,22.8,Ngủ chuẩn (6 – 8h),7.3
+23,91,Medium,Medium,No,6,5.7,Low,Yes,2,Low,High,Private,Positive,2,No,High School,Near,Male,20.93,Ngủ chuẩn (6 – 8h),6.9
+16,67,High,Medium,Yes,6,8.8,Medium,Yes,0,High,Low,Public,Neutral,3,No,College,Near,Male,10.72,Ngủ chuẩn (6 – 8h),6.5
+24,88,High,High,No,9,7.1,Medium,Yes,2,High,High,Public,Negative,3,No,High School,Near,Female,21.12,Ngủ nhiều (> 8h),7.2
+19,91,High,Low,No,6,5.9,Medium,Yes,5,Medium,High,Public,Neutral,4,No,College,Moderate,Male,17.29,Ngủ chuẩn (6 – 8h),7.0
+21,81,High,Medium,Yes,7,8.6,Medium,Yes,1,Low,Medium,Public,Neutral,4,No,College,Near,Male,17.01,Ngủ chuẩn (6 – 8h),6.9
+14,82,High,Medium,No,4,9.6,Low,Yes,2,High,Medium,Private,Negative,4,Yes,High School,Near,Male,11.48,Thiếu ngủ (≤ 5h),6.6
+20,81,Low,Medium,Yes,6,6.1,Low,No,0,Low,Medium,Public,Positive,4,Yes,High School,Near,Female,16.2,Ngủ chuẩn (6 – 8h),6.3
+22,97,High,Medium,No,7,9.8,High,Yes,0,Medium,Medium,Public,Negative,0,No,College,Moderate,Female,21.34,Ngủ chuẩn (6 – 8h),7.1
+29,67,High,Low,Yes,8,8.3,Medium,Yes,2,Low,Medium,Private,Positive,4,Yes,High School,Near,Female,19.43,Ngủ chuẩn (6 – 8h),6.7
+18,79,Medium,Medium,Yes,5,7.7,Low,Yes,1,Low,High,Public,Neutral,3,No,High School,Near,Male,14.22,Thiếu ngủ (≤ 5h),6.5
+20,70,Medium,High,Yes,6,9.2,Medium,Yes,2,Medium,Low,Public,Positive,3,No,High School,Near,Male,14.0,Ngủ chuẩn (6 – 8h),6.7
+19,62,Medium,High,Yes,6,8.2,Medium,Yes,0,Low,High,Public,Negative,3,Yes,College,Moderate,Male,11.78,Ngủ chuẩn (6 – 8h),6.2
+22,86,High,Medium,Yes,7,5.6,Medium,Yes,1,High,Medium,Private,Positive,4,No,High School,Moderate,Male,18.92,Ngủ chuẩn (6 – 8h),6.9
+20,86,Medium,Low,Yes,7,5.3,Medium,Yes,1,Low,High,Public,Negative,2,No,High School,Near,Male,17.2,Ngủ chuẩn (6 – 8h),6.5
+21,67,Medium,Low,No,6,6.1,Medium,Yes,0,Low,Medium,Private,Positive,3,No,High School,Moderate,Female,14.07,Ngủ chuẩn (6 – 8h),6.1
+24,75,High,High,Yes,6,5.1,High,No,1,Medium,High,Public,Negative,3,No,High School,Near,Male,18.0,Ngủ chuẩn (6 – 8h),6.7
+33,62,Medium,Medium,No,7,7.4,Low,Yes,2,Medium,Medium,Public,Neutral,2,No,College,Moderate,Male,20.46,Ngủ chuẩn (6 – 8h),6.6
+19,91,Medium,Low,No,9,6.7,Medium,Yes,0,Medium,Medium,Private,Negative,3,No,College,Near,Female,17.29,Ngủ nhiều (> 8h),6.6
+22,95,Low,High,Yes,6,6.9,High,Yes,3,Medium,Medium,Public,Neutral,2,Yes,Postgraduate,Far,Male,20.9,Ngủ chuẩn (6 – 8h),7.0
+19,85,Low,Low,Yes,8,9.8,Medium,Yes,2,Medium,Low,Private,Neutral,4,No,High School,Near,Female,16.15,Ngủ chuẩn (6 – 8h),6.7
+2,98,Low,High,Yes,7,8.0,High,Yes,2,Low,High,Public,Neutral,1,No,High School,Near,Male,1.96,Ngủ chuẩn (6 – 8h),6.6
+29,92,Medium,Medium,Yes,10,6.3,High,Yes,1,Low,High,Private,Negative,4,No,High School,Moderate,Male,26.68,Ngủ nhiều (> 8h),7.1
+17,75,High,Low,Yes,7,6.9,Medium,Yes,1,High,Medium,Public,Positive,4,No,High School,Near,Male,12.75,Ngủ chuẩn (6 – 8h),6.6
+23,63,High,High,No,7,10.0,Low,Yes,2,Medium,High,Private,Positive,3,No,Postgraduate,Near,Female,14.49,Ngủ chuẩn (6 – 8h),6.9
+27,96,Medium,Medium,No,7,9.3,Medium,Yes,2,Medium,Medium,Public,Neutral,2,No,College,Near,Male,25.92,Ngủ chuẩn (6 – 8h),7.4
+18,74,High,Medium,No,8,7.5,High,Yes,1,High,High,Public,Positive,3,No,Postgraduate,Moderate,Male,13.32,Ngủ chuẩn (6 – 8h),6.8
+23,76,Medium,Medium,Yes,7,5.7,High,Yes,1,Medium,Medium,Public,Negative,3,No,High School,Moderate,Female,17.48,Ngủ chuẩn (6 – 8h),6.6
+20,81,Medium,High,Yes,8,6.8,Medium,Yes,0,Medium,Medium,Public,Neutral,3,No,College,Near,Male,16.2,Ngủ chuẩn (6 – 8h),6.8
+16,82,Low,High,Yes,8,7.3,Low,Yes,3,Low,High,Public,Positive,1,No,College,Near,Male,13.12,Ngủ chuẩn (6 – 8h),6.7
+28,74,Medium,Low,Yes,4,6.2,Medium,Yes,1,Low,Medium,Private,Neutral,3,No,High School,Moderate,Male,20.72,Thiếu ngủ (≤ 5h),6.5
+9,86,High,Medium,No,8,8.6,Medium,Yes,1,Low,High,Public,Neutral,1,No,High School,Near,Male,7.74,Ngủ chuẩn (6 – 8h),6.5
+23,96,Low,High,Yes,6,9.3,Low,Yes,5,Low,Medium,Public,Negative,4,No,High School,Near,Female,22.08,Ngủ chuẩn (6 – 8h),7.2
+31,69,Medium,Low,Yes,9,8.1,Medium,Yes,2,Medium,Medium,Private,Negative,2,No,College,Near,Male,21.39,Ngủ nhiều (> 8h),6.7
+25,95,High,Medium,Yes,8,9.6,Low,Yes,1,Medium,Medium,Public,Neutral,4,No,Postgraduate,Near,Male,23.75,Ngủ chuẩn (6 – 8h),7.4
+29,64,Medium,High,Yes,7,7.4,Medium,Yes,0,High,Medium,Public,Positive,2,No,Postgraduate,Near,Female,18.56,Ngủ chuẩn (6 – 8h),6.9
+18,73,Medium,Medium,No,5,6.5,Medium,Yes,1,Low,High,Public,Negative,3,No,College,Moderate,Female,13.14,Thiếu ngủ (≤ 5h),6.3
+19,81,High,High,No,8,6.1,Low,Yes,3,Medium,Medium,Private,Negative,5,No,Postgraduate,Near,Male,15.39,Ngủ chuẩn (6 – 8h),6.9
+1,81,Medium,Medium,Yes,8,6.6,Medium,Yes,1,Low,Medium,Public,Negative,2,No,College,Near,Male,0.81,Ngủ chuẩn (6 – 8h),6.0
+21,63,Low,High,Yes,8,9.5,Medium,Yes,2,High,Medium,Public,Neutral,5,No,High School,Near,Male,13.23,Ngủ chuẩn (6 – 8h),6.6
+20,98,Medium,High,Yes,4,7.3,Medium,Yes,2,Medium,Low,Private,Positive,1,No,High School,Far,Male,19.6,Thiếu ngủ (≤ 5h),7.0
+27,98,Low,Medium,Yes,6,9.3,Low,No,5,High,High,Public,Positive,3,No,High School,Moderate,Female,26.46,Ngủ chuẩn (6 – 8h),10.0
+23,70,Medium,High,Yes,7,7.3,High,Yes,1,Low,Medium,Private,Positive,3,No,Postgraduate,Near,Male,16.1,Ngủ chuẩn (6 – 8h),6.8
+15,91,High,Medium,No,6,8.0,Medium,Yes,0,Low,Medium,Private,Positive,3,No,Postgraduate,Near,Male,13.65,Ngủ chuẩn (6 – 8h),6.9
+21,77,Medium,Medium,Yes,8,8.8,Low,Yes,2,High,Medium,Private,Positive,1,No,College,Moderate,Female,16.17,Ngủ chuẩn (6 – 8h),6.8
+24,80,Medium,Medium,Yes,7,5.3,Medium,Yes,2,Low,Medium,Public,Positive,4,Yes,High School,Near,Female,19.2,Ngủ chuẩn (6 – 8h),6.7
+21,71,Medium,Low,No,8,8.6,Medium,Yes,2,Medium,High,Public,Neutral,2,No,College,Near,Male,14.91,Ngủ chuẩn (6 – 8h),6.6
+19,94,Low,Medium,No,7,6.2,Medium,Yes,0,Medium,Medium,Public,Negative,3,Yes,High School,Moderate,Male,17.86,Ngủ chuẩn (6 – 8h),6.5
+12,81,Medium,Medium,Yes,6,8.5,High,Yes,0,Low,Medium,Private,Positive,2,Yes,High School,Near,Male,9.72,Ngủ chuẩn (6 – 8h),6.4
+19,78,Medium,Medium,Yes,6,5.8,Medium,Yes,1,Low,Medium,Public,Neutral,3,No,Postgraduate,Near,Male,14.82,Ngủ chuẩn (6 – 8h),6.6
+25,66,Medium,High,Yes,7,8.4,Low,Yes,2,High,Medium,Public,Positive,1,No,High School,Near,Male,16.5,Ngủ chuẩn (6 – 8h),6.7
+26,83,High,Low,Yes,8,8.3,Medium,Yes,2,Low,High,Public,Neutral,2,No,College,Near,Female,21.58,Ngủ chuẩn (6 – 8h),7.1
+22,76,Medium,Low,No,9,8.7,Low,Yes,2,Low,High,Public,Neutral,3,Yes,College,Near,Female,16.72,Ngủ nhiều (> 8h),6.5
+14,61,Medium,Low,Yes,7,7.1,Medium,Yes,0,Medium,Low,Private,Neutral,1,No,Postgraduate,Near,Female,8.54,Ngủ chuẩn (6 – 8h),6.0
+22,79,Medium,Medium,Yes,7,7.1,Medium,Yes,2,Low,Medium,Private,Neutral,2,No,College,Moderate,Male,17.38,Ngủ chuẩn (6 – 8h),6.6
+21,76,Medium,Medium,Yes,6,7.4,Medium,Yes,2,Medium,Medium,Private,Neutral,3,No,High School,Near,Male,15.96,Ngủ chuẩn (6 – 8h),6.7
+21,93,Medium,High,Yes,6,6.7,High,Yes,1,Medium,High,Public,Positive,3,No,Postgraduate,Near,Female,19.53,Ngủ chuẩn (6 – 8h),7.3
+19,83,High,Low,Yes,8,5.4,Medium,Yes,1,Low,Medium,Private,Positive,4,No,High School,Moderate,Male,15.77,Ngủ chuẩn (6 – 8h),6.6
+26,87,Medium,High,No,5,7.0,Low,Yes,1,Low,Medium,Private,Positive,2,No,High School,Near,Female,22.62,Thiếu ngủ (≤ 5h),7.0
+17,68,Medium,Medium,No,8,7.0,Medium,Yes,2,Medium,Medium,Private,Positive,4,No,High School,Near,Female,11.56,Ngủ chuẩn (6 – 8h),6.4
+13,61,Low,Medium,Yes,8,8.4,High,No,1,Medium,High,Public,Neutral,3,Yes,Postgraduate,Far,Male,7.93,Ngủ chuẩn (6 – 8h),6.0
+35,84,Medium,Medium,No,5,8.6,Medium,Yes,1,Medium,Medium,Public,Neutral,3,No,High School,Near,Female,29.4,Thiếu ngủ (≤ 5h),7.2
+32,65,Medium,Low,Yes,8,5.7,Low,Yes,2,Low,Medium,Public,Positive,3,No,High School,Moderate,Female,20.8,Ngủ chuẩn (6 – 8h),6.5
+37,94,High,Medium,Yes,8,5.2,High,Yes,1,Low,Medium,Private,Positive,3,No,Postgraduate,Near,Male,34.78,Ngủ chuẩn (6 – 8h),7.6
+18,81,Low,High,Yes,6,8.6,Medium,Yes,3,Low,Medium,Public,Positive,4,No,College,Near,Male,14.58,Ngủ chuẩn (6 – 8h),6.9
+21,93,High,Low,No,6,8.7,Medium,Yes,1,Low,High,Public,Positive,2,No,High School,Near,Female,19.53,Ngủ chuẩn (6 – 8h),7.0
+23,76,Low,Medium,No,7,8.6,Low,No,1,Low,Medium,Private,Positive,4,No,College,Far,Male,17.48,Ngủ chuẩn (6 – 8h),6.4
+17,82,Medium,Low,No,10,9.4,Medium,Yes,1,High,High,Private,Neutral,3,No,High School,Moderate,Female,13.94,Ngủ nhiều (> 8h),6.6
+20,72,Medium,Medium,No,8,9.0,High,No,2,Low,Low,Private,Neutral,2,No,College,Near,Female,14.4,Ngủ chuẩn (6 – 8h),6.5
+31,81,Medium,Medium,No,9,7.0,Low,Yes,1,Low,Medium,Public,Neutral,4,No,Postgraduate,Near,Female,25.11,Ngủ nhiều (> 8h),7.0
+14,77,High,High,Yes,5,8.9,Low,Yes,0,Medium,Medium,Private,Positive,2,No,College,Near,Male,10.78,Thiếu ngủ (≤ 5h),6.7
+14,63,Low,Low,Yes,9,7.2,Medium,Yes,3,Low,Low,Public,Positive,4,Yes,High School,Near,Female,8.82,Ngủ nhiều (> 8h),5.9
+22,82,Low,High,No,6,7.8,Medium,Yes,3,Medium,High,Public,Neutral,3,No,High School,Moderate,Male,18.04,Ngủ chuẩn (6 – 8h),6.9
+19,96,Medium,Low,Yes,5,8.6,Medium,No,3,Medium,Medium,Public,Positive,3,No,High School,Moderate,Male,18.24,Thiếu ngủ (≤ 5h),6.9
+18,99,Medium,High,Yes,10,5.1,Medium,Yes,1,Medium,Low,Public,Neutral,4,No,Postgraduate,Near,Male,17.82,Ngủ nhiều (> 8h),7.1
+25,84,Medium,Low,Yes,6,8.4,Low,Yes,2,Medium,High,Public,Positive,3,No,High School,Near,Male,21.0,Ngủ chuẩn (6 – 8h),7.0
+25,72,High,High,Yes,8,9.4,Low,Yes,2,Low,Medium,Private,Positive,4,No,College,Moderate,Female,18.0,Ngủ chuẩn (6 – 8h),7.0
+18,83,Medium,High,No,4,6.5,Low,Yes,3,Low,Medium,Public,Positive,4,No,College,Moderate,Male,14.94,Thiếu ngủ (≤ 5h),6.8
+17,64,High,Low,Yes,10,6.3,Medium,Yes,0,High,Medium,Public,Positive,3,No,High School,Moderate,Female,10.88,Ngủ nhiều (> 8h),6.2
+24,68,Low,High,No,7,5.1,Medium,Yes,0,Low,Low,Private,Neutral,4,No,High School,Near,Female,16.32,Ngủ chuẩn (6 – 8h),6.3
+22,60,Medium,Medium,No,6,9.2,Low,Yes,2,Low,High,Public,Negative,2,No,High School,Near,Male,13.2,Ngủ chuẩn (6 – 8h),6.3
+27,73,Low,Medium,No,7,9.1,Medium,Yes,2,High,Medium,Public,Neutral,4,No,College,Far,Female,19.71,Ngủ chuẩn (6 – 8h),6.8
+25,78,High,Low,Yes,8,9.1,Medium,Yes,3,Low,Medium,Public,Negative,4,No,High School,Near,Male,19.5,Ngủ chuẩn (6 – 8h),6.9
+16,64,Medium,Medium,No,7,6.5,Medium,Yes,2,Medium,High,Public,Neutral,4,No,High School,Near,Male,10.24,Ngủ chuẩn (6 – 8h),6.3
+24,72,Low,High,Yes,5,7.3,Low,Yes,2,Medium,High,Public,Positive,2,No,High School,Near,Male,17.28,Thiếu ngủ (≤ 5h),6.7
+18,66,High,Medium,Yes,6,6.8,Low,No,1,Medium,High,Public,Positive,3,Yes,High School,Far,Male,11.88,Ngủ chuẩn (6 – 8h),6.1
+15,81,Medium,Medium,No,4,8.9,High,Yes,0,Low,Medium,Private,Negative,3,No,Postgraduate,Near,Female,12.15,Thiếu ngủ (≤ 5h),6.6
+19,65,Medium,Medium,No,9,5.7,Low,Yes,1,Medium,Medium,Public,Positive,2,Yes,High School,Near,Female,12.35,Ngủ nhiều (> 8h),6.1
+19,85,High,Medium,No,4,7.1,Low,Yes,1,Medium,High,Public,Negative,3,No,High School,Far,Female,16.15,Thiếu ngủ (≤ 5h),6.6
+24,79,Low,High,No,6,9.9,High,No,2,Low,High,Public,Negative,3,No,High School,Near,Male,18.96,Ngủ chuẩn (6 – 8h),6.8
+18,69,Low,Medium,No,8,5.9,Low,No,1,Low,Medium,Public,Positive,4,No,High School,Near,Female,12.42,Ngủ chuẩn (6 – 8h),6.0
