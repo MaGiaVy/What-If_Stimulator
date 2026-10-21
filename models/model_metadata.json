@@ -9,20 +9,20 @@
     "stage": 1,
     "task": "Binary Classification (at_risk < 6.5)",
     "target_column": "at_risk",
-    "features_count": 20,
-    "winning_algorithm": "Logistic Regression + SMOTE",
-    "optimal_threshold": 0.53,
+    "features_count": 18,
+    "winning_algorithm": "Logistic Regression",
+    "optimal_threshold": 0.55,
     "dev_blackbox_metrics": {
-      "roc_auc": 0.9969,
-      "recall": 0.9868,
-      "precision": 0.9317,
-      "f1_score": 0.9585
+      "roc_auc": 0.996704445957778,
+      "recall": 0.9868421052631579,
+      "precision": 0.9316770186335404,
+      "f1_score": 0.9584664536741214
     },
     "test_metrics": {
-      "roc_auc": 0.9974,
-      "recall": 0.9771,
-      "precision": 0.9771,
-      "f1_score": 0.9771
+      "roc_auc": 0.9973567550909135,
+      "recall": 0.9770642201834863,
+      "precision": 0.9770642201834863,
+      "f1_score": 0.9770642201834863
     }
   },
   "stage2": {
@@ -32,7 +32,7 @@
     "target_column": "Exam_Score",
     "scale": "0-10",
     "algorithm": "Ridge(alpha=1.0) with Huber noise-filtered training",
-    "features_total": 20,
+    "features_total": 18,
     "actionable_features": [
       "Hours_Studied",
       "Sleep_Hours",
@@ -53,19 +53,17 @@
       "Learning_Disabilities",
       "Extracurricular_Activities",
       "Peer_Influence",
-      "School_Type",
-      "Distance_from_Home",
-      "Gender"
+      "Distance_from_Home"
     ],
     "test_metrics_raw": {
-      "mae": 0.0506,
-      "rmse": 0.2440,
-      "r2": 0.6666,
+      "mae": 0.05053942172457831,
+      "rmse": 0.24403032575512373,
+      "r2": 0.6665568215195221,
       "sample_count": 992
     },
     "test_metrics_sensitivity_clean": {
-      "mae": 0.0270,
-      "r2": 0.9909,
+      "mae": 0.026988783552984993,
+      "r2": 0.9908970118369712,
       "noise_cases_excluded": 10,
       "sample_count": 982
     }

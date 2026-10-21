@@ -1,694 +1,694 @@
-Hours_Studied,Attendance,Parental_Involvement,Access_to_Resources,Extracurricular_Activities,Sleep_Hours,Previous_Scores,Motivation_Level,Internet_Access,Tutoring_Sessions,Family_Income,Teacher_Quality,School_Type,Peer_Influence,Physical_Activity,Learning_Disabilities,Parental_Education_Level,Distance_from_Home,Gender,Exam_Score,effective_study_index,at_risk
-21,94,Medium,Medium,No,7,7.1,Low,No,1,Low,High,Private,Neutral,2,No,Postgraduate,Near,Male,6.9,19.74,0
-28,91,Medium,High,Yes,6,6.9,High,Yes,1,Medium,High,Private,Neutral,4,No,High School,Far,Male,7.3,25.48,0
-15,77,Low,Medium,Yes,7,9.5,Low,Yes,4,Low,Medium,Public,Positive,4,No,High School,Moderate,Male,6.5,11.55,0
-29,64,Low,Medium,No,9,7.7,Medium,Yes,0,Low,High,Public,Negative,2,No,High School,Moderate,Female,6.3,18.56,1
-20,100,Medium,Medium,Yes,8,6.4,Medium,Yes,0,Low,Medium,Public,Neutral,2,No,High School,Moderate,Male,6.9,20.0,0
-18,68,High,High,No,6,8.2,Low,Yes,0,Medium,High,Public,Positive,3,No,High School,Near,Male,6.6,12.24,0
-21,98,Medium,Medium,Yes,9,5.9,High,No,3,Medium,Medium,Public,Neutral,3,Yes,College,Near,Female,7.0,20.58,0
-25,93,Medium,Medium,Yes,10,6.0,Low,Yes,1,Medium,Medium,Public,Positive,3,No,College,Moderate,Male,7.0,23.25,0
-23,94,Low,Low,Yes,9,7.5,Medium,Yes,3,Low,Medium,Private,Neutral,2,No,Postgraduate,Moderate,Female,6.9,21.62,0
-21,92,High,Low,No,6,7.6,Low,Yes,2,Low,Medium,Public,Positive,5,No,College,Near,Male,7.0,19.32,0
-19,99,Low,Low,No,8,7.9,High,Yes,3,Medium,Medium,Private,Positive,4,No,High School,Near,Male,7.0,18.81,0
-18,95,Low,High,Yes,6,5.4,High,Yes,0,Medium,High,Private,Negative,3,No,College,Moderate,Male,6.8,17.1,0
-20,84,Medium,Medium,No,6,8.5,Medium,Yes,0,Medium,Medium,Private,Positive,3,No,High School,Moderate,Male,6.7,16.8,0
-20,83,High,High,Yes,7,7.8,High,Yes,3,Low,Medium,Private,Neutral,2,No,College,Near,Female,7.1,16.6,0
-15,71,High,Low,No,7,7.8,Medium,Yes,0,Medium,Medium,Private,Positive,3,No,High School,Near,Male,6.3,10.65,1
-26,61,High,Low,Yes,7,9.5,Low,No,0,Medium,High,Public,Neutral,3,No,Postgraduate,Moderate,Male,6.5,15.86,0
-19,96,Medium,High,Yes,5,6.7,Medium,Yes,4,High,Medium,Private,Neutral,1,No,High School,Moderate,Male,7.2,18.24,0
-14,73,Medium,High,No,8,5.8,Medium,Yes,2,Low,High,Public,Negative,2,No,College,Moderate,Male,6.3,10.22,1
-22,63,Low,Low,Yes,7,9.4,Medium,Yes,0,Medium,Medium,Public,Negative,3,Yes,High School,Far,Male,6.1,13.86,1
-25,87,Medium,Low,Yes,7,7.4,Low,Yes,0,Medium,High,Public,Neutral,4,Yes,High School,Near,Male,6.7,21.75,0
-19,72,Medium,Medium,Yes,5,8.5,High,Yes,1,Low,Medium,Private,Neutral,4,No,College,Near,Female,6.6,13.68,0
-12,84,High,High,Yes,6,7.1,Medium,No,2,Medium,Medium,Public,Positive,3,No,College,Moderate,Male,6.7,10.08,0
-16,98,High,Medium,No,6,8.8,Medium,Yes,1,Low,Medium,Public,Neutral,3,No,Postgraduate,Moderate,Female,7.0,15.68,0
-22,60,Medium,Medium,Yes,5,5.2,Medium,Yes,0,Low,Medium,Public,Negative,2,No,High School,Near,Female,6.1,13.2,1
-19,78,High,High,No,5,5.5,Medium,Yes,0,Medium,Medium,Public,Neutral,4,No,High School,Moderate,Male,6.6,14.82,0
-26,71,High,Medium,Yes,6,5.1,Low,No,1,High,Medium,Private,Positive,3,No,Postgraduate,Moderate,Male,6.7,18.46,0
-25,85,High,High,No,9,6.8,Medium,Yes,1,High,Medium,Public,Negative,3,No,Postgraduate,Far,Female,7.1,21.25,0
-20,90,High,High,No,9,7.9,Medium,Yes,2,Low,Medium,Public,Negative,2,No,High School,Near,Female,7.0,18.0,0
-31,93,High,Low,Yes,5,9.6,Medium,Yes,2,Low,Medium,Public,Positive,2,No,High School,Near,Male,7.4,28.83,0
-25,73,Low,Low,No,8,6.9,Medium,Yes,3,Medium,Medium,Private,Positive,3,No,High School,Near,Female,6.6,18.25,0
-8,84,Medium,Low,Yes,9,5.6,Low,Yes,1,Low,Medium,Public,Positive,2,No,High School,Moderate,Male,6.1,6.72,1
-21,95,High,Medium,Yes,7,8.1,Medium,Yes,0,Medium,Medium,Public,Neutral,3,No,High School,Near,Male,7.1,19.95,0
-14,97,Medium,Medium,Yes,6,6.6,Medium,Yes,2,Medium,Medium,Public,Negative,3,Yes,College,Near,Female,6.7,13.58,0
-30,88,Low,Medium,Yes,6,9.0,High,Yes,4,High,Medium,Private,Negative,2,No,College,Moderate,Male,7.3,26.4,0
-19,66,Medium,Medium,No,8,8.3,Medium,Yes,2,Medium,High,Public,Neutral,3,No,High School,Near,Female,6.5,12.54,0
-18,81,Medium,Medium,No,8,6.5,Low,Yes,2,Low,Medium,Public,Neutral,4,No,Postgraduate,Near,Male,6.6,14.58,0
-29,92,Low,Medium,No,4,9.1,Medium,Yes,2,Medium,Medium,Public,Negative,1,No,Postgraduate,Near,Female,7.2,26.68,0
-23,80,Medium,Low,Yes,7,6.6,High,Yes,1,High,High,Private,Positive,4,No,College,Near,Female,6.9,18.4,0
-24,63,Medium,Medium,No,6,9.0,Medium,No,2,Low,Medium,Private,Neutral,5,No,Postgraduate,Near,Female,6.6,15.12,0
-17,100,Medium,High,Yes,5,5.3,Low,Yes,1,Medium,High,Public,Positive,4,No,High School,Near,Male,7.0,17.0,0
-25,74,High,Medium,Yes,9,8.0,Medium,Yes,4,Medium,Medium,Public,Positive,3,No,College,Moderate,Female,7.1,18.5,0
-18,85,Medium,Medium,Yes,6,5.7,Low,Yes,2,Medium,High,Public,Neutral,2,No,Postgraduate,Moderate,Male,6.7,15.3,0
-17,82,Medium,High,No,6,6.5,Low,Yes,4,Low,Medium,Private,Positive,3,No,High School,Moderate,Female,6.7,13.94,0
-16,77,High,High,No,7,9.2,Low,Yes,2,Medium,Medium,Public,Negative,2,No,College,Near,Male,6.7,12.32,0
-27,95,Medium,Medium,No,5,6.6,Low,Yes,3,Medium,Medium,Public,Neutral,4,No,High School,Near,Male,7.2,25.65,0
-14,70,Medium,Medium,Yes,9,9.1,High,Yes,2,Medium,Medium,Public,Neutral,4,No,High School,Near,Female,6.5,9.8,0
-21,74,High,Medium,No,6,9.4,Medium,Yes,1,Low,High,Public,Positive,1,No,High School,Near,Male,9.7,15.54,0
-12,89,Medium,High,No,8,9.1,Medium,No,1,Low,High,Public,Neutral,2,No,High School,Near,Male,6.6,10.68,0
-9,65,Low,Medium,Yes,7,8.9,Medium,Yes,2,Low,Medium,Public,Positive,4,No,High School,Moderate,Male,6.1,5.85,1
-24,85,Low,Medium,Yes,7,5.4,Medium,No,2,Medium,Low,Public,Neutral,3,No,College,Moderate,Female,6.6,20.4,0
-18,86,Medium,Medium,Yes,6,8.8,Medium,Yes,2,Medium,High,Public,Neutral,2,No,College,Far,Male,6.8,15.48,0
-25,66,High,Medium,Yes,7,5.5,Medium,Yes,4,Medium,Medium,Public,Neutral,2,Yes,High School,Moderate,Female,8.4,16.5,0
-22,74,High,High,Yes,6,7.3,Low,Yes,3,High,High,Public,Positive,4,No,Postgraduate,Moderate,Female,7.1,16.28,0
-29,98,Medium,Medium,Yes,9,6.0,Low,Yes,0,Low,Medium,Private,Negative,4,No,High School,Near,Female,7.0,28.42,0
-16,66,Medium,High,Yes,5,5.7,High,Yes,3,Medium,Medium,Public,Positive,3,No,High School,Moderate,Female,6.4,10.56,1
-22,62,High,Medium,Yes,9,6.9,Low,Yes,1,High,Low,Private,Negative,3,No,College,Near,Male,6.4,13.64,1
-22,87,Medium,Medium,No,8,6.0,Low,Yes,2,Medium,High,Public,Negative,2,No,College,Moderate,Male,6.7,19.14,0
-24,89,Medium,High,Yes,8,6.1,Medium,Yes,1,Low,High,Public,Positive,3,No,Postgraduate,Near,Female,7.2,21.36,0
-29,68,Medium,Low,No,6,7.0,Low,Yes,0,Medium,Medium,Public,Negative,2,No,Postgraduate,Near,Male,6.4,19.72,1
-24,74,High,Medium,Yes,6,7.8,Medium,Yes,3,Low,High,Public,Positive,3,No,College,Near,Female,7.0,17.76,0
-26,73,High,Medium,Yes,7,5.3,Low,Yes,3,Medium,High,Private,Neutral,5,No,High School,Moderate,Female,6.8,18.98,0
-20,84,Low,Medium,No,5,9.6,Low,Yes,1,Low,Medium,Public,Negative,2,No,High School,Near,Male,6.5,16.8,0
-16,65,High,Low,Yes,8,9.7,High,Yes,2,Low,Medium,Public,Negative,4,Yes,High School,Near,Female,6.3,10.4,1
-19,81,High,High,No,6,7.3,Low,No,1,Low,High,Private,Positive,3,No,High School,Near,Female,6.7,15.39,0
-21,88,High,High,Yes,7,9.2,High,Yes,2,Medium,Medium,Public,Positive,3,No,Postgraduate,Near,Female,7.4,18.48,0
-21,63,Medium,Medium,Yes,6,6.4,Low,Yes,1,High,High,Public,Negative,3,No,High School,Near,Male,6.3,13.23,1
-20,71,Medium,Medium,Yes,7,8.8,Medium,Yes,1,Low,Low,Public,Neutral,4,No,College,Near,Female,6.5,14.2,0
-22,92,Medium,Low,No,5,7.2,Low,Yes,0,Medium,Medium,Private,Negative,4,No,College,Moderate,Male,6.7,20.24,0
-22,99,Medium,Medium,Yes,4,5.7,High,Yes,2,Medium,High,Public,Positive,3,No,College,Near,Female,7.3,21.78,0
-30,73,High,Medium,Yes,8,10.0,Medium,Yes,2,High,High,Public,Neutral,2,No,High School,Near,Female,7.2,21.9,0
-28,80,High,High,No,5,6.4,Medium,Yes,1,Low,Medium,Private,Neutral,2,No,Postgraduate,Moderate,Female,7.0,22.4,0
-17,96,High,Medium,No,7,5.7,Low,Yes,2,Medium,Medium,Private,Negative,3,No,College,Moderate,Female,6.8,16.32,0
-15,98,Low,Medium,Yes,8,7.1,Low,Yes,1,Medium,Medium,Public,Positive,3,No,High School,Near,Male,6.8,14.7,0
-25,77,Low,Medium,Yes,7,7.1,Medium,Yes,0,Medium,Medium,Public,Negative,3,No,High School,Near,Female,6.6,19.25,0
-24,75,Low,Medium,Yes,10,8.9,Low,Yes,0,Medium,High,Private,Positive,3,No,College,Near,Female,6.7,18.0,0
-29,80,Medium,Low,No,5,8.5,High,Yes,0,High,High,Public,Neutral,2,No,High School,Moderate,Male,6.9,23.2,0
-13,60,High,High,No,7,7.0,Medium,Yes,1,Medium,Medium,Public,Negative,3,No,College,Far,Female,6.1,7.8,1
-20,94,Medium,Medium,No,7,8.9,Medium,Yes,0,Low,Medium,Private,Neutral,1,No,High School,Near,Male,6.8,18.8,0
-27,62,Medium,High,Yes,5,6.3,Low,Yes,4,High,Medium,Public,Negative,4,No,High School,Near,Female,6.7,16.74,0
-29,64,Medium,High,Yes,7,7.4,Medium,Yes,0,High,Medium,Public,Positive,2,No,Postgraduate,Near,Female,6.9,18.56,0
-11,72,High,Low,No,8,5.5,High,Yes,0,Medium,Low,Public,Neutral,3,Yes,College,Near,Male,6.0,7.92,1
-26,86,Medium,Low,Yes,7,6.5,Medium,Yes,2,High,High,Private,Neutral,4,No,Postgraduate,Moderate,Male,7.1,22.36,0
-24,77,Medium,High,No,8,8.0,High,Yes,1,Low,High,Public,Positive,2,Yes,High School,Moderate,Female,6.8,18.48,0
-17,86,Medium,Medium,No,7,6.1,Medium,No,2,High,Medium,Public,Positive,3,No,High School,Moderate,Male,6.6,14.62,0
-19,93,Medium,High,Yes,6,5.6,Medium,Yes,0,Low,High,Private,Negative,3,No,College,Near,Male,6.9,17.67,0
-22,63,High,High,Yes,5,5.3,High,Yes,3,Low,High,Public,Negative,2,No,High School,Near,Male,6.6,13.86,0
-23,63,Medium,Medium,No,7,7.3,Low,Yes,1,Low,Medium,Public,Neutral,3,No,College,Moderate,Male,6.3,14.49,1
-26,92,Medium,High,No,4,5.4,Medium,Yes,2,High,Medium,Public,Positive,4,No,High School,Moderate,Male,7.2,23.92,0
-24,85,Medium,Medium,Yes,7,8.7,High,Yes,2,Medium,Medium,Private,Neutral,2,No,High School,Near,Female,7.1,20.4,0
-20,67,High,Medium,No,9,9.6,High,Yes,1,High,High,Public,Positive,3,No,High School,Near,Female,6.8,13.4,0
-23,94,Medium,Low,Yes,8,6.2,Medium,Yes,2,Low,Medium,Public,Positive,0,No,Postgraduate,Moderate,Female,6.9,21.62,0
-25,93,Medium,High,No,5,9.0,Low,Yes,1,Medium,Medium,Public,Positive,2,No,College,Near,Male,7.2,23.25,0
-27,62,High,Low,No,7,9.6,Medium,Yes,2,Low,Medium,Public,Neutral,4,No,High School,Near,Male,6.6,16.74,0
-20,81,Medium,Medium,No,8,8.7,Medium,Yes,1,High,Medium,Private,Neutral,3,No,High School,Near,Male,6.8,16.2,0
-30,98,Low,Medium,No,7,5.1,High,Yes,0,Low,Medium,Public,Positive,2,No,High School,Near,Male,7.1,29.4,0
-19,67,Medium,Medium,No,7,5.9,Low,Yes,3,Low,High,Private,Positive,3,No,Postgraduate,Near,Female,6.5,12.73,0
-6,71,Medium,High,Yes,5,8.5,Medium,Yes,1,Low,Medium,Public,Positive,2,No,High School,Moderate,Male,6.1,4.26,1
-20,75,Medium,Medium,No,7,7.8,Medium,Yes,0,Low,Medium,Public,Negative,2,No,College,Near,Female,6.4,15.0,1
-25,76,Medium,Low,Yes,6,8.8,Low,Yes,1,Medium,Medium,Private,Negative,3,No,College,Far,Male,6.6,19.0,0
-19,64,High,Low,Yes,8,8.6,Low,Yes,3,High,Medium,Private,Neutral,3,No,Postgraduate,Near,Female,6.6,12.16,0
-16,72,Medium,High,No,6,5.8,Low,Yes,1,Medium,Medium,Public,Negative,2,No,High School,Far,Male,6.2,11.52,1
-19,74,Medium,Low,Yes,5,6.5,High,No,1,Low,High,Public,Positive,3,No,High School,Near,Male,6.4,14.06,1
-27,86,Medium,Medium,No,7,7.2,Low,Yes,1,Medium,High,Public,Positive,4,No,High School,Far,Male,6.9,23.22,0
-14,92,High,Medium,Yes,6,6.1,High,Yes,0,Low,Medium,Private,Neutral,2,No,College,Moderate,Male,6.7,12.88,0
-15,86,Low,High,No,7,6.0,Medium,Yes,2,Medium,Medium,Public,Positive,3,No,College,Near,Male,6.7,12.9,0
-15,66,Low,Medium,No,7,5.3,Medium,Yes,2,Medium,High,Public,Negative,3,No,College,Near,Female,6.1,9.9,1
-21,82,Low,High,No,9,5.8,Medium,Yes,0,Medium,Medium,Public,Negative,2,No,High School,Near,Male,6.5,17.22,0
-19,62,Medium,Medium,No,7,9.1,Low,Yes,1,Low,Medium,Public,Positive,3,No,College,Near,Male,6.3,11.78,1
-26,83,High,Low,No,6,5.2,Medium,Yes,0,Low,High,Public,Negative,3,No,High School,Near,Male,6.7,21.58,0
-23,80,Medium,Medium,No,7,6.7,Low,Yes,2,Low,High,Public,Neutral,4,No,High School,Near,Male,6.7,18.4,0
-22,81,High,Medium,Yes,9,7.1,Medium,Yes,2,High,Low,Public,Negative,4,No,High School,Near,Male,6.9,17.82,0
-13,96,Medium,Medium,No,5,6.9,Medium,Yes,2,Medium,Low,Public,Positive,3,No,High School,Near,Male,6.8,12.48,0
-12,87,High,High,Yes,9,7.5,Medium,No,1,Low,Medium,Private,Neutral,3,Yes,College,Moderate,Female,6.5,10.44,0
-25,68,Low,Medium,No,6,6.2,Low,Yes,1,Low,High,Private,Negative,4,No,College,Moderate,Female,6.3,17.0,1
-15,93,Medium,Medium,Yes,7,7.8,Low,Yes,0,Medium,Medium,Public,Negative,4,No,High School,Moderate,Male,6.6,13.95,0
-24,72,Medium,Medium,No,7,7.5,Medium,Yes,3,High,Medium,Private,Neutral,2,No,College,Near,Female,6.8,17.28,0
-17,73,Low,Medium,Yes,9,6.8,Low,Yes,2,Medium,Medium,Public,Positive,3,Yes,College,Near,Female,6.3,12.41,1
-16,73,Medium,Medium,Yes,4,6.1,Low,Yes,4,Low,High,Private,Neutral,5,No,High School,Moderate,Male,6.4,11.68,1
-22,65,Low,Medium,No,7,8.2,Medium,Yes,2,Medium,High,Public,Positive,4,Yes,College,Near,Male,6.5,14.3,0
-26,62,Low,Medium,No,6,7.9,Medium,Yes,1,Low,Medium,Public,Positive,3,Yes,College,Near,Female,6.3,16.12,1
-13,70,Medium,High,Yes,8,7.8,Medium,Yes,0,Low,Medium,Private,Negative,3,Yes,High School,Near,Male,6.1,9.1,1
-26,94,Medium,Medium,No,9,8.9,Medium,Yes,0,Low,Medium,Public,Neutral,3,Yes,High School,Near,Female,7.0,24.44,0
-8,90,High,High,No,7,7.9,High,Yes,2,Low,Medium,Public,Negative,4,No,College,Near,Male,6.8,7.2,0
-29,76,Low,High,Yes,8,6.0,Medium,Yes,2,Medium,Medium,Public,Negative,3,No,High School,Near,Female,6.8,22.04,0
-27,74,Medium,High,Yes,9,8.4,Low,Yes,3,High,Medium,Private,Negative,3,No,College,Near,Female,7.0,19.98,0
-17,64,Medium,Medium,Yes,6,6.0,Medium,Yes,1,Medium,Medium,Private,Positive,2,Yes,High School,Near,Male,6.1,10.88,1
-17,67,High,Medium,Yes,10,5.1,Medium,Yes,3,Low,Medium,Public,Positive,5,No,High School,Near,Male,6.5,11.39,0
-21,89,Low,Medium,Yes,9,8.5,Low,Yes,1,Medium,Medium,Public,Negative,5,No,College,Far,Female,6.8,18.69,0
-35,63,High,High,Yes,6,9.0,Low,Yes,0,Medium,Medium,Public,Positive,3,No,College,Near,Male,7.1,22.05,0
-25,96,Low,Low,No,7,9.8,Medium,Yes,1,Medium,Medium,Private,Neutral,3,No,College,Near,Male,7.1,24.0,0
-22,75,Medium,Low,Yes,5,6.6,Low,Yes,2,Low,Medium,Public,Positive,2,No,High School,Far,Male,8.0,16.5,0
-22,65,High,Low,No,8,9.1,Medium,Yes,2,High,Medium,Public,Negative,2,No,College,Moderate,Female,6.5,14.3,0
-24,94,Low,Medium,Yes,6,7.5,Low,Yes,1,Low,High,Public,Negative,4,No,High School,Near,Female,6.9,22.56,0
-21,93,Medium,Medium,Yes,6,5.6,Medium,No,1,Low,Medium,Public,Positive,3,No,High School,Near,Male,6.8,19.53,0
-18,96,High,Low,No,7,5.7,Low,Yes,1,Low,Medium,Public,Negative,3,No,High School,Moderate,Female,6.6,17.28,0
-21,62,High,Medium,No,6,8.6,Medium,Yes,2,Medium,High,Private,Positive,4,No,High School,Near,Female,6.7,13.02,0
-17,65,Medium,Medium,No,7,6.5,Medium,Yes,0,High,Medium,Private,Neutral,4,No,High School,Moderate,Male,6.2,11.05,1
-12,77,Low,Medium,No,7,6.4,Low,Yes,2,High,High,Public,Positive,4,No,College,Moderate,Female,6.4,9.24,1
-14,76,High,Medium,Yes,8,5.9,Low,Yes,3,Medium,Medium,Private,Neutral,5,No,High School,Moderate,Male,6.5,10.64,0
-29,90,Medium,Medium,Yes,9,8.3,Medium,Yes,0,Medium,High,Private,Positive,3,No,High School,Near,Female,7.2,26.1,0
-11,81,Medium,Medium,Yes,6,8.2,High,Yes,3,Medium,High,Public,Neutral,4,No,High School,Near,Male,6.7,8.91,0
-20,89,Low,Low,Yes,6,7.4,Low,Yes,1,Medium,Low,Private,Positive,3,No,Postgraduate,Far,Male,6.6,17.8,0
-26,76,Medium,Medium,Yes,5,5.7,Medium,Yes,1,Medium,Medium,Public,Positive,4,No,High School,Near,Male,6.8,19.76,0
-9,97,Low,Medium,Yes,7,5.7,Medium,Yes,4,Medium,High,Public,Neutral,5,No,High School,Far,Female,6.7,8.73,0
-20,67,High,High,No,6,5.9,Low,Yes,1,Medium,Medium,Private,Negative,4,No,College,Near,Female,6.5,13.4,0
-15,60,Medium,Medium,No,7,6.6,High,Yes,2,High,Medium,Public,Neutral,4,No,High School,Near,Male,6.2,9.0,1
-16,88,Medium,Medium,Yes,6,5.2,Medium,Yes,2,High,High,Public,Positive,3,No,High School,Near,Female,6.8,14.08,0
-7,96,Medium,High,No,9,9.1,Medium,Yes,0,Low,Medium,Public,Neutral,4,No,College,Near,Male,6.7,6.72,0
-24,79,High,Medium,No,7,8.1,High,Yes,0,High,Medium,Public,Positive,2,No,High School,Moderate,Male,6.9,18.96,0
-15,62,Medium,Medium,No,7,7.4,High,Yes,0,Low,High,Public,Negative,3,No,Postgraduate,Moderate,Female,6.1,9.3,1
-18,99,Medium,High,Yes,7,8.1,Low,Yes,1,Medium,Medium,Public,Neutral,3,No,Postgraduate,Near,Male,7.2,17.82,0
-9,94,Medium,Medium,Yes,6,8.1,Low,Yes,0,Low,High,Public,Positive,3,No,High School,Near,Male,6.6,8.46,0
-23,86,Low,Medium,Yes,4,10.0,Medium,Yes,0,Low,High,Public,Negative,3,No,Postgraduate,Near,Male,6.9,19.78,0
-25,95,Medium,Medium,Yes,7,7.7,High,No,0,Low,High,Public,Neutral,3,No,Postgraduate,Near,Male,7.1,23.75,0
-19,77,High,Medium,Yes,6,7.7,High,Yes,1,Low,High,Private,Neutral,3,No,College,Near,Female,6.8,14.63,0
-16,90,Medium,Medium,No,7,5.4,High,No,2,Medium,Medium,Public,Positive,3,No,High School,Near,Female,6.7,14.4,0
-19,65,Low,Medium,Yes,5,9.5,Medium,Yes,2,Medium,High,Private,Neutral,4,No,College,Near,Male,6.5,12.35,0
-16,92,Medium,Medium,Yes,7,6.6,High,Yes,2,Medium,Medium,Public,Positive,4,No,Postgraduate,Moderate,Female,7.0,14.72,0
-5,75,Medium,Low,Yes,10,8.4,Medium,Yes,0,High,Medium,Private,Neutral,4,No,Postgraduate,Moderate,Female,6.2,3.75,1
-21,94,Medium,Medium,Yes,7,7.3,Medium,Yes,1,Medium,Medium,Private,Positive,5,No,College,Near,Female,7.1,19.74,0
-9,75,Medium,Medium,No,7,5.4,Low,Yes,2,Low,Medium,Public,Positive,4,No,High School,Near,Female,6.1,6.75,1
-7,73,High,Medium,Yes,6,7.5,Medium,Yes,3,Low,Medium,Public,Neutral,3,No,College,Near,Female,6.4,5.11,1
-9,89,Medium,Medium,Yes,6,9.6,Medium,Yes,0,High,Low,Public,Negative,4,No,High School,Near,Male,6.6,8.01,0
-19,98,High,Low,Yes,7,6.2,High,Yes,1,Low,High,Public,Neutral,2,No,High School,Near,Female,7.0,18.62,0
-24,66,High,Medium,Yes,7,7.1,Low,Yes,1,Low,High,Public,Neutral,3,No,High School,Near,Male,6.6,15.84,0
-22,86,Medium,Medium,Yes,5,5.7,High,Yes,2,Medium,Medium,Public,Positive,3,No,College,Moderate,Male,6.9,18.92,0
-22,73,Low,Medium,No,5,7.9,Medium,Yes,4,Medium,Low,Public,Negative,1,No,Postgraduate,Moderate,Female,6.5,16.06,0
-11,83,Low,Medium,No,7,6.3,High,Yes,3,High,Medium,Public,Negative,2,No,High School,Far,Female,6.3,9.13,1
-20,71,Medium,Medium,No,7,7.0,High,Yes,0,High,High,Public,Negative,4,No,High School,Near,Female,6.5,14.2,0
-31,61,Medium,Medium,No,4,7.9,Medium,Yes,0,Low,Low,Public,Positive,3,No,High School,Moderate,Female,6.5,18.91,0
-16,85,Low,Medium,No,7,8.5,High,Yes,1,Medium,High,Public,Neutral,2,No,High School,Near,Male,6.6,13.6,0
-28,73,High,Medium,Yes,6,7.1,Medium,Yes,0,Medium,High,Private,Positive,2,No,College,Moderate,Female,6.9,20.44,0
-21,72,High,High,No,5,7.3,Medium,Yes,1,Medium,Medium,Public,Neutral,3,No,High School,Near,Male,6.7,15.12,0
-25,65,High,High,Yes,4,7.6,High,Yes,1,High,Medium,Private,Neutral,1,No,High School,Moderate,Female,6.7,16.25,0
-23,91,Low,Medium,Yes,8,7.3,Medium,No,3,Medium,Medium,Public,Negative,5,No,High School,Far,Male,6.8,20.93,0
-18,79,Medium,High,Yes,6,9.6,Medium,Yes,3,Medium,Low,Public,Positive,3,Yes,Postgraduate,Near,Male,6.9,14.22,0
-15,73,Medium,High,No,5,6.1,Low,No,1,Low,High,Private,Positive,2,No,Postgraduate,Moderate,Male,6.3,10.95,1
-17,64,High,High,Yes,6,9.2,Medium,Yes,0,Medium,Medium,Private,Positive,1,No,Postgraduate,Near,Male,6.6,10.88,0
-22,99,High,Low,No,7,6.5,Medium,Yes,3,Low,Low,Public,Neutral,3,No,Postgraduate,Near,Female,7.1,21.78,0
-22,95,Medium,Medium,No,7,8.5,Medium,Yes,0,Medium,Medium,Private,Positive,4,No,College,Near,Male,7.1,20.9,0
-20,83,Medium,Medium,No,6,5.1,Medium,Yes,2,Low,High,Public,Negative,4,No,Postgraduate,Near,Male,6.7,16.6,0
-16,95,High,Low,Yes,6,8.6,Medium,Yes,0,Low,High,Private,Neutral,3,No,High School,Near,Male,6.9,15.2,0
-14,89,Medium,Medium,Yes,8,5.9,High,Yes,1,Low,Medium,Private,Neutral,3,No,College,Near,Male,6.7,12.46,0
-30,79,Medium,High,No,7,7.8,Medium,No,3,High,High,Private,Positive,2,No,Postgraduate,Moderate,Female,7.2,23.7,0
-16,76,Medium,Medium,No,7,9.0,Medium,Yes,0,Low,Medium,Public,Neutral,3,No,Postgraduate,Moderate,Male,6.5,12.16,0
-23,65,High,Medium,No,6,6.7,High,No,3,Medium,Medium,Private,Negative,5,No,High School,Moderate,Male,6.5,14.95,0
-29,98,Medium,High,No,5,8.6,Low,Yes,2,Medium,Medium,Private,Negative,4,No,High School,Far,Male,7.3,28.42,0
-26,97,High,Low,Yes,6,6.6,Medium,Yes,2,Medium,Medium,Public,Positive,1,No,College,Near,Female,7.3,25.22,0
-19,62,High,Low,Yes,8,6.0,Medium,Yes,1,Low,Medium,Public,Positive,2,No,College,Far,Female,6.1,11.78,1
-24,74,Low,Low,Yes,9,5.4,Medium,Yes,1,Low,Medium,Public,Neutral,3,No,High School,Near,Female,6.3,17.76,1
-15,69,Medium,Medium,Yes,7,8.9,Medium,Yes,1,Low,High,Public,Negative,2,No,College,Moderate,Female,6.3,10.35,1
-24,61,Medium,Medium,No,7,8.0,High,Yes,0,Low,Medium,Public,Positive,3,No,Postgraduate,Moderate,Male,6.4,14.64,1
-16,94,Low,Medium,Yes,8,5.8,Medium,Yes,2,Low,Medium,Public,Positive,3,Yes,College,Near,Male,6.7,15.04,0
-20,94,Medium,Medium,Yes,6,7.0,High,Yes,1,Medium,Medium,Public,Neutral,2,No,High School,Moderate,Female,6.9,18.8,0
-16,100,High,High,No,7,5.2,Medium,Yes,4,Low,Medium,Public,Negative,4,No,High School,Near,Female,7.1,16.0,0
-15,73,Medium,High,No,5,5.6,Medium,Yes,1,Medium,Medium,Public,Positive,2,No,Postgraduate,Near,Female,6.5,10.95,0
-26,65,Low,Medium,No,7,5.3,Low,Yes,3,High,Medium,Public,Positive,2,No,High School,Near,Female,6.4,16.9,1
-25,93,Low,Medium,No,8,9.3,Medium,Yes,2,Medium,Medium,Public,Positive,3,No,College,Near,Male,7.2,23.25,0
-25,69,High,Low,Yes,7,5.2,High,Yes,1,Low,Medium,Public,Positive,4,No,High School,Moderate,Male,6.5,17.25,0
-16,89,High,Medium,No,9,9.6,Medium,Yes,2,Medium,Low,Public,Positive,3,No,College,Far,Male,6.9,14.24,0
-14,91,Medium,High,Yes,8,7.0,Medium,Yes,2,Low,Medium,Private,Neutral,0,No,Postgraduate,Moderate,Male,6.8,12.74,0
-26,98,Medium,Low,Yes,7,9.7,Medium,Yes,2,Low,Medium,Public,Neutral,2,Yes,Postgraduate,Moderate,Male,7.2,25.48,0
-14,76,High,Low,No,7,7.7,Low,No,2,High,Medium,Public,Positive,4,No,College,Near,Male,6.5,10.64,0
-28,72,High,Medium,Yes,5,7.8,Low,No,5,Medium,Low,Private,Negative,2,No,College,Far,Male,6.7,20.16,0
-14,74,Medium,High,No,5,9.5,High,Yes,1,Low,High,Public,Positive,3,Yes,College,Near,Male,6.6,10.36,0
-12,98,Medium,Low,Yes,4,5.4,Medium,Yes,2,Medium,High,Private,Neutral,3,No,High School,Near,Female,6.7,11.76,0
-27,92,High,Medium,Yes,6,9.9,Low,Yes,4,Low,Low,Private,Positive,3,No,High School,Near,Female,7.4,24.84,0
-35,86,Low,Medium,No,8,5.9,Medium,Yes,2,Low,Low,Public,Positive,2,No,College,Moderate,Female,7.0,30.1,0
-14,81,Medium,Medium,No,6,8.8,Medium,Yes,1,High,Medium,Public,Positive,3,No,Postgraduate,Moderate,Female,6.7,11.34,0
-21,95,High,Medium,No,4,5.5,Medium,Yes,2,Medium,High,Private,Neutral,1,No,College,Near,Male,7.1,19.95,0
-26,76,Medium,Medium,Yes,8,6.7,High,Yes,1,Low,Medium,Public,Negative,3,No,High School,Moderate,Male,6.7,19.76,0
-21,93,Medium,Low,No,7,6.7,High,Yes,2,Low,Medium,Public,Neutral,3,No,College,Far,Female,6.8,19.53,0
-22,65,Low,High,Yes,6,8.5,Medium,Yes,2,High,Medium,Public,Positive,3,Yes,Postgraduate,Near,Female,6.6,14.3,0
-22,73,High,High,Yes,4,7.6,High,Yes,3,Medium,Medium,Public,Negative,4,No,College,Far,Male,6.9,16.06,0
-16,78,Low,High,No,9,9.0,Medium,Yes,3,Low,Medium,Public,Negative,3,No,Postgraduate,Moderate,Male,6.6,12.48,0
-18,77,Medium,High,Yes,7,5.5,High,No,3,High,Medium,Private,Neutral,3,Yes,High School,Near,Female,6.6,13.86,0
-18,65,Medium,Medium,Yes,6,5.3,Medium,Yes,1,Medium,Medium,Private,Positive,3,Yes,Postgraduate,Near,Male,6.3,11.7,1
-11,88,High,Medium,Yes,7,5.6,Low,Yes,2,Medium,Medium,Public,Neutral,2,No,College,Near,Male,6.6,9.68,0
-21,62,Low,High,Yes,7,5.0,Low,No,1,High,Medium,Public,Negative,2,No,High School,Moderate,Female,6.0,13.02,1
-24,77,High,High,Yes,7,8.8,Low,Yes,1,High,Medium,Public,Negative,5,No,College,Near,Male,7.1,18.48,0
-25,81,High,High,Yes,8,6.8,Low,Yes,0,Low,High,Public,Neutral,3,No,College,Moderate,Female,6.9,20.25,0
-18,71,Medium,High,Yes,6,8.1,Medium,Yes,1,Low,High,Public,Positive,3,No,High School,Near,Male,6.6,12.78,0
-22,70,Medium,High,No,7,8.4,Low,Yes,3,Low,High,Public,Positive,5,No,High School,Near,Male,6.8,15.4,0
-21,91,Medium,Medium,No,5,6.6,Low,Yes,1,High,Medium,Public,Positive,3,No,College,Near,Female,6.9,19.11,0
-27,74,Medium,Medium,Yes,6,7.4,Medium,Yes,2,Medium,High,Public,Neutral,2,No,College,Far,Male,6.8,19.98,0
-22,73,Medium,Low,No,8,7.7,Medium,Yes,1,High,Medium,Public,Neutral,3,No,High School,Far,Male,6.4,16.06,1
-20,65,High,High,Yes,6,9.7,Medium,Yes,0,Low,Low,Private,Negative,3,No,High School,Moderate,Female,6.5,13.0,0
-25,69,High,Medium,Yes,7,5.6,Medium,Yes,2,Low,Medium,Private,Neutral,4,No,High School,Near,Male,6.7,17.25,0
-11,75,High,High,Yes,9,7.7,Medium,No,1,High,High,Private,Neutral,2,Yes,College,Moderate,Male,6.4,8.25,1
-22,98,Medium,Medium,Yes,7,10.0,Low,Yes,0,Low,Medium,Public,Neutral,3,No,High School,Far,Male,7.0,21.56,0
-30,80,High,High,No,6,5.4,High,Yes,1,High,Medium,Public,Positive,3,No,High School,Moderate,Female,7.1,24.0,0
-24,96,Medium,Medium,No,8,9.6,Medium,Yes,2,Low,Low,Public,Positive,3,No,College,Near,Female,7.2,23.04,0
-27,64,High,Medium,Yes,6,5.6,Low,Yes,0,Low,High,Public,Neutral,5,No,College,Moderate,Female,6.5,17.28,0
-16,64,High,Medium,Yes,8,7.0,Low,Yes,3,High,High,Private,Negative,3,No,High School,Far,Female,6.3,10.24,1
-23,70,Medium,High,Yes,7,7.3,High,Yes,1,Low,Medium,Private,Positive,3,No,Postgraduate,Near,Male,6.8,16.1,0
-19,88,Medium,High,Yes,8,5.7,Low,No,1,Medium,Low,Private,Negative,4,No,College,Near,Male,6.6,16.72,0
-7,86,High,Medium,No,7,6.8,Medium,Yes,5,Low,Medium,Public,Positive,4,No,Postgraduate,Moderate,Male,6.7,6.02,0
-18,85,Medium,High,Yes,6,8.6,High,No,1,Medium,Medium,Private,Neutral,3,No,High School,Near,Female,6.8,15.3,0
-30,87,Low,Medium,No,7,5.9,Medium,Yes,2,Medium,Medium,Public,Neutral,3,No,High School,Moderate,Male,6.9,26.1,0
-16,62,Low,Medium,No,8,7.4,Medium,Yes,2,High,High,Private,Neutral,3,No,High School,Moderate,Male,6.2,9.92,1
-17,92,Medium,High,Yes,8,6.6,Medium,Yes,2,Low,Medium,Public,Positive,3,No,High School,Near,Female,6.9,15.64,0
-22,74,High,High,Yes,5,9.9,Medium,Yes,0,Low,Medium,Public,Neutral,2,No,College,Near,Female,6.8,16.28,0
-9,77,Medium,Medium,No,7,5.7,Low,Yes,2,Medium,Low,Public,Negative,3,No,High School,Near,Male,6.1,6.93,1
-23,62,High,Medium,Yes,6,9.2,Low,Yes,0,High,Medium,Public,Neutral,2,No,High School,Moderate,Male,6.5,14.26,0
-26,68,Medium,High,No,8,9.6,High,Yes,1,Medium,High,Public,Neutral,2,No,High School,Near,Male,6.9,17.68,0
-24,75,Medium,Low,No,7,9.4,Medium,Yes,2,Medium,High,Public,Negative,4,No,High School,Near,Male,6.7,18.0,0
-22,96,Low,Low,Yes,5,5.9,Medium,Yes,0,Medium,High,Private,Positive,2,No,High School,Far,Female,6.7,21.12,0
-16,74,Medium,High,Yes,7,7.4,Low,Yes,4,Low,Low,Private,Positive,3,No,High School,Near,Male,6.6,11.84,0
-25,94,High,High,No,5,8.5,High,Yes,1,Medium,Medium,Public,Neutral,2,No,College,Near,Female,7.4,23.5,0
-26,77,Medium,Medium,Yes,5,10.0,Low,Yes,1,Low,High,Private,Positive,5,No,High School,Near,Female,7.0,20.02,0
-9,81,High,Medium,Yes,9,7.3,Medium,Yes,1,Medium,Medium,Public,Negative,1,No,Postgraduate,Near,Male,6.5,7.29,0
-26,89,High,Medium,No,7,6.6,Medium,Yes,0,Low,Medium,Public,Neutral,5,Yes,College,Near,Male,7.0,23.14,0
-23,96,Low,Medium,Yes,7,8.9,Medium,Yes,1,Low,Medium,Private,Positive,3,No,College,Far,Female,7.0,22.08,0
-3,79,Low,Medium,Yes,7,6.4,Low,Yes,0,Medium,Medium,Public,Negative,3,No,Postgraduate,Far,Female,5.8,2.37,1
-19,79,High,High,Yes,9,8.5,Medium,Yes,0,Medium,Medium,Public,Positive,2,No,High School,Moderate,Male,6.8,15.01,0
-22,76,Medium,Medium,Yes,8,9.2,Medium,Yes,1,Low,High,Public,Neutral,4,No,High School,Near,Female,6.8,16.72,0
-20,75,Medium,Medium,Yes,9,8.2,High,Yes,0,Low,Low,Public,Positive,5,No,College,Moderate,Female,6.6,15.0,0
-20,95,Medium,Medium,Yes,6,7.4,Medium,Yes,1,High,Low,Public,Positive,4,No,High School,Far,Female,7.0,19.0,0
-22,63,Medium,High,Yes,7,8.5,Medium,Yes,4,High,High,Public,Negative,3,No,College,Near,Female,6.8,13.86,0
-22,61,Low,Low,Yes,10,7.6,High,Yes,1,High,High,Public,Positive,2,No,College,Near,Male,6.4,13.42,1
-19,62,High,Medium,Yes,9,8.3,High,Yes,2,Medium,Medium,Public,Positive,3,No,College,Near,Male,6.7,11.78,0
-12,82,Low,Medium,No,9,7.9,High,Yes,0,Low,Medium,Private,Positive,2,No,College,Moderate,Female,6.3,9.84,1
-23,82,Medium,High,No,6,8.3,Medium,Yes,2,Medium,Medium,Private,Positive,3,No,Postgraduate,Moderate,Male,7.1,18.86,0
-28,73,Low,Medium,Yes,8,5.4,Medium,Yes,4,Medium,Medium,Private,Neutral,1,No,High School,Near,Female,6.7,20.44,0
-16,93,Medium,Medium,Yes,8,5.5,Low,Yes,0,High,Medium,Public,Neutral,4,No,High School,Moderate,Male,6.7,14.88,0
-25,80,Medium,Medium,Yes,10,8.8,Low,Yes,0,Low,High,Private,Negative,2,No,College,Moderate,Male,6.7,20.0,0
-14,94,High,Medium,No,7,7.4,Medium,Yes,1,High,Medium,Private,Positive,5,No,College,Near,Male,7.0,13.16,0
-18,78,Medium,Medium,No,9,9.1,High,Yes,2,High,Low,Public,Neutral,4,No,College,Far,Female,6.7,14.04,0
-17,96,Medium,Medium,No,9,9.3,Low,Yes,3,Medium,Medium,Private,Neutral,2,No,High School,Far,Male,6.9,16.32,0
-32,97,High,Low,Yes,5,9.7,Low,Yes,1,Low,High,Public,Positive,5,No,College,Moderate,Female,7.6,31.04,0
-12,68,High,High,Yes,7,7.5,Medium,Yes,1,Medium,Low,Private,Positive,4,No,High School,Near,Male,6.4,8.16,1
-23,87,Medium,High,No,6,7.2,Medium,Yes,1,Low,High,Private,Negative,3,No,College,Moderate,Male,6.9,20.01,0
-27,78,Medium,Medium,Yes,5,7.6,High,Yes,1,Medium,Medium,Private,Positive,4,No,Postgraduate,Near,Male,7.1,21.06,0
-23,95,Medium,Medium,Yes,8,9.4,Medium,Yes,1,Medium,Medium,Public,Positive,4,No,High School,Near,Male,7.3,21.85,0
-19,92,Medium,Medium,Yes,7,9.0,Medium,Yes,1,Low,High,Public,Positive,2,No,High School,Near,Female,7.0,17.48,0
-21,78,Medium,Medium,Yes,10,5.5,Medium,Yes,1,High,Low,Private,Positive,2,No,College,Near,Male,6.7,16.38,0
-27,73,High,High,Yes,7,7.3,High,Yes,5,High,High,Public,Negative,3,No,High School,Near,Female,7.3,19.71,0
-15,89,Medium,Medium,Yes,8,9.6,High,Yes,3,Low,High,Public,Negative,3,No,High School,Near,Male,6.9,13.35,0
-15,94,Medium,High,Yes,8,6.4,Medium,Yes,2,Low,Medium,Public,Negative,1,No,College,Near,Male,6.8,14.1,0
-22,79,Low,Medium,No,10,5.7,Low,Yes,1,Medium,High,Public,Positive,2,No,High School,Near,Male,6.5,17.38,0
-21,69,High,Low,Yes,7,6.3,Medium,Yes,0,Medium,Medium,Public,Positive,3,No,High School,Moderate,Male,6.4,14.49,1
-7,88,Medium,High,Yes,7,6.4,Low,Yes,2,Medium,High,Public,Neutral,4,No,Postgraduate,Moderate,Male,6.6,6.16,0
-17,62,High,Low,Yes,6,5.4,Low,Yes,2,Medium,High,Public,Neutral,3,No,College,Near,Male,6.2,10.54,1
-22,78,Low,High,Yes,8,6.9,High,Yes,2,Low,Medium,Public,Negative,2,No,High School,Near,Female,6.7,17.16,0
-11,95,Medium,Medium,Yes,5,9.5,Low,Yes,1,Low,High,Public,Positive,3,No,Postgraduate,Near,Male,6.9,10.45,0
-20,95,Medium,Medium,No,6,7.6,Medium,Yes,0,Low,High,Private,Positive,4,No,High School,Moderate,Female,6.9,19.0,0
-23,64,Medium,High,Yes,7,5.5,Medium,Yes,0,Medium,Medium,Public,Positive,4,No,High School,Moderate,Male,6.5,14.72,0
-23,73,Medium,Medium,No,6,6.3,Medium,Yes,1,High,Medium,Public,Positive,3,No,High School,Near,Male,6.7,16.79,0
-15,67,Medium,High,Yes,6,7.4,High,Yes,0,High,Medium,Public,Positive,2,No,Postgraduate,Near,Female,6.6,10.05,0
-10,85,Medium,High,Yes,5,9.2,Medium,Yes,0,Low,High,Private,Positive,4,Yes,High School,Far,Female,6.5,8.5,0
-24,81,Medium,Low,No,9,6.1,Medium,Yes,1,Low,Low,Public,Positive,4,No,College,Near,Female,6.6,19.44,0
-19,61,Medium,Medium,No,6,6.6,Medium,Yes,0,High,Medium,Public,Neutral,1,No,High School,Near,Male,6.1,11.59,1
-26,70,Medium,High,Yes,7,6.2,Medium,Yes,0,Low,Medium,Private,Negative,1,No,College,Near,Female,6.6,18.2,0
-17,90,Medium,High,No,8,8.4,Medium,Yes,1,Low,Low,Public,Negative,4,No,High School,Far,Female,6.7,15.3,0
-14,90,Low,Medium,Yes,7,6.6,Medium,Yes,1,Medium,Medium,Public,Neutral,5,No,College,Near,Male,6.7,12.6,0
-27,91,Medium,Low,No,8,5.7,Medium,Yes,0,Low,Low,Private,Neutral,4,No,Postgraduate,Moderate,Male,6.8,24.57,0
-24,89,Low,Medium,No,5,5.8,Medium,Yes,3,High,Medium,Public,Positive,3,No,High School,Near,Female,6.9,21.36,0
-20,85,Low,Medium,Yes,5,7.5,Low,Yes,1,Medium,Medium,Public,Neutral,2,No,College,Near,Male,6.7,17.0,0
-17,87,High,High,Yes,6,9.4,Medium,Yes,2,Low,Medium,Private,Neutral,3,No,High School,Moderate,Male,7.0,14.79,0
-24,60,Medium,Medium,Yes,8,9.9,Medium,Yes,2,Low,Low,Public,Neutral,1,No,High School,Moderate,Male,6.4,14.4,1
-10,76,Medium,Low,No,6,7.6,Medium,Yes,1,High,High,Public,Negative,2,No,Postgraduate,Near,Male,8.0,7.6,0
-16,63,Medium,High,Yes,6,7.3,Medium,Yes,0,Medium,Medium,Public,Neutral,4,No,College,Near,Male,6.3,10.08,1
-24,89,Medium,High,Yes,6,6.3,Medium,Yes,2,High,Medium,Private,Positive,3,No,College,Near,Male,7.2,21.36,0
-17,86,Low,Medium,No,6,6.2,Low,Yes,2,Medium,High,Public,Positive,4,No,High School,Near,Female,6.6,14.62,0
-23,96,Medium,High,Yes,5,8.6,Medium,Yes,3,Medium,High,Public,Neutral,3,Yes,High School,Near,Male,7.4,22.08,0
-17,76,Medium,Medium,No,6,7.3,Medium,Yes,3,Low,High,Private,Neutral,3,No,Postgraduate,Near,Male,6.7,12.92,0
-21,84,Medium,Medium,No,6,7.5,Low,No,1,High,Medium,Public,Positive,3,No,College,Moderate,Male,6.7,17.64,0
-12,83,Medium,High,No,8,6.1,Medium,Yes,3,High,Medium,Public,Neutral,5,Yes,High School,Near,Male,6.6,9.96,0
-23,86,High,Medium,No,7,5.4,Low,Yes,2,Medium,Medium,Public,Negative,2,Yes,High School,Near,Female,6.7,19.78,0
-21,94,High,Medium,Yes,8,10.0,Low,Yes,0,Low,Medium,Public,Neutral,3,No,Postgraduate,Near,Male,7.2,19.74,0
-12,70,Low,Medium,Yes,8,5.5,Medium,Yes,2,Medium,High,Public,Negative,4,No,High School,Near,Female,6.1,8.4,1
-13,74,High,High,Yes,5,8.8,Low,Yes,3,Low,Medium,Private,Neutral,3,Yes,College,Near,Female,6.6,9.62,0
-18,91,High,High,Yes,7,6.2,Medium,Yes,3,Low,Medium,Private,Positive,3,No,High School,Near,Male,7.1,16.38,0
-15,77,Medium,Medium,Yes,7,5.2,Medium,Yes,1,Medium,Medium,Public,Neutral,2,No,College,Near,Male,6.4,11.55,1
-19,77,High,Low,No,6,9.7,Low,Yes,4,Low,Medium,Public,Negative,2,No,High School,Near,Male,6.6,14.63,0
-21,66,Medium,Medium,Yes,7,5.2,High,Yes,1,Medium,Medium,Public,Neutral,3,No,High School,Far,Female,6.3,13.86,1
-12,84,High,Medium,Yes,7,9.8,High,Yes,1,Low,Medium,Public,Positive,3,No,High School,Near,Female,6.8,10.08,0
-35,84,Medium,Medium,No,5,8.6,Medium,Yes,1,Medium,Medium,Public,Neutral,3,No,High School,Near,Female,7.2,29.4,0
-13,78,Medium,Low,Yes,5,5.4,Low,Yes,2,Low,High,Public,Positive,3,Yes,College,Near,Male,6.2,10.14,1
-11,87,Low,Medium,No,8,5.3,High,Yes,1,Medium,Medium,Public,Positive,3,No,High School,Near,Female,6.4,9.57,1
-24,90,Medium,Medium,No,8,6.5,Medium,Yes,4,Low,Medium,Public,Neutral,4,No,High School,Moderate,Male,7.0,21.6,0
-16,66,High,Medium,Yes,7,7.9,High,Yes,0,High,High,Private,Neutral,3,No,College,Near,Female,6.6,10.56,0
-19,91,High,Low,No,6,5.9,Medium,Yes,5,Medium,High,Public,Neutral,4,No,College,Moderate,Male,7.0,17.29,0
-20,60,Medium,Low,Yes,4,7.3,Medium,Yes,0,Low,Low,Public,Neutral,1,No,Postgraduate,Moderate,Female,6.0,12.0,1
-13,98,High,Low,Yes,7,8.1,Medium,Yes,1,Medium,Low,Private,Negative,3,No,Postgraduate,Near,Male,6.9,12.74,0
-14,81,Medium,High,Yes,6,6.4,Low,No,2,High,High,Public,Neutral,2,No,High School,Far,Female,6.4,11.34,1
-23,90,High,Medium,No,5,9.5,Low,Yes,2,Low,Medium,Public,Negative,2,No,High School,Moderate,Male,6.9,20.7,0
-23,82,Low,Medium,Yes,6,8.6,Medium,Yes,0,High,Medium,Public,Neutral,4,No,High School,Near,Male,6.8,18.86,0
-24,95,Medium,Low,Yes,6,9.6,High,Yes,3,Low,Medium,Private,Neutral,3,No,Postgraduate,Near,Female,7.3,22.8,0
-15,88,Low,Medium,Yes,4,6.7,Medium,Yes,1,Medium,High,Private,Positive,4,No,High School,Far,Female,6.6,13.2,0
-12,99,Medium,High,Yes,10,6.0,Medium,Yes,0,Low,Low,Public,Negative,1,No,High School,Moderate,Male,6.6,11.88,0
-34,78,Medium,High,Yes,8,6.8,Medium,Yes,1,Medium,Medium,Public,Negative,2,No,College,Near,Male,7.1,26.52,0
-9,76,Medium,Medium,Yes,7,7.9,Medium,Yes,1,Low,Medium,Public,Neutral,3,No,High School,Near,Female,6.2,6.84,1
-18,88,Low,Medium,No,8,8.7,Medium,Yes,2,Medium,High,Public,Neutral,2,No,Postgraduate,Moderate,Female,6.8,15.84,0
-16,85,Medium,Medium,No,8,8.7,High,Yes,4,Low,Medium,Private,Negative,3,No,High School,Far,Male,6.7,13.6,0
-20,90,Medium,Low,Yes,7,9.7,Medium,Yes,2,High,High,Public,Positive,3,No,College,Moderate,Male,7.1,18.0,0
-26,73,High,High,Yes,8,8.3,Low,Yes,2,Medium,Medium,Public,Positive,4,No,College,Near,Male,7.1,18.98,0
-30,98,Low,Low,Yes,5,5.0,High,Yes,0,Low,High,Public,Negative,2,No,College,Near,Male,7.0,29.4,0
-31,99,Medium,Low,Yes,4,5.7,High,Yes,1,High,High,Public,Neutral,2,No,Postgraduate,Moderate,Female,7.4,30.69,0
-24,99,High,Medium,Yes,7,6.9,Medium,Yes,0,Medium,Medium,Private,Positive,3,No,High School,Near,Male,7.3,23.76,0
-12,68,High,Medium,Yes,6,6.8,Low,Yes,2,Medium,Medium,Public,Positive,4,No,College,Near,Male,6.4,8.16,1
-25,85,Medium,Medium,No,8,5.8,Medium,Yes,2,Medium,High,Public,Neutral,4,No,College,Near,Male,7.0,21.25,0
-22,73,Low,Medium,No,6,5.8,High,Yes,1,Medium,Medium,Private,Positive,3,No,Postgraduate,Moderate,Male,6.5,16.06,0
-11,68,Low,High,Yes,8,5.0,Low,Yes,2,Low,High,Private,Positive,4,No,High School,Near,Female,6.1,7.48,1
-17,68,Low,High,No,8,5.3,Medium,Yes,0,Low,Medium,Public,Neutral,2,No,College,Near,Male,6.1,11.56,1
-21,99,High,Medium,Yes,6,6.5,Low,Yes,1,Medium,Medium,Private,Positive,2,No,College,Far,Female,7.1,20.79,0
-19,75,Medium,Medium,No,7,6.5,Low,Yes,0,Low,Low,Private,Neutral,4,No,High School,Near,Female,6.3,14.25,1
-21,70,High,High,No,9,6.6,Medium,Yes,1,Medium,Low,Public,Neutral,4,No,College,Moderate,Male,9.1,14.7,0
-13,82,Medium,High,No,8,5.6,Low,Yes,2,Low,High,Private,Neutral,3,No,Postgraduate,Near,Male,6.6,10.66,0
-27,71,Medium,Low,No,8,6.9,Medium,Yes,1,High,Medium,Public,Positive,4,No,College,Near,Male,6.7,19.17,0
-22,98,Medium,Medium,No,7,5.8,Medium,Yes,0,Medium,Medium,Private,Neutral,3,No,High School,Near,Male,7.0,21.56,0
-14,95,High,Medium,No,7,5.7,Medium,Yes,2,Low,Low,Public,Neutral,2,No,College,Near,Female,6.8,13.3,0
-19,61,Medium,Medium,No,7,7.4,Low,Yes,2,High,Medium,Public,Negative,3,No,Postgraduate,Far,Male,6.2,11.59,1
-19,66,High,Low,No,9,9.9,Medium,Yes,1,Medium,Medium,Public,Positive,3,No,College,Near,Male,6.6,12.54,0
-27,82,Medium,High,Yes,5,6.2,Low,Yes,1,Low,High,Private,Neutral,4,No,High School,Moderate,Female,6.9,22.14,0
-17,83,High,Medium,Yes,6,9.8,Medium,Yes,0,Medium,Medium,Public,Positive,3,No,High School,Near,Male,6.9,14.11,0
-34,63,Medium,High,Yes,10,6.0,Low,Yes,1,Medium,Medium,Public,Negative,4,No,High School,Near,Female,6.7,21.42,0
-4,83,High,Medium,No,7,9.9,Low,Yes,1,Low,Low,Private,Neutral,3,No,College,Near,Female,6.4,3.32,1
-23,91,Medium,High,Yes,10,6.2,Low,Yes,1,Medium,High,Private,Negative,3,No,College,Near,Male,7.0,20.93,0
-20,68,High,Low,Yes,7,9.9,High,Yes,0,Low,Medium,Public,Positive,2,Yes,College,Moderate,Female,6.4,13.6,1
-18,90,Medium,High,Yes,9,6.9,Medium,Yes,1,High,High,Private,Positive,3,No,College,Moderate,Female,7.1,16.2,0
-14,96,Medium,High,No,6,6.6,Medium,Yes,3,Medium,Medium,Public,Positive,2,No,College,Near,Female,7.0,13.44,0
-23,89,High,High,No,6,8.7,Medium,Yes,4,Medium,High,Private,Neutral,3,No,College,Near,Female,7.4,20.47,0
-13,79,Low,Low,Yes,6,5.8,High,Yes,2,Medium,Medium,Public,Positive,4,No,College,Moderate,Male,6.3,10.27,1
-14,100,Medium,Low,No,7,7.6,Low,Yes,1,Medium,Medium,Private,Neutral,3,No,Postgraduate,Near,Female,6.8,14.0,0
-21,62,Medium,Medium,No,7,9.4,Low,Yes,1,Low,High,Private,Positive,3,No,College,Moderate,Female,6.4,13.02,1
-13,82,Medium,High,No,6,6.0,Medium,Yes,1,Low,Low,Public,Positive,4,No,College,Far,Female,6.4,10.66,1
-30,63,Medium,High,Yes,8,9.6,Medium,Yes,4,Low,Medium,Private,Positive,3,No,Postgraduate,Near,Female,7.1,18.9,0
-16,82,High,Low,No,4,6.4,Low,Yes,1,Medium,Medium,Private,Neutral,2,No,Postgraduate,Moderate,Male,6.5,13.12,0
-19,75,High,High,Yes,6,9.6,Medium,Yes,2,Medium,Medium,Public,Positive,4,No,High School,Near,Female,7.0,14.25,0
-20,68,Low,Low,No,8,8.8,Medium,Yes,5,Low,Low,Private,Neutral,3,No,High School,Moderate,Male,6.3,13.6,1
-15,71,High,High,Yes,6,6.9,Low,Yes,2,Low,High,Private,Negative,4,No,College,Near,Female,6.5,10.65,0
-12,86,High,Medium,Yes,5,7.6,Low,No,2,High,Medium,Public,Positive,3,No,Postgraduate,Near,Female,6.8,10.32,0
-25,76,Medium,High,No,8,5.3,High,Yes,1,High,High,Public,Positive,3,Yes,High School,Far,Female,6.7,19.0,0
-17,66,High,Medium,No,6,5.4,Medium,Yes,2,High,Low,Public,Positive,3,Yes,High School,Near,Female,6.3,11.22,1
-13,98,High,Low,Yes,6,5.6,Medium,Yes,1,High,Low,Public,Negative,3,No,College,Moderate,Female,6.7,12.74,0
-13,70,Medium,Low,Yes,7,8.0,High,Yes,1,High,Medium,Public,Positive,4,No,College,Far,Female,6.3,9.1,1
-18,86,High,Medium,No,8,6.0,Medium,Yes,2,Low,High,Private,Neutral,1,No,College,Near,Male,8.8,15.48,0
-21,80,High,High,Yes,7,9.0,High,Yes,1,Low,Low,Public,Negative,2,No,College,Far,Male,6.8,16.8,0
-9,66,Low,Medium,No,9,10.0,Low,Yes,3,Medium,Medium,Public,Neutral,3,No,College,Near,Male,6.2,5.94,1
-20,84,Low,Low,No,8,7.2,Medium,Yes,3,High,Medium,Public,Neutral,3,No,High School,Near,Male,6.6,16.8,0
-30,99,Low,Medium,No,5,5.4,Medium,Yes,0,Medium,Medium,Private,Positive,3,No,Postgraduate,Near,Male,7.2,29.7,0
-15,83,Low,Low,Yes,5,7.5,Medium,Yes,1,Medium,Medium,Public,Neutral,3,No,High School,Far,Female,6.3,12.45,1
-22,70,High,Low,No,7,9.9,Medium,Yes,1,Low,High,Private,Positive,2,No,High School,Moderate,Male,6.6,15.4,0
-18,66,High,High,No,9,6.2,Medium,Yes,2,High,Medium,Public,Neutral,4,No,High School,Moderate,Female,6.5,11.88,0
-10,60,Medium,Medium,No,9,8.5,Medium,Yes,0,Medium,High,Public,Positive,4,No,Postgraduate,Near,Male,6.2,6.0,1
-20,89,High,Medium,Yes,6,7.4,Medium,Yes,1,Low,High,Private,Neutral,2,No,High School,Moderate,Male,6.9,17.8,0
-11,91,Low,High,No,7,9.4,Medium,Yes,1,Medium,Medium,Public,Neutral,3,Yes,High School,Moderate,Male,6.5,10.01,0
-18,86,High,Low,Yes,6,6.9,Low,Yes,2,Medium,High,Public,Positive,2,No,High School,Near,Male,6.8,15.48,0
-18,64,Low,Medium,Yes,9,6.4,Medium,Yes,4,Low,Medium,Public,Negative,4,Yes,High School,Near,Male,6.1,11.52,1
-25,70,Medium,Medium,Yes,4,7.2,Medium,Yes,0,Low,Low,Public,Neutral,4,No,College,Moderate,Male,6.5,17.5,0
-13,70,Medium,High,Yes,6,6.6,Medium,Yes,1,Medium,Medium,Public,Negative,4,No,High School,Near,Male,6.3,9.1,1
-11,89,Medium,Low,Yes,9,7.6,Medium,Yes,1,Medium,High,Public,Neutral,3,No,Postgraduate,Far,Male,6.6,9.79,0
-22,96,Medium,High,No,7,7.0,Medium,No,2,Medium,Medium,Private,Negative,4,No,College,Moderate,Male,7.0,21.12,0
-25,74,Low,Medium,Yes,6,6.5,High,Yes,0,High,Medium,Public,Neutral,1,No,High School,Moderate,Male,6.5,18.5,0
-10,100,Low,Medium,No,5,9.3,Low,Yes,2,Medium,Low,Public,Neutral,1,No,High School,Far,Female,6.5,10.0,0
-12,90,Medium,Medium,Yes,8,9.3,Low,Yes,3,High,Medium,Public,Neutral,3,No,High School,Near,Female,6.8,10.8,0
-13,93,Medium,High,No,9,6.2,Low,Yes,0,Low,Medium,Private,Neutral,3,No,High School,Moderate,Male,6.5,12.09,0
-17,76,Medium,Medium,Yes,8,7.9,Low,No,1,Low,Medium,Public,Neutral,4,Yes,Postgraduate,Far,Female,6.3,12.92,1
-12,79,Medium,Medium,No,8,7.3,Medium,Yes,2,Medium,Medium,Private,Neutral,4,No,High School,Near,Male,6.5,9.48,0
-22,79,Medium,Medium,No,9,7.6,Medium,Yes,1,Low,Medium,Private,Positive,2,No,High School,Near,Male,6.7,17.38,0
-22,64,High,Low,No,7,5.9,High,Yes,0,Medium,High,Private,Positive,5,Yes,High School,Near,Female,6.4,14.08,1
-20,92,Medium,High,Yes,4,8.2,High,Yes,0,Medium,Medium,Public,Neutral,4,No,Postgraduate,Near,Male,7.2,18.4,0
-17,87,Medium,High,No,4,6.8,Medium,Yes,2,Low,Low,Public,Positive,4,No,Postgraduate,Moderate,Male,6.8,14.79,0
-16,67,Low,High,Yes,8,9.8,Medium,Yes,0,High,Low,Private,Negative,3,No,High School,Moderate,Male,6.3,10.72,1
-19,73,Medium,Medium,Yes,6,6.4,Low,Yes,4,Medium,Medium,Public,Positive,5,Yes,College,Near,Female,6.6,13.87,0
-20,73,Medium,High,Yes,4,6.0,Medium,Yes,1,Low,Medium,Private,Positive,3,Yes,High School,Moderate,Male,6.4,14.6,1
-13,91,Low,Medium,No,6,9.0,Medium,Yes,1,High,Medium,Public,Negative,2,Yes,High School,Moderate,Female,6.5,11.83,0
-15,86,High,Medium,Yes,8,7.7,Medium,Yes,0,Medium,Medium,Public,Positive,3,No,Postgraduate,Near,Male,6.9,12.9,0
-25,99,Medium,High,No,6,5.8,High,Yes,0,Medium,Medium,Private,Positive,4,No,High School,Near,Male,7.2,24.75,0
-13,68,Medium,Medium,Yes,8,9.5,Medium,Yes,2,Low,Low,Private,Positive,4,No,High School,Moderate,Male,6.3,8.84,1
-22,70,High,Low,No,7,8.5,Medium,Yes,0,High,Medium,Private,Negative,3,No,High School,Far,Male,6.4,15.4,1
-20,97,Medium,Medium,No,7,8.1,Medium,Yes,3,Medium,High,Public,Neutral,3,Yes,College,Near,Male,7.1,19.4,0
-18,75,Low,Medium,Yes,7,5.9,Low,Yes,0,Medium,Medium,Public,Positive,2,Yes,High School,Near,Female,6.2,13.5,1
-16,87,High,High,Yes,6,8.5,Medium,Yes,2,Medium,High,Public,Neutral,1,No,High School,Near,Female,6.9,13.92,0
-16,74,Medium,High,No,9,8.0,Low,Yes,0,Medium,Medium,Public,Negative,5,No,High School,Near,Male,6.4,11.84,1
-24,97,High,Low,No,7,7.5,Low,Yes,1,Medium,Medium,Public,Negative,2,No,High School,Moderate,Female,6.9,23.28,0
-35,84,Low,Medium,Yes,8,9.2,High,Yes,6,Low,High,Public,Negative,4,No,High School,Moderate,Male,7.4,29.4,0
-19,83,High,Low,No,6,6.9,Medium,Yes,5,Medium,Medium,Private,Positive,2,No,Postgraduate,Far,Male,6.9,15.77,0
-9,70,High,Medium,Yes,8,7.0,Low,Yes,1,Medium,Medium,Public,Positive,3,No,College,Near,Male,6.3,6.3,1
-7,73,Medium,Medium,Yes,7,7.5,Medium,Yes,1,High,High,Private,Positive,3,No,College,Near,Male,6.4,5.11,1
-24,94,Medium,Medium,No,7,6.3,Medium,Yes,1,Low,High,Public,Neutral,3,No,High School,Near,Male,7.0,22.56,0
-14,96,Low,High,Yes,9,6.4,High,Yes,2,Low,High,Public,Neutral,3,No,Postgraduate,Moderate,Male,6.9,13.44,0
-21,94,High,High,No,5,9.4,Medium,Yes,2,Low,High,Private,Neutral,2,No,College,Near,Male,7.3,19.74,0
-25,81,Low,Medium,Yes,8,5.9,Low,Yes,3,Low,Medium,Public,Positive,4,No,College,Near,Male,6.8,20.25,0
-12,64,High,Low,Yes,6,7.4,High,Yes,0,Medium,Medium,Public,Positive,2,No,High School,Moderate,Male,6.1,7.68,1
-15,85,High,Medium,No,7,8.2,High,Yes,2,Medium,Medium,Public,Negative,4,No,High School,Far,Male,6.7,12.75,0
-25,99,Low,Medium,No,8,6.9,Medium,No,1,Low,High,Public,Positive,3,No,Postgraduate,Moderate,Male,7.0,24.75,0
-20,97,Medium,Low,Yes,8,8.4,Low,Yes,4,Medium,Medium,Public,Positive,5,No,High School,Near,Female,7.2,19.4,0
-20,84,High,Low,No,7,7.1,Medium,Yes,5,Low,High,Private,Positive,2,No,High School,Far,Female,6.8,16.8,0
-15,71,High,High,No,8,6.0,Medium,Yes,0,Low,High,Private,Negative,3,No,High School,Far,Female,6.2,10.65,1
-12,74,Medium,Medium,No,6,9.8,High,Yes,2,Low,Medium,Public,Neutral,3,No,College,Near,Male,6.5,8.88,0
-14,80,High,Medium,No,10,5.6,Low,Yes,1,Low,Medium,Public,Positive,3,No,Postgraduate,Moderate,Female,6.5,11.2,0
-16,86,High,Medium,Yes,7,7.8,Low,Yes,1,Low,Medium,Private,Positive,4,No,Postgraduate,Moderate,Male,6.8,13.76,0
-17,87,Medium,High,Yes,6,7.4,Low,Yes,1,Low,High,Private,Neutral,3,No,College,Moderate,Female,6.8,14.79,0
-15,98,Medium,Medium,Yes,9,7.2,Medium,Yes,1,Low,High,Public,Neutral,2,No,College,Near,Female,6.9,14.7,0
-23,80,High,Medium,No,7,5.7,Low,Yes,2,Medium,High,Public,Negative,2,No,Postgraduate,Moderate,Female,6.8,18.4,0
-38,86,Low,High,Yes,7,7.9,Low,Yes,3,Low,Medium,Public,Negative,3,No,High School,Near,Male,7.3,32.68,0
-23,79,Low,Medium,Yes,6,7.0,Medium,Yes,3,Medium,High,Public,Negative,4,No,Postgraduate,Moderate,Female,6.8,18.17,0
-18,91,High,High,Yes,7,7.1,High,Yes,0,Medium,Medium,Public,Neutral,3,No,High School,Near,Male,7.0,16.38,0
-19,79,Medium,High,No,7,10.0,Low,Yes,1,High,High,Public,Positive,2,No,College,Far,Female,6.9,15.01,0
-25,90,High,High,Yes,8,8.3,Medium,Yes,2,Medium,Medium,Public,Negative,3,No,College,Near,Male,7.3,22.5,0
-17,95,High,Medium,No,5,5.4,Low,Yes,2,High,High,Public,Neutral,2,No,College,Moderate,Female,6.9,16.15,0
-28,91,Low,Medium,No,7,9.0,Medium,Yes,2,High,Low,Private,Neutral,3,No,High School,Near,Male,7.1,25.48,0
-26,76,Medium,Medium,No,5,6.4,Low,Yes,0,Medium,Medium,Public,Positive,5,No,College,Far,Female,6.6,19.76,0
-21,77,Medium,Medium,Yes,6,6.0,Medium,Yes,1,Medium,Medium,Private,Neutral,3,No,College,Moderate,Male,6.6,16.17,0
-24,89,Medium,Low,Yes,9,5.3,Medium,Yes,1,Low,High,Private,Neutral,3,No,High School,Near,Male,6.8,21.36,0
-26,74,Medium,Low,Yes,8,9.6,Medium,Yes,2,Medium,High,Private,Neutral,3,No,High School,Near,Female,6.8,19.24,0
-15,70,High,High,No,6,8.5,High,Yes,0,Low,Medium,Private,Positive,2,No,College,Moderate,Male,6.5,10.5,0
-17,60,Medium,Medium,Yes,5,9.7,Medium,Yes,1,Medium,Medium,Private,Negative,4,No,College,Far,Male,6.2,10.2,1
-21,88,Medium,Medium,No,8,9.4,Medium,Yes,0,Medium,High,Public,Neutral,3,No,College,Near,Male,7.0,18.48,0
-28,67,Medium,Medium,No,8,6.0,High,Yes,0,Medium,Medium,Public,Positive,3,No,High School,Moderate,Female,6.5,18.76,0
-21,95,Medium,High,No,9,7.5,Medium,Yes,1,Low,Medium,Public,Neutral,2,No,College,Far,Male,6.9,19.95,0
-21,63,Medium,Medium,Yes,7,6.4,Medium,Yes,0,Low,Medium,Public,Negative,3,No,High School,Near,Female,6.2,13.23,1
-17,76,Medium,High,No,7,8.7,High,Yes,1,Medium,High,Public,Positive,4,No,High School,Near,Female,6.8,12.92,0
-31,88,Medium,High,No,7,8.3,Medium,Yes,0,Low,Medium,Private,Neutral,2,No,High School,Near,Male,7.2,27.28,0
-29,74,High,Medium,No,8,6.8,Medium,Yes,0,Medium,High,Public,Positive,4,No,High School,Near,Female,6.9,21.46,0
-18,68,High,Medium,No,7,7.2,Medium,Yes,0,Medium,Medium,Public,Neutral,3,No,College,Near,Male,6.4,12.24,1
-17,87,Medium,Medium,Yes,7,6.1,Medium,Yes,4,High,Medium,Public,Negative,3,Yes,High School,Near,Female,6.7,14.79,0
-24,83,High,Medium,Yes,7,5.2,High,Yes,1,Medium,High,Public,Positive,4,No,College,Near,Female,7.1,19.92,0
-17,61,Medium,Medium,Yes,7,8.7,High,Yes,5,Medium,Medium,Public,Neutral,3,No,High School,Near,Male,6.5,10.37,0
-32,68,Low,Medium,Yes,7,5.4,Medium,Yes,1,Low,Medium,Private,Neutral,1,No,Postgraduate,Near,Male,6.6,21.76,0
-9,98,High,High,No,7,5.8,Medium,Yes,2,Medium,Medium,Public,Negative,4,No,College,Near,Male,6.9,8.82,0
-28,93,Medium,Medium,No,7,7.9,High,Yes,0,Medium,Medium,Public,Positive,4,No,Postgraduate,Near,Male,7.4,26.04,0
-21,84,Medium,Medium,Yes,6,5.2,Medium,Yes,2,High,High,Public,Negative,5,No,High School,Moderate,Male,6.8,17.64,0
-14,76,Low,Medium,No,7,6.4,Medium,Yes,3,Medium,Medium,Private,Positive,3,No,College,Near,Male,6.4,10.64,1
-20,98,Medium,Medium,No,9,7.1,Medium,Yes,0,Low,Medium,Public,Negative,4,No,College,Moderate,Male,6.9,19.6,0
-15,61,Medium,High,Yes,6,5.4,Medium,Yes,0,High,High,Private,Neutral,2,No,Postgraduate,Near,Male,6.3,9.15,1
-27,94,Low,Medium,Yes,7,8.9,Medium,Yes,3,Low,Medium,Private,Positive,2,No,College,Near,Female,7.3,25.38,0
-15,66,Medium,Medium,No,9,6.3,Medium,Yes,3,Medium,Medium,Private,Neutral,3,No,High School,Near,Male,6.3,9.9,1
-23,66,Medium,Low,Yes,8,7.3,High,Yes,2,High,Medium,Public,Positive,2,No,College,Near,Female,6.6,15.18,0
-8,94,High,Low,No,8,8.9,High,Yes,0,Medium,Medium,Public,Neutral,2,No,High School,Near,Female,6.6,7.52,0
-28,94,Medium,Low,Yes,5,8.0,Medium,Yes,2,High,Medium,Public,Negative,2,No,High School,Moderate,Female,7.1,26.32,0
-14,66,Medium,Medium,Yes,5,9.3,Medium,Yes,1,Medium,Medium,Private,Negative,2,No,High School,Near,Male,6.2,9.24,1
-22,72,High,Medium,Yes,5,6.7,Low,Yes,2,Medium,Medium,Public,Neutral,4,No,College,Near,Female,6.7,15.84,0
-17,68,Low,Medium,Yes,9,10.0,High,Yes,1,Medium,High,Public,Negative,3,No,High School,Moderate,Male,6.4,11.56,1
-15,95,Medium,Medium,No,9,5.6,Medium,No,3,Low,High,Public,Positive,1,No,High School,Near,Male,6.7,14.25,0
-27,78,High,Low,Yes,5,7.7,Medium,Yes,0,Medium,Low,Private,Neutral,3,No,Postgraduate,Near,Male,6.9,21.06,0
-12,80,Medium,High,Yes,6,6.1,Medium,Yes,0,High,High,Private,Neutral,2,No,High School,Near,Male,6.5,9.6,0
-30,70,High,Low,No,6,8.4,High,Yes,2,Medium,Medium,Public,Positive,3,No,Postgraduate,Near,Male,7.0,21.0,0
-34,93,Low,Medium,No,6,9.1,Low,Yes,2,High,Medium,Public,Neutral,3,No,High School,Moderate,Female,7.3,31.62,0
-23,89,Low,Low,Yes,7,5.6,Low,Yes,4,Medium,Low,Private,Positive,4,No,Postgraduate,Near,Female,6.9,20.47,0
-20,90,Medium,Medium,No,7,7.8,High,Yes,0,Medium,High,Public,Positive,4,Yes,Postgraduate,Far,Male,6.9,18.0,0
-14,63,Medium,Medium,Yes,8,6.4,High,Yes,1,Low,Medium,Public,Neutral,3,No,High School,Moderate,Male,6.1,8.82,1
-10,98,Low,Medium,Yes,6,6.5,Medium,Yes,1,Low,High,Private,Positive,2,No,High School,Near,Male,6.6,9.8,0
-23,70,Medium,High,Yes,9,9.3,Medium,Yes,0,Low,High,Public,Neutral,2,Yes,Postgraduate,Moderate,Female,6.7,16.1,0
-14,98,High,High,Yes,7,7.6,Medium,Yes,0,Low,Medium,Public,Neutral,2,No,Postgraduate,Near,Male,7.1,13.72,0
-24,88,Medium,Medium,Yes,6,5.1,High,Yes,4,Medium,Low,Public,Positive,4,No,High School,Near,Male,7.1,21.12,0
-11,98,High,High,Yes,5,8.2,High,Yes,1,Medium,Medium,Private,Neutral,2,No,Postgraduate,Near,Male,7.1,10.78,0
-16,96,High,Medium,Yes,5,5.8,Medium,Yes,2,High,Low,Public,Positive,5,No,Postgraduate,Moderate,Male,7.1,15.36,0
-31,83,Low,High,Yes,6,7.0,Medium,Yes,3,Low,Medium,Private,Negative,3,No,College,Near,Male,7.1,25.73,0
-18,72,Medium,Low,No,9,8.4,Medium,Yes,2,Medium,Medium,Public,Neutral,4,No,High School,Near,Male,6.4,12.96,1
-30,85,Medium,Medium,Yes,6,9.6,Low,Yes,1,Medium,Medium,Private,Neutral,4,No,High School,Near,Female,7.2,25.5,0
-17,95,Medium,Low,Yes,8,8.5,Low,No,1,Low,High,Private,Negative,2,No,College,Moderate,Female,6.6,16.15,0
-21,79,Medium,Medium,Yes,8,9.5,High,Yes,0,Medium,Medium,Public,Neutral,2,No,Postgraduate,Near,Female,6.9,16.59,0
-21,95,Low,Medium,No,7,7.8,High,Yes,2,Low,High,Public,Neutral,2,Yes,High School,Near,Male,6.9,19.95,0
-23,71,High,Medium,Yes,4,7.9,Medium,No,2,Low,Medium,Public,Positive,3,No,High School,Near,Male,6.7,16.33,0
-28,64,High,Medium,No,7,8.3,Low,Yes,2,High,Medium,Private,Neutral,4,No,High School,Moderate,Male,6.7,17.92,0
-26,78,High,Medium,No,8,6.5,Medium,Yes,3,Medium,Medium,Public,Positive,3,No,College,Near,Female,7.0,20.28,0
-29,94,Low,Medium,Yes,7,9.5,Medium,No,2,Low,Medium,Public,Neutral,3,Yes,College,Moderate,Male,7.0,27.26,0
-16,73,High,Low,Yes,8,5.8,Medium,Yes,1,Medium,Medium,Public,Neutral,4,No,High School,Near,Female,6.4,11.68,1
-9,64,Medium,Low,Yes,10,6.8,Low,Yes,0,Medium,Medium,Private,Negative,3,No,High School,Near,Male,5.7,5.76,1
-21,75,Low,Medium,Yes,5,9.1,Medium,Yes,2,Low,Low,Public,Neutral,3,No,High School,Near,Male,6.6,15.75,0
-15,68,Medium,Medium,Yes,5,9.5,Medium,Yes,0,High,Medium,Public,Negative,5,No,College,Near,Female,6.4,10.2,1
-23,93,Medium,Medium,Yes,6,9.7,Low,No,1,Medium,Medium,Public,Positive,2,No,College,Moderate,Male,7.0,21.39,0
-22,88,Low,Medium,Yes,9,6.2,Medium,Yes,1,High,Medium,Private,Negative,3,No,College,Near,Male,6.8,19.36,0
-25,69,Low,Medium,Yes,5,6.3,Medium,Yes,1,High,Medium,Private,Neutral,2,No,High School,Near,Male,6.5,17.25,0
-23,63,Medium,Medium,Yes,9,7.9,High,Yes,0,Low,Medium,Private,Negative,4,No,High School,Far,Female,6.3,14.49,1
-25,98,Low,Medium,No,7,9.8,Medium,Yes,1,Medium,Medium,Public,Negative,4,No,Postgraduate,Near,Male,7.2,24.5,0
-15,71,High,High,No,7,10.0,Low,Yes,2,Low,Low,Public,Neutral,4,No,High School,Near,Male,6.6,10.65,0
-17,64,High,Low,Yes,7,7.4,Low,Yes,2,Medium,Low,Public,Positive,2,No,Postgraduate,Near,Female,6.4,10.88,1
-22,61,High,Medium,No,8,8.8,Low,Yes,1,Medium,High,Public,Neutral,4,No,High School,Near,Female,6.5,13.42,0
-25,93,High,Medium,No,8,5.8,Medium,Yes,0,High,Medium,Private,Positive,4,No,High School,Moderate,Female,7.1,23.25,0
-14,74,Low,Medium,Yes,7,6.6,Medium,Yes,0,Medium,High,Private,Negative,3,No,Postgraduate,Near,Male,6.3,10.36,1
-25,67,High,Medium,Yes,6,6.5,Medium,Yes,1,Low,Medium,Public,Negative,3,No,High School,Near,Male,6.5,16.75,0
-20,68,High,Medium,Yes,7,5.5,High,Yes,0,Low,Low,Public,Positive,3,Yes,High School,Near,Female,6.3,13.6,1
-25,89,Low,Low,Yes,6,8.2,High,Yes,2,Low,Medium,Public,Neutral,6,No,Postgraduate,Near,Male,7.1,22.25,0
-22,96,Low,High,Yes,7,9.9,High,Yes,4,Low,Medium,Public,Positive,4,No,College,Moderate,Male,7.4,21.12,0
-17,86,Medium,Medium,Yes,5,5.1,Medium,Yes,2,Low,Medium,Private,Neutral,2,No,Postgraduate,Moderate,Male,6.6,14.62,0
-29,81,Medium,Medium,Yes,7,5.2,Medium,No,1,High,Medium,Public,Neutral,4,No,College,Near,Female,6.9,23.49,0
-15,76,High,High,No,8,5.3,Medium,Yes,1,Low,Medium,Public,Neutral,4,No,College,Near,Male,6.5,11.4,0
-12,68,Medium,High,No,8,8.8,High,Yes,3,Low,Medium,Public,Negative,3,No,Postgraduate,Moderate,Female,6.4,8.16,1
-33,70,Medium,Medium,Yes,6,8.2,Low,Yes,1,Low,High,Public,Neutral,4,No,College,Near,Male,6.9,23.1,0
-28,76,Medium,Medium,Yes,10,9.9,High,Yes,1,Medium,Medium,Public,Neutral,3,No,High School,Near,Male,7.0,21.28,0
-10,73,Medium,Low,Yes,9,5.8,Low,Yes,5,Low,Medium,Private,Negative,3,No,High School,Moderate,Male,6.1,7.3,1
-26,84,Medium,Medium,No,8,7.6,Medium,Yes,5,Medium,High,Public,Neutral,2,No,High School,Moderate,Male,7.1,21.84,0
-17,66,Medium,Medium,Yes,9,8.9,Medium,No,1,Medium,High,Public,Positive,4,No,High School,Moderate,Female,6.4,11.22,1
-16,91,Medium,Medium,No,8,6.3,High,Yes,2,Medium,High,Public,Neutral,3,No,College,Near,Female,6.9,14.56,0
-14,68,High,High,Yes,9,7.9,Low,Yes,2,Low,Medium,Private,Positive,4,No,College,Near,Female,6.6,9.52,0
-17,68,Medium,Low,Yes,7,9.9,High,Yes,2,Medium,Medium,Public,Positive,3,No,High School,Near,Female,6.5,11.56,0
-13,99,Low,Medium,No,7,5.4,High,Yes,3,High,Medium,Public,Negative,3,No,High School,Far,Male,6.7,12.87,0
-14,81,Medium,High,No,9,9.0,Medium,Yes,3,High,High,Public,Neutral,3,No,Postgraduate,Near,Male,6.9,11.34,0
-30,88,Medium,Medium,Yes,6,6.2,High,Yes,4,Low,Medium,Private,Positive,5,No,College,Far,Female,7.3,26.4,0
-22,97,Medium,High,Yes,8,5.9,Medium,Yes,1,Low,Medium,Public,Negative,3,No,High School,Near,Male,7.0,21.34,0
-19,92,Medium,Medium,Yes,6,8.8,Low,Yes,1,High,Medium,Public,Positive,2,No,Postgraduate,Near,Male,7.1,17.48,0
-17,92,Medium,Medium,Yes,8,7.9,Medium,Yes,1,Low,Medium,Public,Positive,3,No,Postgraduate,Near,Male,7.0,15.64,0
-21,73,High,Medium,No,7,9.8,High,Yes,0,High,High,Public,Positive,4,Yes,Postgraduate,Near,Male,6.9,15.33,0
-15,94,High,Medium,Yes,8,5.2,Low,Yes,1,Medium,Medium,Private,Positive,2,No,College,Far,Female,6.7,14.1,0
-16,90,Low,High,Yes,8,5.1,Medium,Yes,1,High,Medium,Public,Neutral,5,No,High School,Moderate,Female,6.7,14.4,0
-23,99,Low,Medium,No,8,6.1,Low,Yes,2,High,High,Private,Positive,3,Yes,High School,Near,Female,7.0,22.77,0
-23,65,Medium,High,Yes,7,5.8,Low,Yes,1,Low,Medium,Public,Neutral,3,Yes,College,Moderate,Female,6.3,14.95,1
-21,82,High,Medium,No,7,5.2,Medium,Yes,4,Low,Medium,Public,Neutral,3,No,High School,Far,Male,6.7,17.22,0
-20,89,High,High,Yes,8,5.2,Low,Yes,2,Medium,Medium,Public,Negative,3,No,College,Moderate,Female,6.9,17.8,0
-35,72,High,High,Yes,5,7.5,Medium,Yes,1,Low,Medium,Public,Positive,5,No,College,Moderate,Male,7.2,25.2,0
-27,99,Medium,High,No,5,6.3,Medium,Yes,0,Medium,High,Public,Neutral,4,No,High School,Near,Female,7.3,26.73,0
-21,80,Medium,High,No,7,7.8,Medium,Yes,1,Low,High,Private,Negative,4,No,High School,Moderate,Female,6.7,16.8,0
-18,78,High,Low,Yes,7,8.5,High,Yes,3,Low,Low,Public,Negative,2,No,College,Near,Male,6.7,14.04,0
-18,66,Medium,Medium,Yes,7,8.9,High,Yes,4,Low,Medium,Public,Positive,3,Yes,High School,Near,Male,6.5,11.88,0
-17,79,Medium,Low,Yes,6,7.5,Low,Yes,1,Medium,High,Public,Neutral,4,No,High School,Near,Male,6.5,13.43,0
-18,65,Medium,High,No,6,8.3,Low,Yes,1,Medium,High,Private,Neutral,2,No,High School,Near,Male,6.4,11.7,1
-26,84,Low,High,No,4,6.2,Medium,No,3,High,High,Public,Positive,2,No,High School,Near,Male,7.0,21.84,0
-30,70,Medium,High,Yes,9,8.3,Medium,Yes,1,High,Medium,Private,Neutral,2,No,Postgraduate,Near,Female,7.1,21.0,0
-26,88,Low,High,Yes,7,6.2,High,No,1,High,High,Private,Positive,2,No,High School,Near,Female,7.0,22.88,0
-21,75,Medium,Medium,Yes,7,7.0,Low,Yes,3,Medium,Medium,Public,Positive,4,Yes,Postgraduate,Near,Male,6.7,15.75,0
-17,74,Medium,Medium,No,9,5.6,Medium,Yes,1,Medium,High,Private,Negative,3,No,High School,Moderate,Male,6.3,12.58,1
-12,92,High,Medium,No,4,5.8,Low,Yes,2,Medium,Medium,Public,Positive,2,Yes,College,Moderate,Male,6.6,11.04,0
-17,92,Medium,Medium,No,7,6.6,Low,Yes,2,Low,Medium,Public,Negative,3,No,High School,Near,Male,6.6,15.64,0
-7,64,Medium,High,No,9,7.0,High,Yes,4,Low,Low,Public,Neutral,4,Yes,High School,Far,Male,5.9,4.48,1
-25,93,Medium,Medium,No,5,6.2,Medium,Yes,0,Low,Medium,Public,Neutral,3,No,High School,Far,Male,6.8,23.25,0
-25,77,High,High,No,8,8.5,Medium,Yes,2,Medium,Medium,Public,Positive,1,No,College,Near,Male,7.1,19.25,0
-10,94,Medium,High,No,5,7.3,Medium,Yes,1,Medium,Medium,Public,Negative,3,No,High School,Moderate,Male,6.6,9.4,0
-30,84,Low,Medium,No,6,9.5,Medium,Yes,2,High,High,Public,Negative,2,No,College,Near,Male,7.2,25.2,0
-12,85,Medium,Medium,Yes,6,7.8,High,Yes,3,Medium,Medium,Public,Neutral,4,No,College,Near,Male,6.8,10.2,0
-23,72,High,Medium,No,8,5.8,Medium,No,2,Low,High,Private,Positive,2,No,College,Near,Female,6.6,16.56,0
-20,62,High,Low,No,8,9.4,High,Yes,1,Medium,Medium,Public,Positive,3,No,High School,Near,Female,6.5,12.4,0
-9,64,Medium,High,Yes,6,9.9,Medium,Yes,6,Low,High,Public,Positive,6,Yes,High School,Moderate,Male,6.5,5.76,0
-28,62,Low,High,No,8,8.5,Medium,Yes,2,Low,High,Public,Positive,3,No,High School,Moderate,Female,6.6,17.36,0
-18,70,Medium,Medium,Yes,4,5.6,Medium,Yes,1,High,High,Public,Neutral,4,No,High School,Near,Male,6.5,12.6,0
-26,67,Low,Medium,Yes,8,7.1,Medium,Yes,2,High,Medium,Private,Negative,3,No,High School,Near,Male,6.5,17.42,0
-27,84,Medium,Medium,No,8,9.8,Medium,Yes,0,Low,Medium,Public,Neutral,4,No,High School,Moderate,Male,6.9,22.68,0
-18,97,Medium,High,Yes,7,9.3,Medium,Yes,5,High,Medium,Public,Positive,4,No,College,Near,Female,7.5,17.46,0
-28,89,High,Low,Yes,4,9.0,High,Yes,3,Low,High,Public,Positive,2,Yes,Postgraduate,Moderate,Female,7.3,24.92,0
-25,63,High,Low,Yes,8,6.3,Medium,Yes,0,Medium,High,Private,Positive,1,Yes,Postgraduate,Near,Female,6.5,15.75,0
-23,74,Low,Low,No,9,6.1,Low,Yes,0,Medium,Low,Public,Positive,4,No,Postgraduate,Near,Male,6.4,17.02,1
-13,64,Medium,High,Yes,5,7.2,Medium,Yes,2,Medium,Medium,Private,Neutral,2,No,Postgraduate,Moderate,Male,6.3,8.32,1
-26,92,High,High,No,5,8.4,High,Yes,0,Medium,High,Public,Neutral,2,No,Postgraduate,Near,Male,7.4,23.92,0
-27,95,Low,High,Yes,6,9.4,High,Yes,2,Medium,Medium,Public,Neutral,4,No,Postgraduate,Far,Female,7.4,25.65,0
-24,67,High,Medium,No,8,8.9,Medium,Yes,2,High,Low,Private,Positive,3,No,High School,Near,Female,6.8,16.08,0
-16,87,High,Medium,No,9,5.3,High,Yes,3,Medium,High,Private,Neutral,5,No,College,Near,Male,7.0,13.92,0
-14,60,Medium,Low,Yes,7,8.9,Low,Yes,2,Medium,Medium,Public,Neutral,3,No,High School,Moderate,Male,6.0,8.4,1
-26,97,Medium,Low,No,5,7.9,High,Yes,2,Low,Low,Private,Positive,3,No,High School,Near,Female,7.1,25.22,0
-19,98,Medium,High,Yes,8,8.7,High,Yes,1,Medium,Medium,Private,Positive,4,No,Postgraduate,Moderate,Male,7.4,18.62,0
-27,76,High,High,Yes,7,6.8,Medium,Yes,1,Medium,Medium,Public,Neutral,3,No,Postgraduate,Moderate,Female,7.1,20.52,0
-17,81,High,Low,Yes,9,6.8,High,Yes,1,Low,Low,Private,Positive,3,No,College,Near,Female,6.6,13.77,0
-19,63,Low,High,No,7,9.4,Medium,Yes,1,Medium,Medium,Private,Positive,3,No,High School,Moderate,Male,6.4,11.97,1
-18,90,High,Medium,No,7,8.1,Medium,Yes,2,Medium,Low,Public,Negative,3,No,Postgraduate,Moderate,Male,6.9,16.2,0
-11,82,High,High,No,8,8.1,High,Yes,2,Low,High,Public,Positive,2,No,High School,Moderate,Female,6.7,9.02,0
-22,82,High,High,No,10,8.3,Medium,Yes,1,Low,High,Private,Neutral,2,Yes,College,Moderate,Male,6.9,18.04,0
-29,78,High,Medium,Yes,9,6.6,Medium,Yes,2,Low,Medium,Public,Neutral,4,No,High School,Moderate,Male,6.9,22.62,0
-14,81,High,High,No,9,7.8,Medium,Yes,0,Medium,Medium,Private,Positive,4,No,College,Near,Female,6.8,11.34,0
-27,63,Medium,High,No,6,9.8,Low,Yes,0,Medium,Medium,Private,Negative,3,No,High School,Near,Female,6.6,17.01,0
-31,84,Medium,Medium,No,5,5.0,Medium,No,2,Low,High,Private,Positive,3,No,High School,Near,Male,6.9,26.04,0
-30,91,Medium,Medium,Yes,7,7.8,High,Yes,3,Medium,Medium,Private,Positive,2,No,Postgraduate,Near,Male,7.5,27.3,0
-9,71,Low,High,Yes,7,8.9,Medium,Yes,0,Low,Medium,Public,Negative,2,No,High School,Near,Male,6.1,6.39,1
-18,93,Low,Low,Yes,8,9.3,Medium,Yes,3,Low,High,Public,Negative,3,No,Postgraduate,Moderate,Male,6.9,16.74,0
-14,81,Medium,Medium,No,9,8.1,Medium,Yes,1,Low,High,Private,Negative,3,No,Postgraduate,Near,Female,6.6,11.34,0
-20,67,Low,Low,Yes,7,9.8,Medium,Yes,1,Medium,Medium,Public,Neutral,4,No,College,Near,Male,6.4,13.4,1
-14,67,Medium,Medium,Yes,9,6.8,Low,Yes,1,Low,Medium,Public,Neutral,3,Yes,High School,Near,Male,6.0,9.38,1
-15,91,Low,Medium,No,10,7.8,Low,Yes,2,Medium,High,Public,Neutral,3,No,High School,Near,Female,6.7,13.65,0
-23,97,Medium,Medium,Yes,9,9.6,Medium,Yes,2,Medium,High,Private,Neutral,4,No,College,Near,Male,7.4,22.31,0
-25,84,Medium,Low,Yes,6,8.4,Low,Yes,2,Medium,High,Public,Positive,3,No,High School,Near,Male,7.0,21.0,0
-18,62,Medium,Low,Yes,8,8.7,Medium,Yes,4,Low,Medium,Public,Positive,4,No,College,Near,Female,6.4,11.16,1
-19,65,High,High,Yes,5,7.4,Medium,Yes,1,Low,Medium,Private,Positive,3,No,High School,Near,Female,6.6,12.35,0
-16,97,Medium,Medium,No,7,8.7,Medium,Yes,1,High,Medium,Public,Neutral,3,No,High School,Near,Female,7.0,15.52,0
-16,96,Medium,Medium,Yes,4,7.7,High,Yes,1,High,High,Public,Positive,2,No,High School,Near,Male,7.1,15.36,0
-19,88,Medium,Medium,Yes,8,8.9,Medium,Yes,3,Medium,Medium,Public,Positive,3,No,Postgraduate,Near,Male,7.1,16.72,0
-14,82,Medium,Medium,Yes,8,8.3,Medium,Yes,0,Medium,Medium,Public,Negative,2,No,High School,Moderate,Male,6.4,11.48,1
-20,69,High,Medium,Yes,7,7.6,High,Yes,1,Medium,Medium,Public,Positive,3,No,High School,Near,Female,6.7,13.8,0
-27,68,Low,Low,Yes,8,8.0,High,Yes,3,Medium,Medium,Public,Positive,4,Yes,High School,Near,Male,6.6,18.36,0
-17,85,High,Medium,Yes,10,6.6,Medium,Yes,1,High,Medium,Public,Neutral,1,Yes,Postgraduate,Moderate,Male,6.7,14.45,0
-16,68,Medium,Low,Yes,10,6.4,Medium,Yes,2,High,Low,Public,Negative,2,No,High School,Moderate,Male,6.1,10.88,1
-21,74,Medium,High,Yes,6,7.7,High,No,0,Medium,Medium,Public,Neutral,3,No,College,Near,Male,6.6,15.54,0
-24,70,Medium,High,Yes,9,5.2,High,Yes,1,Low,Medium,Public,Positive,2,No,Postgraduate,Moderate,Male,8.5,16.8,0
-14,99,Medium,Medium,Yes,8,8.0,High,Yes,3,Medium,Low,Private,Neutral,4,No,College,Near,Female,7.1,13.86,0
-27,78,Medium,Medium,No,6,9.8,Low,Yes,1,Medium,Medium,Public,Positive,3,No,High School,Far,Male,6.8,21.06,0
-25,77,High,Medium,Yes,7,7.0,Medium,Yes,0,Medium,Medium,Public,Neutral,5,No,High School,Near,Male,6.8,19.25,0
-14,79,High,Medium,Yes,10,9.3,Medium,Yes,2,Medium,Medium,Public,Neutral,3,No,College,Near,Male,6.8,11.06,0
-20,86,Medium,Medium,No,6,9.7,Low,Yes,1,Low,Medium,Private,Neutral,2,No,High School,Moderate,Male,6.7,17.2,0
-14,94,High,Medium,Yes,5,8.9,Medium,Yes,0,Medium,Medium,Public,Positive,1,No,Postgraduate,Near,Female,7.0,13.16,0
-22,72,Medium,Medium,No,5,7.8,High,Yes,1,Low,High,Public,Positive,3,No,High School,Near,Female,6.6,15.84,0
-14,78,High,Medium,No,6,5.5,Low,Yes,2,Low,Medium,Private,Neutral,2,No,High School,Near,Female,6.3,10.92,1
-31,93,High,Medium,No,6,8.0,Medium,Yes,3,Medium,Medium,Public,Neutral,2,No,High School,Near,Male,7.4,28.83,0
-21,65,Medium,High,Yes,8,6.7,Low,No,1,Low,Medium,Public,Positive,4,No,High School,Near,Female,6.4,13.65,1
-17,69,Medium,Medium,No,10,5.6,Medium,Yes,1,Medium,Medium,Public,Neutral,4,No,High School,Near,Female,6.3,11.73,1
-14,93,Medium,Low,Yes,5,7.5,Low,Yes,0,Medium,High,Public,Negative,3,No,High School,Moderate,Male,6.5,13.02,0
-15,78,High,High,Yes,10,8.9,Low,Yes,0,Medium,Medium,Public,Neutral,3,No,High School,Near,Male,6.7,11.7,0
-19,82,Medium,Medium,No,5,9.0,Medium,Yes,1,High,Medium,Public,Negative,3,No,College,Near,Male,6.8,15.58,0
-23,85,Medium,Medium,Yes,6,9.1,Low,Yes,1,Low,High,Public,Neutral,3,No,High School,Far,Male,6.8,19.55,0
-23,68,Low,Medium,Yes,5,8.1,Low,Yes,1,Low,Low,Public,Neutral,2,No,Postgraduate,Near,Male,6.4,15.64,1
-32,84,Medium,High,Yes,10,6.8,Medium,Yes,1,Low,Medium,Public,Positive,5,No,High School,Near,Male,7.3,26.88,0
-20,75,Medium,Low,Yes,6,5.9,Medium,Yes,2,Medium,Medium,Public,Negative,1,No,Postgraduate,Moderate,Male,6.4,15.0,1
-21,79,Medium,Low,No,5,8.6,Low,Yes,1,High,Medium,Private,Positive,2,No,High School,Moderate,Female,6.6,16.59,0
-17,68,Medium,Medium,No,7,9.9,Medium,Yes,1,Medium,Low,Private,Neutral,1,No,Postgraduate,Near,Male,6.5,11.56,0
-26,76,Medium,Medium,No,7,5.9,Low,Yes,0,Medium,Medium,Public,Neutral,1,Yes,Postgraduate,Near,Male,6.5,19.76,0
-17,65,High,High,No,9,5.5,Medium,Yes,1,Medium,Medium,Public,Positive,2,No,High School,Near,Male,6.4,11.05,1
-29,83,Medium,Low,Yes,6,7.7,High,Yes,1,Medium,Medium,Public,Neutral,4,No,High School,Near,Male,7.0,24.07,0
-19,69,Medium,High,Yes,6,7.2,Medium,No,1,Low,Medium,Public,Neutral,1,No,College,Near,Female,6.4,13.11,1
-12,82,Low,Medium,No,5,9.8,Medium,Yes,0,Low,High,Public,Neutral,1,No,High School,Moderate,Male,6.3,9.84,1
-21,69,Medium,Medium,Yes,9,8.0,High,Yes,2,Medium,High,Public,Positive,5,No,College,Near,Male,6.8,14.49,0
-14,83,High,Medium,Yes,7,9.5,Low,Yes,1,Low,Medium,Private,Neutral,2,Yes,High School,Near,Female,6.5,11.62,0
-21,76,Low,Medium,Yes,7,8.0,High,Yes,3,Low,Medium,Public,Negative,2,Yes,College,Near,Male,6.5,15.96,0
-19,82,Medium,Medium,Yes,8,8.2,High,Yes,2,Medium,Medium,Private,Positive,3,No,College,Moderate,Female,6.9,15.58,0
-21,63,High,Medium,No,7,6.3,Medium,Yes,2,Medium,Medium,Public,Neutral,2,No,High School,Far,Male,6.3,13.23,1
-29,84,High,Medium,Yes,6,9.0,Medium,Yes,0,Medium,High,Public,Positive,3,No,Postgraduate,Far,Male,7.3,24.36,0
-20,64,Medium,High,No,6,5.3,High,No,4,High,Medium,Private,Neutral,4,No,College,Moderate,Female,6.5,12.8,0
-15,65,Medium,Medium,No,9,6.5,Medium,Yes,1,Low,Medium,Public,Neutral,2,No,College,Near,Female,6.1,9.75,1
-27,94,High,High,Yes,7,7.0,Low,Yes,1,Medium,High,Public,Neutral,2,No,High School,Moderate,Female,7.3,25.38,0
-24,70,Medium,High,No,8,5.5,Medium,Yes,4,Low,High,Public,Positive,4,No,Postgraduate,Moderate,Female,6.8,16.8,0
-13,77,Low,Medium,Yes,6,7.6,Low,No,1,Medium,Low,Private,Neutral,4,No,College,Moderate,Male,6.2,10.01,1
-25,90,Medium,Medium,Yes,7,9.6,Medium,Yes,1,Medium,Medium,Public,Positive,4,No,College,Moderate,Male,7.2,22.5,0
-26,90,High,High,Yes,9,5.3,Medium,Yes,1,Low,Medium,Private,Neutral,4,No,High School,Far,Male,7.1,23.4,0
-17,77,Medium,Medium,Yes,8,6.9,Low,Yes,3,High,Medium,Public,Neutral,3,Yes,High School,Near,Male,6.5,13.09,0
-17,65,Low,High,Yes,5,7.5,Medium,Yes,2,Low,Medium,Public,Positive,3,No,High School,Near,Female,6.3,11.05,1
-2,98,High,Medium,No,4,6.4,Medium,Yes,1,Low,High,Private,Neutral,2,No,High School,Near,Female,6.5,1.96,0
-24,70,Medium,Medium,Yes,7,7.1,Medium,Yes,1,Medium,Low,Public,Negative,4,No,High School,Near,Male,6.5,16.8,0
-19,79,Medium,High,Yes,7,9.0,Medium,Yes,1,High,Medium,Public,Negative,4,No,College,Far,Female,6.8,15.01,0
-19,94,High,Low,Yes,7,7.5,Medium,Yes,2,High,Medium,Public,Negative,5,No,College,Near,Female,7.1,17.86,0
-29,73,Medium,Medium,No,7,7.6,Medium,Yes,2,Low,High,Private,Neutral,3,No,High School,Near,Female,6.8,21.17,0
-14,63,High,Low,No,7,7.9,Medium,Yes,1,Low,Medium,Public,Neutral,3,No,High School,Near,Male,6.1,8.82,1
-16,81,Medium,Medium,Yes,8,5.7,High,Yes,1,Medium,Medium,Private,Positive,2,No,High School,Near,Male,6.6,12.96,0
-22,64,Medium,High,Yes,8,6.8,Medium,Yes,2,Medium,Medium,Public,Negative,4,No,High School,Near,Male,6.5,14.08,0
-19,72,Medium,Medium,Yes,8,9.6,Low,Yes,1,Medium,High,Public,Positive,2,No,Postgraduate,Moderate,Female,6.7,13.68,0
-12,68,High,Low,No,6,5.2,Low,Yes,5,High,High,Public,Neutral,3,No,College,Near,Male,6.3,8.16,1
-27,78,Medium,Medium,Yes,7,8.6,Medium,Yes,3,Medium,Medium,Public,Positive,2,No,High School,Moderate,Female,7.0,21.06,0
-21,70,High,Medium,Yes,5,9.3,High,Yes,1,Low,Medium,Public,Neutral,3,No,College,Near,Male,6.8,14.7,0
-7,84,Medium,High,No,7,6.7,Medium,Yes,1,Medium,Medium,Private,Neutral,3,No,College,Near,Male,6.4,5.88,1
-16,61,High,Medium,Yes,6,5.3,Low,Yes,0,High,Medium,Public,Positive,4,Yes,High School,Moderate,Female,6.0,9.76,1
-14,98,High,High,Yes,7,8.3,Medium,No,3,Low,Medium,Public,Positive,3,No,College,Near,Male,7.2,13.72,0
-11,99,Medium,High,Yes,7,8.8,High,No,4,Medium,Low,Private,Neutral,3,No,College,Near,Male,7.1,10.89,0
-16,86,Medium,Medium,Yes,6,6.2,Low,Yes,1,Low,High,Public,Positive,4,No,High School,Near,Female,6.6,13.76,0
-15,86,Medium,Medium,No,7,7.9,Medium,Yes,1,Low,Medium,Public,Neutral,3,Yes,High School,Moderate,Female,6.4,12.9,1
-26,90,High,High,No,9,7.1,Low,Yes,0,High,Low,Private,Negative,2,No,College,Near,Female,7.1,23.4,0
-22,89,Medium,Medium,Yes,7,5.4,Medium,Yes,1,High,Medium,Public,Positive,3,No,High School,Near,Female,6.9,19.58,0
-19,96,Medium,Medium,Yes,7,9.5,High,Yes,3,Medium,High,Private,Negative,3,No,College,Near,Female,7.3,18.24,0
-9,74,Medium,Low,No,6,6.9,Low,Yes,3,Low,Medium,Private,Positive,2,No,High School,Moderate,Female,6.1,6.66,1
-19,78,Medium,Medium,Yes,6,5.8,Medium,Yes,1,Low,Medium,Public,Neutral,3,No,Postgraduate,Near,Male,6.6,14.82,0
-18,66,Medium,Medium,Yes,7,9.0,Medium,Yes,0,Medium,Medium,Public,Negative,4,No,Postgraduate,Near,Male,6.4,11.88,1
-11,83,Medium,Medium,Yes,5,6.3,Medium,Yes,2,Low,Medium,Public,Neutral,3,No,College,Near,Male,6.5,9.13,0
-25,70,Low,High,No,8,7.3,High,Yes,1,Low,Low,Public,Negative,2,No,Postgraduate,Near,Male,6.5,17.5,0
-12,72,Low,Medium,Yes,6,6.0,High,Yes,0,Low,Medium,Public,Neutral,4,No,Postgraduate,Near,Male,6.2,8.64,1
-16,99,Medium,High,Yes,7,6.0,Medium,Yes,2,Low,High,Private,Neutral,3,No,Postgraduate,Moderate,Male,7.1,15.84,0
-10,62,Medium,Medium,No,6,8.7,High,Yes,2,Low,High,Public,Neutral,3,No,High School,Near,Male,6.1,6.2,1
-30,71,High,Low,No,10,7.0,Low,Yes,3,Medium,Medium,Public,Neutral,4,Yes,High School,Near,Female,6.7,21.3,0
-27,86,High,Medium,Yes,8,6.7,High,Yes,5,High,High,Public,Positive,2,Yes,Postgraduate,Near,Female,7.5,23.22,0
-15,86,Low,Medium,No,9,9.7,Medium,Yes,2,Medium,Medium,Public,Negative,4,No,High School,Near,Male,6.7,12.9,0
-25,69,Medium,Medium,Yes,8,6.4,Medium,Yes,1,High,Low,Public,Negative,3,No,Postgraduate,Moderate,Female,6.6,17.25,0
-30,87,Medium,Medium,No,8,5.3,Low,Yes,1,Low,High,Private,Neutral,1,No,Postgraduate,Near,Male,7.0,26.1,0
-20,65,Medium,Low,No,6,7.4,Low,Yes,0,Medium,Medium,Private,Positive,3,No,College,Moderate,Male,6.2,13.0,1
-23,76,Medium,High,Yes,8,9.8,Medium,Yes,0,Medium,Low,Public,Neutral,2,No,Postgraduate,Moderate,Female,6.9,17.48,0
-16,86,Low,Low,Yes,5,8.2,Low,Yes,0,Low,Medium,Public,Neutral,4,No,High School,Moderate,Female,6.3,13.76,1
-12,96,Low,Medium,Yes,7,7.1,High,Yes,2,Medium,Medium,Private,Positive,2,No,College,Near,Male,6.8,11.52,0
-18,90,High,High,Yes,6,5.4,Low,Yes,1,Medium,High,Public,Negative,3,No,High School,Near,Female,9.5,16.2,0
-28,88,High,Medium,No,8,7.9,Medium,Yes,0,Medium,Medium,Public,Positive,3,No,High School,Far,Male,7.1,24.64,0
+Hours_Studied,Attendance,Parental_Involvement,Access_to_Resources,Extracurricular_Activities,Sleep_Hours,Previous_Scores,Motivation_Level,Internet_Access,Tutoring_Sessions,Family_Income,Teacher_Quality,Peer_Influence,Physical_Activity,Learning_Disabilities,Parental_Education_Level,Distance_from_Home,Exam_Score,effective_study_index,at_risk
+21,94,Medium,Medium,No,7,7.1,Low,No,1,Low,High,Neutral,2,No,Postgraduate,Near,6.9,19.74,0
+28,91,Medium,High,Yes,6,6.9,High,Yes,1,Medium,High,Neutral,4,No,High School,Far,7.3,25.48,0
+15,77,Low,Medium,Yes,7,9.5,Low,Yes,4,Low,Medium,Positive,4,No,High School,Moderate,6.5,11.55,0
+29,64,Low,Medium,No,9,7.7,Medium,Yes,0,Low,High,Negative,2,No,High School,Moderate,6.3,18.56,1
+20,100,Medium,Medium,Yes,8,6.4,Medium,Yes,0,Low,Medium,Neutral,2,No,High School,Moderate,6.9,20.0,0
+18,68,High,High,No,6,8.2,Low,Yes,0,Medium,High,Positive,3,No,High School,Near,6.6,12.24,0
+21,98,Medium,Medium,Yes,9,5.9,High,No,3,Medium,Medium,Neutral,3,Yes,College,Near,7.0,20.58,0
+25,93,Medium,Medium,Yes,10,6.0,Low,Yes,1,Medium,Medium,Positive,3,No,College,Moderate,7.0,23.25,0
+23,94,Low,Low,Yes,9,7.5,Medium,Yes,3,Low,Medium,Neutral,2,No,Postgraduate,Moderate,6.9,21.62,0
+21,92,High,Low,No,6,7.6,Low,Yes,2,Low,Medium,Positive,5,No,College,Near,7.0,19.32,0
+19,99,Low,Low,No,8,7.9,High,Yes,3,Medium,Medium,Positive,4,No,High School,Near,7.0,18.81,0
+18,95,Low,High,Yes,6,5.4,High,Yes,0,Medium,High,Negative,3,No,College,Moderate,6.8,17.1,0
+20,84,Medium,Medium,No,6,8.5,Medium,Yes,0,Medium,Medium,Positive,3,No,High School,Moderate,6.7,16.8,0
+20,83,High,High,Yes,7,7.8,High,Yes,3,Low,Medium,Neutral,2,No,College,Near,7.1,16.6,0
+15,71,High,Low,No,7,7.8,Medium,Yes,0,Medium,Medium,Positive,3,No,High School,Near,6.3,10.65,1
+26,61,High,Low,Yes,7,9.5,Low,No,0,Medium,High,Neutral,3,No,Postgraduate,Moderate,6.5,15.86,0
+19,96,Medium,High,Yes,5,6.7,Medium,Yes,4,High,Medium,Neutral,1,No,High School,Moderate,7.2,18.24,0
+14,73,Medium,High,No,8,5.8,Medium,Yes,2,Low,High,Negative,2,No,College,Moderate,6.3,10.22,1
+22,63,Low,Low,Yes,7,9.4,Medium,Yes,0,Medium,Medium,Negative,3,Yes,High School,Far,6.1,13.86,1
+25,87,Medium,Low,Yes,7,7.4,Low,Yes,0,Medium,High,Neutral,4,Yes,High School,Near,6.7,21.75,0
+19,72,Medium,Medium,Yes,5,8.5,High,Yes,1,Low,Medium,Neutral,4,No,College,Near,6.6,13.68,0
+12,84,High,High,Yes,6,7.1,Medium,No,2,Medium,Medium,Positive,3,No,College,Moderate,6.7,10.08,0
+16,98,High,Medium,No,6,8.8,Medium,Yes,1,Low,Medium,Neutral,3,No,Postgraduate,Moderate,7.0,15.68,0
+22,60,Medium,Medium,Yes,5,5.2,Medium,Yes,0,Low,Medium,Negative,2,No,High School,Near,6.1,13.2,1
+19,78,High,High,No,5,5.5,Medium,Yes,0,Medium,Medium,Neutral,4,No,High School,Moderate,6.6,14.82,0
+26,71,High,Medium,Yes,6,5.1,Low,No,1,High,Medium,Positive,3,No,Postgraduate,Moderate,6.7,18.46,0
+25,85,High,High,No,9,6.8,Medium,Yes,1,High,Medium,Negative,3,No,Postgraduate,Far,7.1,21.25,0
+20,90,High,High,No,9,7.9,Medium,Yes,2,Low,Medium,Negative,2,No,High School,Near,7.0,18.0,0
+31,93,High,Low,Yes,5,9.6,Medium,Yes,2,Low,Medium,Positive,2,No,High School,Near,7.4,28.83,0
+25,73,Low,Low,No,8,6.9,Medium,Yes,3,Medium,Medium,Positive,3,No,High School,Near,6.6,18.25,0
+8,84,Medium,Low,Yes,9,5.6,Low,Yes,1,Low,Medium,Positive,2,No,High School,Moderate,6.1,6.72,1
+21,95,High,Medium,Yes,7,8.1,Medium,Yes,0,Medium,Medium,Neutral,3,No,High School,Near,7.1,19.95,0
+14,97,Medium,Medium,Yes,6,6.6,Medium,Yes,2,Medium,Medium,Negative,3,Yes,College,Near,6.7,13.58,0
+30,88,Low,Medium,Yes,6,9.0,High,Yes,4,High,Medium,Negative,2,No,College,Moderate,7.3,26.4,0
+19,66,Medium,Medium,No,8,8.3,Medium,Yes,2,Medium,High,Neutral,3,No,High School,Near,6.5,12.54,0
+18,81,Medium,Medium,No,8,6.5,Low,Yes,2,Low,Medium,Neutral,4,No,Postgraduate,Near,6.6,14.58,0
+29,92,Low,Medium,No,4,9.1,Medium,Yes,2,Medium,Medium,Negative,1,No,Postgraduate,Near,7.2,26.68,0
+23,80,Medium,Low,Yes,7,6.6,High,Yes,1,High,High,Positive,4,No,College,Near,6.9,18.4,0
+24,63,Medium,Medium,No,6,9.0,Medium,No,2,Low,Medium,Neutral,5,No,Postgraduate,Near,6.6,15.12,0
+17,100,Medium,High,Yes,5,5.3,Low,Yes,1,Medium,High,Positive,4,No,High School,Near,7.0,17.0,0
+25,74,High,Medium,Yes,9,8.0,Medium,Yes,4,Medium,Medium,Positive,3,No,College,Moderate,7.1,18.5,0
+18,85,Medium,Medium,Yes,6,5.7,Low,Yes,2,Medium,High,Neutral,2,No,Postgraduate,Moderate,6.7,15.3,0
+17,82,Medium,High,No,6,6.5,Low,Yes,4,Low,Medium,Positive,3,No,High School,Moderate,6.7,13.94,0
+16,77,High,High,No,7,9.2,Low,Yes,2,Medium,Medium,Negative,2,No,College,Near,6.7,12.32,0
+27,95,Medium,Medium,No,5,6.6,Low,Yes,3,Medium,Medium,Neutral,4,No,High School,Near,7.2,25.65,0
+14,70,Medium,Medium,Yes,9,9.1,High,Yes,2,Medium,Medium,Neutral,4,No,High School,Near,6.5,9.8,0
+21,74,High,Medium,No,6,9.4,Medium,Yes,1,Low,High,Positive,1,No,High School,Near,9.7,15.54,0
+12,89,Medium,High,No,8,9.1,Medium,No,1,Low,High,Neutral,2,No,High School,Near,6.6,10.68,0
+9,65,Low,Medium,Yes,7,8.9,Medium,Yes,2,Low,Medium,Positive,4,No,High School,Moderate,6.1,5.85,1
+24,85,Low,Medium,Yes,7,5.4,Medium,No,2,Medium,Low,Neutral,3,No,College,Moderate,6.6,20.4,0
+18,86,Medium,Medium,Yes,6,8.8,Medium,Yes,2,Medium,High,Neutral,2,No,College,Far,6.8,15.48,0
+25,66,High,Medium,Yes,7,5.5,Medium,Yes,4,Medium,Medium,Neutral,2,Yes,High School,Moderate,8.4,16.5,0
+22,74,High,High,Yes,6,7.3,Low,Yes,3,High,High,Positive,4,No,Postgraduate,Moderate,7.1,16.28,0
+29,98,Medium,Medium,Yes,9,6.0,Low,Yes,0,Low,Medium,Negative,4,No,High School,Near,7.0,28.42,0
+16,66,Medium,High,Yes,5,5.7,High,Yes,3,Medium,Medium,Positive,3,No,High School,Moderate,6.4,10.56,1
+22,62,High,Medium,Yes,9,6.9,Low,Yes,1,High,Low,Negative,3,No,College,Near,6.4,13.64,1
+22,87,Medium,Medium,No,8,6.0,Low,Yes,2,Medium,High,Negative,2,No,College,Moderate,6.7,19.14,0
+24,89,Medium,High,Yes,8,6.1,Medium,Yes,1,Low,High,Positive,3,No,Postgraduate,Near,7.2,21.36,0
+29,68,Medium,Low,No,6,7.0,Low,Yes,0,Medium,Medium,Negative,2,No,Postgraduate,Near,6.4,19.72,1
+24,74,High,Medium,Yes,6,7.8,Medium,Yes,3,Low,High,Positive,3,No,College,Near,7.0,17.76,0
+26,73,High,Medium,Yes,7,5.3,Low,Yes,3,Medium,High,Neutral,5,No,High School,Moderate,6.8,18.98,0
+20,84,Low,Medium,No,5,9.6,Low,Yes,1,Low,Medium,Negative,2,No,High School,Near,6.5,16.8,0
+16,65,High,Low,Yes,8,9.7,High,Yes,2,Low,Medium,Negative,4,Yes,High School,Near,6.3,10.4,1
+19,81,High,High,No,6,7.3,Low,No,1,Low,High,Positive,3,No,High School,Near,6.7,15.39,0
+21,88,High,High,Yes,7,9.2,High,Yes,2,Medium,Medium,Positive,3,No,Postgraduate,Near,7.4,18.48,0
+21,63,Medium,Medium,Yes,6,6.4,Low,Yes,1,High,High,Negative,3,No,High School,Near,6.3,13.23,1
+20,71,Medium,Medium,Yes,7,8.8,Medium,Yes,1,Low,Low,Neutral,4,No,College,Near,6.5,14.2,0
+22,92,Medium,Low,No,5,7.2,Low,Yes,0,Medium,Medium,Negative,4,No,College,Moderate,6.7,20.24,0
+22,99,Medium,Medium,Yes,4,5.7,High,Yes,2,Medium,High,Positive,3,No,College,Near,7.3,21.78,0
+30,73,High,Medium,Yes,8,10.0,Medium,Yes,2,High,High,Neutral,2,No,High School,Near,7.2,21.9,0
+28,80,High,High,No,5,6.4,Medium,Yes,1,Low,Medium,Neutral,2,No,Postgraduate,Moderate,7.0,22.4,0
+17,96,High,Medium,No,7,5.7,Low,Yes,2,Medium,Medium,Negative,3,No,College,Moderate,6.8,16.32,0
+15,98,Low,Medium,Yes,8,7.1,Low,Yes,1,Medium,Medium,Positive,3,No,High School,Near,6.8,14.7,0
+25,77,Low,Medium,Yes,7,7.1,Medium,Yes,0,Medium,Medium,Negative,3,No,High School,Near,6.6,19.25,0
+24,75,Low,Medium,Yes,10,8.9,Low,Yes,0,Medium,High,Positive,3,No,College,Near,6.7,18.0,0
+29,80,Medium,Low,No,5,8.5,High,Yes,0,High,High,Neutral,2,No,High School,Moderate,6.9,23.2,0
+13,60,High,High,No,7,7.0,Medium,Yes,1,Medium,Medium,Negative,3,No,College,Far,6.1,7.8,1
+20,94,Medium,Medium,No,7,8.9,Medium,Yes,0,Low,Medium,Neutral,1,No,High School,Near,6.8,18.8,0
+27,62,Medium,High,Yes,5,6.3,Low,Yes,4,High,Medium,Negative,4,No,High School,Near,6.7,16.74,0
+29,64,Medium,High,Yes,7,7.4,Medium,Yes,0,High,Medium,Positive,2,No,Postgraduate,Near,6.9,18.56,0
+11,72,High,Low,No,8,5.5,High,Yes,0,Medium,Low,Neutral,3,Yes,College,Near,6.0,7.92,1
+26,86,Medium,Low,Yes,7,6.5,Medium,Yes,2,High,High,Neutral,4,No,Postgraduate,Moderate,7.1,22.36,0
+24,77,Medium,High,No,8,8.0,High,Yes,1,Low,High,Positive,2,Yes,High School,Moderate,6.8,18.48,0
+17,86,Medium,Medium,No,7,6.1,Medium,No,2,High,Medium,Positive,3,No,High School,Moderate,6.6,14.62,0
+19,93,Medium,High,Yes,6,5.6,Medium,Yes,0,Low,High,Negative,3,No,College,Near,6.9,17.67,0
+22,63,High,High,Yes,5,5.3,High,Yes,3,Low,High,Negative,2,No,High School,Near,6.6,13.86,0
+23,63,Medium,Medium,No,7,7.3,Low,Yes,1,Low,Medium,Neutral,3,No,College,Moderate,6.3,14.49,1
+26,92,Medium,High,No,4,5.4,Medium,Yes,2,High,Medium,Positive,4,No,High School,Moderate,7.2,23.92,0
+24,85,Medium,Medium,Yes,7,8.7,High,Yes,2,Medium,Medium,Neutral,2,No,High School,Near,7.1,20.4,0
+20,67,High,Medium,No,9,9.6,High,Yes,1,High,High,Positive,3,No,High School,Near,6.8,13.4,0
+23,94,Medium,Low,Yes,8,6.2,Medium,Yes,2,Low,Medium,Positive,0,No,Postgraduate,Moderate,6.9,21.62,0
+25,93,Medium,High,No,5,9.0,Low,Yes,1,Medium,Medium,Positive,2,No,College,Near,7.2,23.25,0
+27,62,High,Low,No,7,9.6,Medium,Yes,2,Low,Medium,Neutral,4,No,High School,Near,6.6,16.74,0
+20,81,Medium,Medium,No,8,8.7,Medium,Yes,1,High,Medium,Neutral,3,No,High School,Near,6.8,16.2,0
+30,98,Low,Medium,No,7,5.1,High,Yes,0,Low,Medium,Positive,2,No,High School,Near,7.1,29.4,0
+19,67,Medium,Medium,No,7,5.9,Low,Yes,3,Low,High,Positive,3,No,Postgraduate,Near,6.5,12.73,0
+6,71,Medium,High,Yes,5,8.5,Medium,Yes,1,Low,Medium,Positive,2,No,High School,Moderate,6.1,4.26,1
+20,75,Medium,Medium,No,7,7.8,Medium,Yes,0,Low,Medium,Negative,2,No,College,Near,6.4,15.0,1
+25,76,Medium,Low,Yes,6,8.8,Low,Yes,1,Medium,Medium,Negative,3,No,College,Far,6.6,19.0,0
+19,64,High,Low,Yes,8,8.6,Low,Yes,3,High,Medium,Neutral,3,No,Postgraduate,Near,6.6,12.16,0
+16,72,Medium,High,No,6,5.8,Low,Yes,1,Medium,Medium,Negative,2,No,High School,Far,6.2,11.52,1
+19,74,Medium,Low,Yes,5,6.5,High,No,1,Low,High,Positive,3,No,High School,Near,6.4,14.06,1
+27,86,Medium,Medium,No,7,7.2,Low,Yes,1,Medium,High,Positive,4,No,High School,Far,6.9,23.22,0
+14,92,High,Medium,Yes,6,6.1,High,Yes,0,Low,Medium,Neutral,2,No,College,Moderate,6.7,12.88,0
+15,86,Low,High,No,7,6.0,Medium,Yes,2,Medium,Medium,Positive,3,No,College,Near,6.7,12.9,0
+15,66,Low,Medium,No,7,5.3,Medium,Yes,2,Medium,High,Negative,3,No,College,Near,6.1,9.9,1
+21,82,Low,High,No,9,5.8,Medium,Yes,0,Medium,Medium,Negative,2,No,High School,Near,6.5,17.22,0
+19,62,Medium,Medium,No,7,9.1,Low,Yes,1,Low,Medium,Positive,3,No,College,Near,6.3,11.78,1
+26,83,High,Low,No,6,5.2,Medium,Yes,0,Low,High,Negative,3,No,High School,Near,6.7,21.58,0
+23,80,Medium,Medium,No,7,6.7,Low,Yes,2,Low,High,Neutral,4,No,High School,Near,6.7,18.4,0
+22,81,High,Medium,Yes,9,7.1,Medium,Yes,2,High,Low,Negative,4,No,High School,Near,6.9,17.82,0
+13,96,Medium,Medium,No,5,6.9,Medium,Yes,2,Medium,Low,Positive,3,No,High School,Near,6.8,12.48,0
+12,87,High,High,Yes,9,7.5,Medium,No,1,Low,Medium,Neutral,3,Yes,College,Moderate,6.5,10.44,0
+25,68,Low,Medium,No,6,6.2,Low,Yes,1,Low,High,Negative,4,No,College,Moderate,6.3,17.0,1
+15,93,Medium,Medium,Yes,7,7.8,Low,Yes,0,Medium,Medium,Negative,4,No,High School,Moderate,6.6,13.95,0
+24,72,Medium,Medium,No,7,7.5,Medium,Yes,3,High,Medium,Neutral,2,No,College,Near,6.8,17.28,0
+17,73,Low,Medium,Yes,9,6.8,Low,Yes,2,Medium,Medium,Positive,3,Yes,College,Near,6.3,12.41,1
+16,73,Medium,Medium,Yes,4,6.1,Low,Yes,4,Low,High,Neutral,5,No,High School,Moderate,6.4,11.68,1
+22,65,Low,Medium,No,7,8.2,Medium,Yes,2,Medium,High,Positive,4,Yes,College,Near,6.5,14.3,0
+26,62,Low,Medium,No,6,7.9,Medium,Yes,1,Low,Medium,Positive,3,Yes,College,Near,6.3,16.12,1
+13,70,Medium,High,Yes,8,7.8,Medium,Yes,0,Low,Medium,Negative,3,Yes,High School,Near,6.1,9.1,1
+26,94,Medium,Medium,No,9,8.9,Medium,Yes,0,Low,Medium,Neutral,3,Yes,High School,Near,7.0,24.44,0
+8,90,High,High,No,7,7.9,High,Yes,2,Low,Medium,Negative,4,No,College,Near,6.8,7.2,0
+29,76,Low,High,Yes,8,6.0,Medium,Yes,2,Medium,Medium,Negative,3,No,High School,Near,6.8,22.04,0
+27,74,Medium,High,Yes,9,8.4,Low,Yes,3,High,Medium,Negative,3,No,College,Near,7.0,19.98,0
+17,64,Medium,Medium,Yes,6,6.0,Medium,Yes,1,Medium,Medium,Positive,2,Yes,High School,Near,6.1,10.88,1
+17,67,High,Medium,Yes,10,5.1,Medium,Yes,3,Low,Medium,Positive,5,No,High School,Near,6.5,11.39,0
+21,89,Low,Medium,Yes,9,8.5,Low,Yes,1,Medium,Medium,Negative,5,No,College,Far,6.8,18.69,0
+35,63,High,High,Yes,6,9.0,Low,Yes,0,Medium,Medium,Positive,3,No,College,Near,7.1,22.05,0
+25,96,Low,Low,No,7,9.8,Medium,Yes,1,Medium,Medium,Neutral,3,No,College,Near,7.1,24.0,0
+22,75,Medium,Low,Yes,5,6.6,Low,Yes,2,Low,Medium,Positive,2,No,High School,Far,8.0,16.5,0
+22,65,High,Low,No,8,9.1,Medium,Yes,2,High,Medium,Negative,2,No,College,Moderate,6.5,14.3,0
+24,94,Low,Medium,Yes,6,7.5,Low,Yes,1,Low,High,Negative,4,No,High School,Near,6.9,22.56,0
+21,93,Medium,Medium,Yes,6,5.6,Medium,No,1,Low,Medium,Positive,3,No,High School,Near,6.8,19.53,0
+18,96,High,Low,No,7,5.7,Low,Yes,1,Low,Medium,Negative,3,No,High School,Moderate,6.6,17.28,0
+21,62,High,Medium,No,6,8.6,Medium,Yes,2,Medium,High,Positive,4,No,High School,Near,6.7,13.02,0
+17,65,Medium,Medium,No,7,6.5,Medium,Yes,0,High,Medium,Neutral,4,No,High School,Moderate,6.2,11.05,1
+12,77,Low,Medium,No,7,6.4,Low,Yes,2,High,High,Positive,4,No,College,Moderate,6.4,9.24,1
+14,76,High,Medium,Yes,8,5.9,Low,Yes,3,Medium,Medium,Neutral,5,No,High School,Moderate,6.5,10.64,0
+29,90,Medium,Medium,Yes,9,8.3,Medium,Yes,0,Medium,High,Positive,3,No,High School,Near,7.2,26.1,0
+11,81,Medium,Medium,Yes,6,8.2,High,Yes,3,Medium,High,Neutral,4,No,High School,Near,6.7,8.91,0
+20,89,Low,Low,Yes,6,7.4,Low,Yes,1,Medium,Low,Positive,3,No,Postgraduate,Far,6.6,17.8,0
+26,76,Medium,Medium,Yes,5,5.7,Medium,Yes,1,Medium,Medium,Positive,4,No,High School,Near,6.8,19.76,0
+9,97,Low,Medium,Yes,7,5.7,Medium,Yes,4,Medium,High,Neutral,5,No,High School,Far,6.7,8.73,0
+20,67,High,High,No,6,5.9,Low,Yes,1,Medium,Medium,Negative,4,No,College,Near,6.5,13.4,0
+15,60,Medium,Medium,No,7,6.6,High,Yes,2,High,Medium,Neutral,4,No,High School,Near,6.2,9.0,1
+16,88,Medium,Medium,Yes,6,5.2,Medium,Yes,2,High,High,Positive,3,No,High School,Near,6.8,14.08,0
+7,96,Medium,High,No,9,9.1,Medium,Yes,0,Low,Medium,Neutral,4,No,College,Near,6.7,6.72,0
+24,79,High,Medium,No,7,8.1,High,Yes,0,High,Medium,Positive,2,No,High School,Moderate,6.9,18.96,0
+15,62,Medium,Medium,No,7,7.4,High,Yes,0,Low,High,Negative,3,No,Postgraduate,Moderate,6.1,9.3,1
+18,99,Medium,High,Yes,7,8.1,Low,Yes,1,Medium,Medium,Neutral,3,No,Postgraduate,Near,7.2,17.82,0
+9,94,Medium,Medium,Yes,6,8.1,Low,Yes,0,Low,High,Positive,3,No,High School,Near,6.6,8.46,0
+23,86,Low,Medium,Yes,4,10.0,Medium,Yes,0,Low,High,Negative,3,No,Postgraduate,Near,6.9,19.78,0
+25,95,Medium,Medium,Yes,7,7.7,High,No,0,Low,High,Neutral,3,No,Postgraduate,Near,7.1,23.75,0
+19,77,High,Medium,Yes,6,7.7,High,Yes,1,Low,High,Neutral,3,No,College,Near,6.8,14.63,0
+16,90,Medium,Medium,No,7,5.4,High,No,2,Medium,Medium,Positive,3,No,High School,Near,6.7,14.4,0
+19,65,Low,Medium,Yes,5,9.5,Medium,Yes,2,Medium,High,Neutral,4,No,College,Near,6.5,12.35,0
+16,92,Medium,Medium,Yes,7,6.6,High,Yes,2,Medium,Medium,Positive,4,No,Postgraduate,Moderate,7.0,14.72,0
+5,75,Medium,Low,Yes,10,8.4,Medium,Yes,0,High,Medium,Neutral,4,No,Postgraduate,Moderate,6.2,3.75,1
+21,94,Medium,Medium,Yes,7,7.3,Medium,Yes,1,Medium,Medium,Positive,5,No,College,Near,7.1,19.74,0
+9,75,Medium,Medium,No,7,5.4,Low,Yes,2,Low,Medium,Positive,4,No,High School,Near,6.1,6.75,1
+7,73,High,Medium,Yes,6,7.5,Medium,Yes,3,Low,Medium,Neutral,3,No,College,Near,6.4,5.11,1
+9,89,Medium,Medium,Yes,6,9.6,Medium,Yes,0,High,Low,Negative,4,No,High School,Near,6.6,8.01,0
+19,98,High,Low,Yes,7,6.2,High,Yes,1,Low,High,Neutral,2,No,High School,Near,7.0,18.62,0
+24,66,High,Medium,Yes,7,7.1,Low,Yes,1,Low,High,Neutral,3,No,High School,Near,6.6,15.84,0
+22,86,Medium,Medium,Yes,5,5.7,High,Yes,2,Medium,Medium,Positive,3,No,College,Moderate,6.9,18.92,0
+22,73,Low,Medium,No,5,7.9,Medium,Yes,4,Medium,Low,Negative,1,No,Postgraduate,Moderate,6.5,16.06,0
+11,83,Low,Medium,No,7,6.3,High,Yes,3,High,Medium,Negative,2,No,High School,Far,6.3,9.13,1
+20,71,Medium,Medium,No,7,7.0,High,Yes,0,High,High,Negative,4,No,High School,Near,6.5,14.2,0
+31,61,Medium,Medium,No,4,7.9,Medium,Yes,0,Low,Low,Positive,3,No,High School,Moderate,6.5,18.91,0
+16,85,Low,Medium,No,7,8.5,High,Yes,1,Medium,High,Neutral,2,No,High School,Near,6.6,13.6,0
+28,73,High,Medium,Yes,6,7.1,Medium,Yes,0,Medium,High,Positive,2,No,College,Moderate,6.9,20.44,0
+21,72,High,High,No,5,7.3,Medium,Yes,1,Medium,Medium,Neutral,3,No,High School,Near,6.7,15.12,0
+25,65,High,High,Yes,4,7.6,High,Yes,1,High,Medium,Neutral,1,No,High School,Moderate,6.7,16.25,0
+23,91,Low,Medium,Yes,8,7.3,Medium,No,3,Medium,Medium,Negative,5,No,High School,Far,6.8,20.93,0
+18,79,Medium,High,Yes,6,9.6,Medium,Yes,3,Medium,Low,Positive,3,Yes,Postgraduate,Near,6.9,14.22,0
+15,73,Medium,High,No,5,6.1,Low,No,1,Low,High,Positive,2,No,Postgraduate,Moderate,6.3,10.95,1
+17,64,High,High,Yes,6,9.2,Medium,Yes,0,Medium,Medium,Positive,1,No,Postgraduate,Near,6.6,10.88,0
+22,99,High,Low,No,7,6.5,Medium,Yes,3,Low,Low,Neutral,3,No,Postgraduate,Near,7.1,21.78,0
+22,95,Medium,Medium,No,7,8.5,Medium,Yes,0,Medium,Medium,Positive,4,No,College,Near,7.1,20.9,0
+20,83,Medium,Medium,No,6,5.1,Medium,Yes,2,Low,High,Negative,4,No,Postgraduate,Near,6.7,16.6,0
+16,95,High,Low,Yes,6,8.6,Medium,Yes,0,Low,High,Neutral,3,No,High School,Near,6.9,15.2,0
+14,89,Medium,Medium,Yes,8,5.9,High,Yes,1,Low,Medium,Neutral,3,No,College,Near,6.7,12.46,0
+30,79,Medium,High,No,7,7.8,Medium,No,3,High,High,Positive,2,No,Postgraduate,Moderate,7.2,23.7,0
+16,76,Medium,Medium,No,7,9.0,Medium,Yes,0,Low,Medium,Neutral,3,No,Postgraduate,Moderate,6.5,12.16,0
+23,65,High,Medium,No,6,6.7,High,No,3,Medium,Medium,Negative,5,No,High School,Moderate,6.5,14.95,0
+29,98,Medium,High,No,5,8.6,Low,Yes,2,Medium,Medium,Negative,4,No,High School,Far,7.3,28.42,0
+26,97,High,Low,Yes,6,6.6,Medium,Yes,2,Medium,Medium,Positive,1,No,College,Near,7.3,25.22,0
+19,62,High,Low,Yes,8,6.0,Medium,Yes,1,Low,Medium,Positive,2,No,College,Far,6.1,11.78,1
+24,74,Low,Low,Yes,9,5.4,Medium,Yes,1,Low,Medium,Neutral,3,No,High School,Near,6.3,17.76,1
+15,69,Medium,Medium,Yes,7,8.9,Medium,Yes,1,Low,High,Negative,2,No,College,Moderate,6.3,10.35,1
+24,61,Medium,Medium,No,7,8.0,High,Yes,0,Low,Medium,Positive,3,No,Postgraduate,Moderate,6.4,14.64,1
+16,94,Low,Medium,Yes,8,5.8,Medium,Yes,2,Low,Medium,Positive,3,Yes,College,Near,6.7,15.04,0
+20,94,Medium,Medium,Yes,6,7.0,High,Yes,1,Medium,Medium,Neutral,2,No,High School,Moderate,6.9,18.8,0
+16,100,High,High,No,7,5.2,Medium,Yes,4,Low,Medium,Negative,4,No,High School,Near,7.1,16.0,0
+15,73,Medium,High,No,5,5.6,Medium,Yes,1,Medium,Medium,Positive,2,No,Postgraduate,Near,6.5,10.95,0
+26,65,Low,Medium,No,7,5.3,Low,Yes,3,High,Medium,Positive,2,No,High School,Near,6.4,16.9,1
+25,93,Low,Medium,No,8,9.3,Medium,Yes,2,Medium,Medium,Positive,3,No,College,Near,7.2,23.25,0
+25,69,High,Low,Yes,7,5.2,High,Yes,1,Low,Medium,Positive,4,No,High School,Moderate,6.5,17.25,0
+16,89,High,Medium,No,9,9.6,Medium,Yes,2,Medium,Low,Positive,3,No,College,Far,6.9,14.24,0
+14,91,Medium,High,Yes,8,7.0,Medium,Yes,2,Low,Medium,Neutral,0,No,Postgraduate,Moderate,6.8,12.74,0
+26,98,Medium,Low,Yes,7,9.7,Medium,Yes,2,Low,Medium,Neutral,2,Yes,Postgraduate,Moderate,7.2,25.48,0
+14,76,High,Low,No,7,7.7,Low,No,2,High,Medium,Positive,4,No,College,Near,6.5,10.64,0
+28,72,High,Medium,Yes,5,7.8,Low,No,5,Medium,Low,Negative,2,No,College,Far,6.7,20.16,0
+14,74,Medium,High,No,5,9.5,High,Yes,1,Low,High,Positive,3,Yes,College,Near,6.6,10.36,0
+12,98,Medium,Low,Yes,4,5.4,Medium,Yes,2,Medium,High,Neutral,3,No,High School,Near,6.7,11.76,0
+27,92,High,Medium,Yes,6,9.9,Low,Yes,4,Low,Low,Positive,3,No,High School,Near,7.4,24.84,0
+35,86,Low,Medium,No,8,5.9,Medium,Yes,2,Low,Low,Positive,2,No,College,Moderate,7.0,30.1,0
+14,81,Medium,Medium,No,6,8.8,Medium,Yes,1,High,Medium,Positive,3,No,Postgraduate,Moderate,6.7,11.34,0
+21,95,High,Medium,No,4,5.5,Medium,Yes,2,Medium,High,Neutral,1,No,College,Near,7.1,19.95,0
+26,76,Medium,Medium,Yes,8,6.7,High,Yes,1,Low,Medium,Negative,3,No,High School,Moderate,6.7,19.76,0
+21,93,Medium,Low,No,7,6.7,High,Yes,2,Low,Medium,Neutral,3,No,College,Far,6.8,19.53,0
+22,65,Low,High,Yes,6,8.5,Medium,Yes,2,High,Medium,Positive,3,Yes,Postgraduate,Near,6.6,14.3,0
+22,73,High,High,Yes,4,7.6,High,Yes,3,Medium,Medium,Negative,4,No,College,Far,6.9,16.06,0
+16,78,Low,High,No,9,9.0,Medium,Yes,3,Low,Medium,Negative,3,No,Postgraduate,Moderate,6.6,12.48,0
+18,77,Medium,High,Yes,7,5.5,High,No,3,High,Medium,Neutral,3,Yes,High School,Near,6.6,13.86,0
+18,65,Medium,Medium,Yes,6,5.3,Medium,Yes,1,Medium,Medium,Positive,3,Yes,Postgraduate,Near,6.3,11.7,1
+11,88,High,Medium,Yes,7,5.6,Low,Yes,2,Medium,Medium,Neutral,2,No,College,Near,6.6,9.68,0
+21,62,Low,High,Yes,7,5.0,Low,No,1,High,Medium,Negative,2,No,High School,Moderate,6.0,13.02,1
+24,77,High,High,Yes,7,8.8,Low,Yes,1,High,Medium,Negative,5,No,College,Near,7.1,18.48,0
+25,81,High,High,Yes,8,6.8,Low,Yes,0,Low,High,Neutral,3,No,College,Moderate,6.9,20.25,0
+18,71,Medium,High,Yes,6,8.1,Medium,Yes,1,Low,High,Positive,3,No,High School,Near,6.6,12.78,0
+22,70,Medium,High,No,7,8.4,Low,Yes,3,Low,High,Positive,5,No,High School,Near,6.8,15.4,0
+21,91,Medium,Medium,No,5,6.6,Low,Yes,1,High,Medium,Positive,3,No,College,Near,6.9,19.11,0
+27,74,Medium,Medium,Yes,6,7.4,Medium,Yes,2,Medium,High,Neutral,2,No,College,Far,6.8,19.98,0
+22,73,Medium,Low,No,8,7.7,Medium,Yes,1,High,Medium,Neutral,3,No,High School,Far,6.4,16.06,1
+20,65,High,High,Yes,6,9.7,Medium,Yes,0,Low,Low,Negative,3,No,High School,Moderate,6.5,13.0,0
+25,69,High,Medium,Yes,7,5.6,Medium,Yes,2,Low,Medium,Neutral,4,No,High School,Near,6.7,17.25,0
+11,75,High,High,Yes,9,7.7,Medium,No,1,High,High,Neutral,2,Yes,College,Moderate,6.4,8.25,1
+22,98,Medium,Medium,Yes,7,10.0,Low,Yes,0,Low,Medium,Neutral,3,No,High School,Far,7.0,21.56,0
+30,80,High,High,No,6,5.4,High,Yes,1,High,Medium,Positive,3,No,High School,Moderate,7.1,24.0,0
+24,96,Medium,Medium,No,8,9.6,Medium,Yes,2,Low,Low,Positive,3,No,College,Near,7.2,23.04,0
+27,64,High,Medium,Yes,6,5.6,Low,Yes,0,Low,High,Neutral,5,No,College,Moderate,6.5,17.28,0
+16,64,High,Medium,Yes,8,7.0,Low,Yes,3,High,High,Negative,3,No,High School,Far,6.3,10.24,1
+23,70,Medium,High,Yes,7,7.3,High,Yes,1,Low,Medium,Positive,3,No,Postgraduate,Near,6.8,16.1,0
+19,88,Medium,High,Yes,8,5.7,Low,No,1,Medium,Low,Negative,4,No,College,Near,6.6,16.72,0
+7,86,High,Medium,No,7,6.8,Medium,Yes,5,Low,Medium,Positive,4,No,Postgraduate,Moderate,6.7,6.02,0
+18,85,Medium,High,Yes,6,8.6,High,No,1,Medium,Medium,Neutral,3,No,High School,Near,6.8,15.3,0
+30,87,Low,Medium,No,7,5.9,Medium,Yes,2,Medium,Medium,Neutral,3,No,High School,Moderate,6.9,26.1,0
+16,62,Low,Medium,No,8,7.4,Medium,Yes,2,High,High,Neutral,3,No,High School,Moderate,6.2,9.92,1
+17,92,Medium,High,Yes,8,6.6,Medium,Yes,2,Low,Medium,Positive,3,No,High School,Near,6.9,15.64,0
+22,74,High,High,Yes,5,9.9,Medium,Yes,0,Low,Medium,Neutral,2,No,College,Near,6.8,16.28,0
+9,77,Medium,Medium,No,7,5.7,Low,Yes,2,Medium,Low,Negative,3,No,High School,Near,6.1,6.93,1
+23,62,High,Medium,Yes,6,9.2,Low,Yes,0,High,Medium,Neutral,2,No,High School,Moderate,6.5,14.26,0
+26,68,Medium,High,No,8,9.6,High,Yes,1,Medium,High,Neutral,2,No,High School,Near,6.9,17.68,0
+24,75,Medium,Low,No,7,9.4,Medium,Yes,2,Medium,High,Negative,4,No,High School,Near,6.7,18.0,0
+22,96,Low,Low,Yes,5,5.9,Medium,Yes,0,Medium,High,Positive,2,No,High School,Far,6.7,21.12,0
+16,74,Medium,High,Yes,7,7.4,Low,Yes,4,Low,Low,Positive,3,No,High School,Near,6.6,11.84,0
+25,94,High,High,No,5,8.5,High,Yes,1,Medium,Medium,Neutral,2,No,College,Near,7.4,23.5,0
+26,77,Medium,Medium,Yes,5,10.0,Low,Yes,1,Low,High,Positive,5,No,High School,Near,7.0,20.02,0
+9,81,High,Medium,Yes,9,7.3,Medium,Yes,1,Medium,Medium,Negative,1,No,Postgraduate,Near,6.5,7.29,0
+26,89,High,Medium,No,7,6.6,Medium,Yes,0,Low,Medium,Neutral,5,Yes,College,Near,7.0,23.14,0
+23,96,Low,Medium,Yes,7,8.9,Medium,Yes,1,Low,Medium,Positive,3,No,College,Far,7.0,22.08,0
+3,79,Low,Medium,Yes,7,6.4,Low,Yes,0,Medium,Medium,Negative,3,No,Postgraduate,Far,5.8,2.37,1
+19,79,High,High,Yes,9,8.5,Medium,Yes,0,Medium,Medium,Positive,2,No,High School,Moderate,6.8,15.01,0
+22,76,Medium,Medium,Yes,8,9.2,Medium,Yes,1,Low,High,Neutral,4,No,High School,Near,6.8,16.72,0
+20,75,Medium,Medium,Yes,9,8.2,High,Yes,0,Low,Low,Positive,5,No,College,Moderate,6.6,15.0,0
+20,95,Medium,Medium,Yes,6,7.4,Medium,Yes,1,High,Low,Positive,4,No,High School,Far,7.0,19.0,0
+22,63,Medium,High,Yes,7,8.5,Medium,Yes,4,High,High,Negative,3,No,College,Near,6.8,13.86,0
+22,61,Low,Low,Yes,10,7.6,High,Yes,1,High,High,Positive,2,No,College,Near,6.4,13.42,1
+19,62,High,Medium,Yes,9,8.3,High,Yes,2,Medium,Medium,Positive,3,No,College,Near,6.7,11.78,0
+12,82,Low,Medium,No,9,7.9,High,Yes,0,Low,Medium,Positive,2,No,College,Moderate,6.3,9.84,1
+23,82,Medium,High,No,6,8.3,Medium,Yes,2,Medium,Medium,Positive,3,No,Postgraduate,Moderate,7.1,18.86,0
+28,73,Low,Medium,Yes,8,5.4,Medium,Yes,4,Medium,Medium,Neutral,1,No,High School,Near,6.7,20.44,0
+16,93,Medium,Medium,Yes,8,5.5,Low,Yes,0,High,Medium,Neutral,4,No,High School,Moderate,6.7,14.88,0
+25,80,Medium,Medium,Yes,10,8.8,Low,Yes,0,Low,High,Negative,2,No,College,Moderate,6.7,20.0,0
+14,94,High,Medium,No,7,7.4,Medium,Yes,1,High,Medium,Positive,5,No,College,Near,7.0,13.16,0
+18,78,Medium,Medium,No,9,9.1,High,Yes,2,High,Low,Neutral,4,No,College,Far,6.7,14.04,0
+17,96,Medium,Medium,No,9,9.3,Low,Yes,3,Medium,Medium,Neutral,2,No,High School,Far,6.9,16.32,0
+32,97,High,Low,Yes,5,9.7,Low,Yes,1,Low,High,Positive,5,No,College,Moderate,7.6,31.04,0
+12,68,High,High,Yes,7,7.5,Medium,Yes,1,Medium,Low,Positive,4,No,High School,Near,6.4,8.16,1
+23,87,Medium,High,No,6,7.2,Medium,Yes,1,Low,High,Negative,3,No,College,Moderate,6.9,20.01,0
+27,78,Medium,Medium,Yes,5,7.6,High,Yes,1,Medium,Medium,Positive,4,No,Postgraduate,Near,7.1,21.06,0
+23,95,Medium,Medium,Yes,8,9.4,Medium,Yes,1,Medium,Medium,Positive,4,No,High School,Near,7.3,21.85,0
+19,92,Medium,Medium,Yes,7,9.0,Medium,Yes,1,Low,High,Positive,2,No,High School,Near,7.0,17.48,0
+21,78,Medium,Medium,Yes,10,5.5,Medium,Yes,1,High,Low,Positive,2,No,College,Near,6.7,16.38,0
+27,73,High,High,Yes,7,7.3,High,Yes,5,High,High,Negative,3,No,High School,Near,7.3,19.71,0
+15,89,Medium,Medium,Yes,8,9.6,High,Yes,3,Low,High,Negative,3,No,High School,Near,6.9,13.35,0
+15,94,Medium,High,Yes,8,6.4,Medium,Yes,2,Low,Medium,Negative,1,No,College,Near,6.8,14.1,0
+22,79,Low,Medium,No,10,5.7,Low,Yes,1,Medium,High,Positive,2,No,High School,Near,6.5,17.38,0
+21,69,High,Low,Yes,7,6.3,Medium,Yes,0,Medium,Medium,Positive,3,No,High School,Moderate,6.4,14.49,1
+7,88,Medium,High,Yes,7,6.4,Low,Yes,2,Medium,High,Neutral,4,No,Postgraduate,Moderate,6.6,6.16,0
+17,62,High,Low,Yes,6,5.4,Low,Yes,2,Medium,High,Neutral,3,No,College,Near,6.2,10.54,1
+22,78,Low,High,Yes,8,6.9,High,Yes,2,Low,Medium,Negative,2,No,High School,Near,6.7,17.16,0
+11,95,Medium,Medium,Yes,5,9.5,Low,Yes,1,Low,High,Positive,3,No,Postgraduate,Near,6.9,10.45,0
+20,95,Medium,Medium,No,6,7.6,Medium,Yes,0,Low,High,Positive,4,No,High School,Moderate,6.9,19.0,0
+23,64,Medium,High,Yes,7,5.5,Medium,Yes,0,Medium,Medium,Positive,4,No,High School,Moderate,6.5,14.72,0
+23,73,Medium,Medium,No,6,6.3,Medium,Yes,1,High,Medium,Positive,3,No,High School,Near,6.7,16.79,0
+15,67,Medium,High,Yes,6,7.4,High,Yes,0,High,Medium,Positive,2,No,Postgraduate,Near,6.6,10.05,0
+10,85,Medium,High,Yes,5,9.2,Medium,Yes,0,Low,High,Positive,4,Yes,High School,Far,6.5,8.5,0
+24,81,Medium,Low,No,9,6.1,Medium,Yes,1,Low,Low,Positive,4,No,College,Near,6.6,19.44,0
+19,61,Medium,Medium,No,6,6.6,Medium,Yes,0,High,Medium,Neutral,1,No,High School,Near,6.1,11.59,1
+26,70,Medium,High,Yes,7,6.2,Medium,Yes,0,Low,Medium,Negative,1,No,College,Near,6.6,18.2,0
+17,90,Medium,High,No,8,8.4,Medium,Yes,1,Low,Low,Negative,4,No,High School,Far,6.7,15.3,0
+14,90,Low,Medium,Yes,7,6.6,Medium,Yes,1,Medium,Medium,Neutral,5,No,College,Near,6.7,12.6,0
+27,91,Medium,Low,No,8,5.7,Medium,Yes,0,Low,Low,Neutral,4,No,Postgraduate,Moderate,6.8,24.57,0
+24,89,Low,Medium,No,5,5.8,Medium,Yes,3,High,Medium,Positive,3,No,High School,Near,6.9,21.36,0
+20,85,Low,Medium,Yes,5,7.5,Low,Yes,1,Medium,Medium,Neutral,2,No,College,Near,6.7,17.0,0
+17,87,High,High,Yes,6,9.4,Medium,Yes,2,Low,Medium,Neutral,3,No,High School,Moderate,7.0,14.79,0
+24,60,Medium,Medium,Yes,8,9.9,Medium,Yes,2,Low,Low,Neutral,1,No,High School,Moderate,6.4,14.4,1
+10,76,Medium,Low,No,6,7.6,Medium,Yes,1,High,High,Negative,2,No,Postgraduate,Near,8.0,7.6,0
+16,63,Medium,High,Yes,6,7.3,Medium,Yes,0,Medium,Medium,Neutral,4,No,College,Near,6.3,10.08,1
+24,89,Medium,High,Yes,6,6.3,Medium,Yes,2,High,Medium,Positive,3,No,College,Near,7.2,21.36,0
+17,86,Low,Medium,No,6,6.2,Low,Yes,2,Medium,High,Positive,4,No,High School,Near,6.6,14.62,0
+23,96,Medium,High,Yes,5,8.6,Medium,Yes,3,Medium,High,Neutral,3,Yes,High School,Near,7.4,22.08,0
+17,76,Medium,Medium,No,6,7.3,Medium,Yes,3,Low,High,Neutral,3,No,Postgraduate,Near,6.7,12.92,0
+21,84,Medium,Medium,No,6,7.5,Low,No,1,High,Medium,Positive,3,No,College,Moderate,6.7,17.64,0
+12,83,Medium,High,No,8,6.1,Medium,Yes,3,High,Medium,Neutral,5,Yes,High School,Near,6.6,9.96,0
+23,86,High,Medium,No,7,5.4,Low,Yes,2,Medium,Medium,Negative,2,Yes,High School,Near,6.7,19.78,0
+21,94,High,Medium,Yes,8,10.0,Low,Yes,0,Low,Medium,Neutral,3,No,Postgraduate,Near,7.2,19.74,0
+12,70,Low,Medium,Yes,8,5.5,Medium,Yes,2,Medium,High,Negative,4,No,High School,Near,6.1,8.4,1
+13,74,High,High,Yes,5,8.8,Low,Yes,3,Low,Medium,Neutral,3,Yes,College,Near,6.6,9.62,0
+18,91,High,High,Yes,7,6.2,Medium,Yes,3,Low,Medium,Positive,3,No,High School,Near,7.1,16.38,0
+15,77,Medium,Medium,Yes,7,5.2,Medium,Yes,1,Medium,Medium,Neutral,2,No,College,Near,6.4,11.55,1
+19,77,High,Low,No,6,9.7,Low,Yes,4,Low,Medium,Negative,2,No,High School,Near,6.6,14.63,0
+21,66,Medium,Medium,Yes,7,5.2,High,Yes,1,Medium,Medium,Neutral,3,No,High School,Far,6.3,13.86,1
+12,84,High,Medium,Yes,7,9.8,High,Yes,1,Low,Medium,Positive,3,No,High School,Near,6.8,10.08,0
+35,84,Medium,Medium,No,5,8.6,Medium,Yes,1,Medium,Medium,Neutral,3,No,High School,Near,7.2,29.4,0
+13,78,Medium,Low,Yes,5,5.4,Low,Yes,2,Low,High,Positive,3,Yes,College,Near,6.2,10.14,1
+11,87,Low,Medium,No,8,5.3,High,Yes,1,Medium,Medium,Positive,3,No,High School,Near,6.4,9.57,1
+24,90,Medium,Medium,No,8,6.5,Medium,Yes,4,Low,Medium,Neutral,4,No,High School,Moderate,7.0,21.6,0
+16,66,High,Medium,Yes,7,7.9,High,Yes,0,High,High,Neutral,3,No,College,Near,6.6,10.56,0
+19,91,High,Low,No,6,5.9,Medium,Yes,5,Medium,High,Neutral,4,No,College,Moderate,7.0,17.29,0
+20,60,Medium,Low,Yes,4,7.3,Medium,Yes,0,Low,Low,Neutral,1,No,Postgraduate,Moderate,6.0,12.0,1
+13,98,High,Low,Yes,7,8.1,Medium,Yes,1,Medium,Low,Negative,3,No,Postgraduate,Near,6.9,12.74,0
+14,81,Medium,High,Yes,6,6.4,Low,No,2,High,High,Neutral,2,No,High School,Far,6.4,11.34,1
+23,90,High,Medium,No,5,9.5,Low,Yes,2,Low,Medium,Negative,2,No,High School,Moderate,6.9,20.7,0
+23,82,Low,Medium,Yes,6,8.6,Medium,Yes,0,High,Medium,Neutral,4,No,High School,Near,6.8,18.86,0
+24,95,Medium,Low,Yes,6,9.6,High,Yes,3,Low,Medium,Neutral,3,No,Postgraduate,Near,7.3,22.8,0
+15,88,Low,Medium,Yes,4,6.7,Medium,Yes,1,Medium,High,Positive,4,No,High School,Far,6.6,13.2,0
+12,99,Medium,High,Yes,10,6.0,Medium,Yes,0,Low,Low,Negative,1,No,High School,Moderate,6.6,11.88,0
+34,78,Medium,High,Yes,8,6.8,Medium,Yes,1,Medium,Medium,Negative,2,No,College,Near,7.1,26.52,0
+9,76,Medium,Medium,Yes,7,7.9,Medium,Yes,1,Low,Medium,Neutral,3,No,High School,Near,6.2,6.84,1
+18,88,Low,Medium,No,8,8.7,Medium,Yes,2,Medium,High,Neutral,2,No,Postgraduate,Moderate,6.8,15.84,0
+16,85,Medium,Medium,No,8,8.7,High,Yes,4,Low,Medium,Negative,3,No,High School,Far,6.7,13.6,0
+20,90,Medium,Low,Yes,7,9.7,Medium,Yes,2,High,High,Positive,3,No,College,Moderate,7.1,18.0,0
+26,73,High,High,Yes,8,8.3,Low,Yes,2,Medium,Medium,Positive,4,No,College,Near,7.1,18.98,0
+30,98,Low,Low,Yes,5,5.0,High,Yes,0,Low,High,Negative,2,No,College,Near,7.0,29.4,0
+31,99,Medium,Low,Yes,4,5.7,High,Yes,1,High,High,Neutral,2,No,Postgraduate,Moderate,7.4,30.69,0
+24,99,High,Medium,Yes,7,6.9,Medium,Yes,0,Medium,Medium,Positive,3,No,High School,Near,7.3,23.76,0
+12,68,High,Medium,Yes,6,6.8,Low,Yes,2,Medium,Medium,Positive,4,No,College,Near,6.4,8.16,1
+25,85,Medium,Medium,No,8,5.8,Medium,Yes,2,Medium,High,Neutral,4,No,College,Near,7.0,21.25,0
+22,73,Low,Medium,No,6,5.8,High,Yes,1,Medium,Medium,Positive,3,No,Postgraduate,Moderate,6.5,16.06,0
+11,68,Low,High,Yes,8,5.0,Low,Yes,2,Low,High,Positive,4,No,High School,Near,6.1,7.48,1
+17,68,Low,High,No,8,5.3,Medium,Yes,0,Low,Medium,Neutral,2,No,College,Near,6.1,11.56,1
+21,99,High,Medium,Yes,6,6.5,Low,Yes,1,Medium,Medium,Positive,2,No,College,Far,7.1,20.79,0
+19,75,Medium,Medium,No,7,6.5,Low,Yes,0,Low,Low,Neutral,4,No,High School,Near,6.3,14.25,1
+21,70,High,High,No,9,6.6,Medium,Yes,1,Medium,Low,Neutral,4,No,College,Moderate,9.1,14.7,0
+13,82,Medium,High,No,8,5.6,Low,Yes,2,Low,High,Neutral,3,No,Postgraduate,Near,6.6,10.66,0
+27,71,Medium,Low,No,8,6.9,Medium,Yes,1,High,Medium,Positive,4,No,College,Near,6.7,19.17,0
+22,98,Medium,Medium,No,7,5.8,Medium,Yes,0,Medium,Medium,Neutral,3,No,High School,Near,7.0,21.56,0
+14,95,High,Medium,No,7,5.7,Medium,Yes,2,Low,Low,Neutral,2,No,College,Near,6.8,13.3,0
+19,61,Medium,Medium,No,7,7.4,Low,Yes,2,High,Medium,Negative,3,No,Postgraduate,Far,6.2,11.59,1
+19,66,High,Low,No,9,9.9,Medium,Yes,1,Medium,Medium,Positive,3,No,College,Near,6.6,12.54,0
+27,82,Medium,High,Yes,5,6.2,Low,Yes,1,Low,High,Neutral,4,No,High School,Moderate,6.9,22.14,0
+17,83,High,Medium,Yes,6,9.8,Medium,Yes,0,Medium,Medium,Positive,3,No,High School,Near,6.9,14.11,0
+34,63,Medium,High,Yes,10,6.0,Low,Yes,1,Medium,Medium,Negative,4,No,High School,Near,6.7,21.42,0
+4,83,High,Medium,No,7,9.9,Low,Yes,1,Low,Low,Neutral,3,No,College,Near,6.4,3.32,1
+23,91,Medium,High,Yes,10,6.2,Low,Yes,1,Medium,High,Negative,3,No,College,Near,7.0,20.93,0
+20,68,High,Low,Yes,7,9.9,High,Yes,0,Low,Medium,Positive,2,Yes,College,Moderate,6.4,13.6,1
+18,90,Medium,High,Yes,9,6.9,Medium,Yes,1,High,High,Positive,3,No,College,Moderate,7.1,16.2,0
+14,96,Medium,High,No,6,6.6,Medium,Yes,3,Medium,Medium,Positive,2,No,College,Near,7.0,13.44,0
+23,89,High,High,No,6,8.7,Medium,Yes,4,Medium,High,Neutral,3,No,College,Near,7.4,20.47,0
+13,79,Low,Low,Yes,6,5.8,High,Yes,2,Medium,Medium,Positive,4,No,College,Moderate,6.3,10.27,1
+14,100,Medium,Low,No,7,7.6,Low,Yes,1,Medium,Medium,Neutral,3,No,Postgraduate,Near,6.8,14.0,0
+21,62,Medium,Medium,No,7,9.4,Low,Yes,1,Low,High,Positive,3,No,College,Moderate,6.4,13.02,1
+13,82,Medium,High,No,6,6.0,Medium,Yes,1,Low,Low,Positive,4,No,College,Far,6.4,10.66,1
+30,63,Medium,High,Yes,8,9.6,Medium,Yes,4,Low,Medium,Positive,3,No,Postgraduate,Near,7.1,18.9,0
+16,82,High,Low,No,4,6.4,Low,Yes,1,Medium,Medium,Neutral,2,No,Postgraduate,Moderate,6.5,13.12,0
+19,75,High,High,Yes,6,9.6,Medium,Yes,2,Medium,Medium,Positive,4,No,High School,Near,7.0,14.25,0
+20,68,Low,Low,No,8,8.8,Medium,Yes,5,Low,Low,Neutral,3,No,High School,Moderate,6.3,13.6,1
+15,71,High,High,Yes,6,6.9,Low,Yes,2,Low,High,Negative,4,No,College,Near,6.5,10.65,0
+12,86,High,Medium,Yes,5,7.6,Low,No,2,High,Medium,Positive,3,No,Postgraduate,Near,6.8,10.32,0
+25,76,Medium,High,No,8,5.3,High,Yes,1,High,High,Positive,3,Yes,High School,Far,6.7,19.0,0
+17,66,High,Medium,No,6,5.4,Medium,Yes,2,High,Low,Positive,3,Yes,High School,Near,6.3,11.22,1
+13,98,High,Low,Yes,6,5.6,Medium,Yes,1,High,Low,Negative,3,No,College,Moderate,6.7,12.74,0
+13,70,Medium,Low,Yes,7,8.0,High,Yes,1,High,Medium,Positive,4,No,College,Far,6.3,9.1,1
+18,86,High,Medium,No,8,6.0,Medium,Yes,2,Low,High,Neutral,1,No,College,Near,8.8,15.48,0
+21,80,High,High,Yes,7,9.0,High,Yes,1,Low,Low,Negative,2,No,College,Far,6.8,16.8,0
+9,66,Low,Medium,No,9,10.0,Low,Yes,3,Medium,Medium,Neutral,3,No,College,Near,6.2,5.94,1
+20,84,Low,Low,No,8,7.2,Medium,Yes,3,High,Medium,Neutral,3,No,High School,Near,6.6,16.8,0
+30,99,Low,Medium,No,5,5.4,Medium,Yes,0,Medium,Medium,Positive,3,No,Postgraduate,Near,7.2,29.7,0
+15,83,Low,Low,Yes,5,7.5,Medium,Yes,1,Medium,Medium,Neutral,3,No,High School,Far,6.3,12.45,1
+22,70,High,Low,No,7,9.9,Medium,Yes,1,Low,High,Positive,2,No,High School,Moderate,6.6,15.4,0
+18,66,High,High,No,9,6.2,Medium,Yes,2,High,Medium,Neutral,4,No,High School,Moderate,6.5,11.88,0
+10,60,Medium,Medium,No,9,8.5,Medium,Yes,0,Medium,High,Positive,4,No,Postgraduate,Near,6.2,6.0,1
+20,89,High,Medium,Yes,6,7.4,Medium,Yes,1,Low,High,Neutral,2,No,High School,Moderate,6.9,17.8,0
+11,91,Low,High,No,7,9.4,Medium,Yes,1,Medium,Medium,Neutral,3,Yes,High School,Moderate,6.5,10.01,0
+18,86,High,Low,Yes,6,6.9,Low,Yes,2,Medium,High,Positive,2,No,High School,Near,6.8,15.48,0
+18,64,Low,Medium,Yes,9,6.4,Medium,Yes,4,Low,Medium,Negative,4,Yes,High School,Near,6.1,11.52,1
+25,70,Medium,Medium,Yes,4,7.2,Medium,Yes,0,Low,Low,Neutral,4,No,College,Moderate,6.5,17.5,0
+13,70,Medium,High,Yes,6,6.6,Medium,Yes,1,Medium,Medium,Negative,4,No,High School,Near,6.3,9.1,1
+11,89,Medium,Low,Yes,9,7.6,Medium,Yes,1,Medium,High,Neutral,3,No,Postgraduate,Far,6.6,9.79,0
+22,96,Medium,High,No,7,7.0,Medium,No,2,Medium,Medium,Negative,4,No,College,Moderate,7.0,21.12,0
+25,74,Low,Medium,Yes,6,6.5,High,Yes,0,High,Medium,Neutral,1,No,High School,Moderate,6.5,18.5,0
+10,100,Low,Medium,No,5,9.3,Low,Yes,2,Medium,Low,Neutral,1,No,High School,Far,6.5,10.0,0
+12,90,Medium,Medium,Yes,8,9.3,Low,Yes,3,High,Medium,Neutral,3,No,High School,Near,6.8,10.8,0
+13,93,Medium,High,No,9,6.2,Low,Yes,0,Low,Medium,Neutral,3,No,High School,Moderate,6.5,12.09,0
+17,76,Medium,Medium,Yes,8,7.9,Low,No,1,Low,Medium,Neutral,4,Yes,Postgraduate,Far,6.3,12.92,1
+12,79,Medium,Medium,No,8,7.3,Medium,Yes,2,Medium,Medium,Neutral,4,No,High School,Near,6.5,9.48,0
+22,79,Medium,Medium,No,9,7.6,Medium,Yes,1,Low,Medium,Positive,2,No,High School,Near,6.7,17.38,0
+22,64,High,Low,No,7,5.9,High,Yes,0,Medium,High,Positive,5,Yes,High School,Near,6.4,14.08,1
+20,92,Medium,High,Yes,4,8.2,High,Yes,0,Medium,Medium,Neutral,4,No,Postgraduate,Near,7.2,18.4,0
+17,87,Medium,High,No,4,6.8,Medium,Yes,2,Low,Low,Positive,4,No,Postgraduate,Moderate,6.8,14.79,0
+16,67,Low,High,Yes,8,9.8,Medium,Yes,0,High,Low,Negative,3,No,High School,Moderate,6.3,10.72,1
+19,73,Medium,Medium,Yes,6,6.4,Low,Yes,4,Medium,Medium,Positive,5,Yes,College,Near,6.6,13.87,0
+20,73,Medium,High,Yes,4,6.0,Medium,Yes,1,Low,Medium,Positive,3,Yes,High School,Moderate,6.4,14.6,1
+13,91,Low,Medium,No,6,9.0,Medium,Yes,1,High,Medium,Negative,2,Yes,High School,Moderate,6.5,11.83,0
+15,86,High,Medium,Yes,8,7.7,Medium,Yes,0,Medium,Medium,Positive,3,No,Postgraduate,Near,6.9,12.9,0
+25,99,Medium,High,No,6,5.8,High,Yes,0,Medium,Medium,Positive,4,No,High School,Near,7.2,24.75,0
+13,68,Medium,Medium,Yes,8,9.5,Medium,Yes,2,Low,Low,Positive,4,No,High School,Moderate,6.3,8.84,1
+22,70,High,Low,No,7,8.5,Medium,Yes,0,High,Medium,Negative,3,No,High School,Far,6.4,15.4,1
+20,97,Medium,Medium,No,7,8.1,Medium,Yes,3,Medium,High,Neutral,3,Yes,College,Near,7.1,19.4,0
+18,75,Low,Medium,Yes,7,5.9,Low,Yes,0,Medium,Medium,Positive,2,Yes,High School,Near,6.2,13.5,1
+16,87,High,High,Yes,6,8.5,Medium,Yes,2,Medium,High,Neutral,1,No,High School,Near,6.9,13.92,0
+16,74,Medium,High,No,9,8.0,Low,Yes,0,Medium,Medium,Negative,5,No,High School,Near,6.4,11.84,1
+24,97,High,Low,No,7,7.5,Low,Yes,1,Medium,Medium,Negative,2,No,High School,Moderate,6.9,23.28,0
+35,84,Low,Medium,Yes,8,9.2,High,Yes,6,Low,High,Negative,4,No,High School,Moderate,7.4,29.4,0
+19,83,High,Low,No,6,6.9,Medium,Yes,5,Medium,Medium,Positive,2,No,Postgraduate,Far,6.9,15.77,0
+9,70,High,Medium,Yes,8,7.0,Low,Yes,1,Medium,Medium,Positive,3,No,College,Near,6.3,6.3,1
+7,73,Medium,Medium,Yes,7,7.5,Medium,Yes,1,High,High,Positive,3,No,College,Near,6.4,5.11,1
+24,94,Medium,Medium,No,7,6.3,Medium,Yes,1,Low,High,Neutral,3,No,High School,Near,7.0,22.56,0
+14,96,Low,High,Yes,9,6.4,High,Yes,2,Low,High,Neutral,3,No,Postgraduate,Moderate,6.9,13.44,0
+21,94,High,High,No,5,9.4,Medium,Yes,2,Low,High,Neutral,2,No,College,Near,7.3,19.74,0
+25,81,Low,Medium,Yes,8,5.9,Low,Yes,3,Low,Medium,Positive,4,No,College,Near,6.8,20.25,0
+12,64,High,Low,Yes,6,7.4,High,Yes,0,Medium,Medium,Positive,2,No,High School,Moderate,6.1,7.68,1
+15,85,High,Medium,No,7,8.2,High,Yes,2,Medium,Medium,Negative,4,No,High School,Far,6.7,12.75,0
+25,99,Low,Medium,No,8,6.9,Medium,No,1,Low,High,Positive,3,No,Postgraduate,Moderate,7.0,24.75,0
+20,97,Medium,Low,Yes,8,8.4,Low,Yes,4,Medium,Medium,Positive,5,No,High School,Near,7.2,19.4,0
+20,84,High,Low,No,7,7.1,Medium,Yes,5,Low,High,Positive,2,No,High School,Far,6.8,16.8,0
+15,71,High,High,No,8,6.0,Medium,Yes,0,Low,High,Negative,3,No,High School,Far,6.2,10.65,1
+12,74,Medium,Medium,No,6,9.8,High,Yes,2,Low,Medium,Neutral,3,No,College,Near,6.5,8.88,0
+14,80,High,Medium,No,10,5.6,Low,Yes,1,Low,Medium,Positive,3,No,Postgraduate,Moderate,6.5,11.2,0
+16,86,High,Medium,Yes,7,7.8,Low,Yes,1,Low,Medium,Positive,4,No,Postgraduate,Moderate,6.8,13.76,0
+17,87,Medium,High,Yes,6,7.4,Low,Yes,1,Low,High,Neutral,3,No,College,Moderate,6.8,14.79,0
+15,98,Medium,Medium,Yes,9,7.2,Medium,Yes,1,Low,High,Neutral,2,No,College,Near,6.9,14.7,0
+23,80,High,Medium,No,7,5.7,Low,Yes,2,Medium,High,Negative,2,No,Postgraduate,Moderate,6.8,18.4,0
+38,86,Low,High,Yes,7,7.9,Low,Yes,3,Low,Medium,Negative,3,No,High School,Near,7.3,32.68,0
+23,79,Low,Medium,Yes,6,7.0,Medium,Yes,3,Medium,High,Negative,4,No,Postgraduate,Moderate,6.8,18.17,0
+18,91,High,High,Yes,7,7.1,High,Yes,0,Medium,Medium,Neutral,3,No,High School,Near,7.0,16.38,0
+19,79,Medium,High,No,7,10.0,Low,Yes,1,High,High,Positive,2,No,College,Far,6.9,15.01,0
+25,90,High,High,Yes,8,8.3,Medium,Yes,2,Medium,Medium,Negative,3,No,College,Near,7.3,22.5,0
+17,95,High,Medium,No,5,5.4,Low,Yes,2,High,High,Neutral,2,No,College,Moderate,6.9,16.15,0
+28,91,Low,Medium,No,7,9.0,Medium,Yes,2,High,Low,Neutral,3,No,High School,Near,7.1,25.48,0
+26,76,Medium,Medium,No,5,6.4,Low,Yes,0,Medium,Medium,Positive,5,No,College,Far,6.6,19.76,0
+21,77,Medium,Medium,Yes,6,6.0,Medium,Yes,1,Medium,Medium,Neutral,3,No,College,Moderate,6.6,16.17,0
+24,89,Medium,Low,Yes,9,5.3,Medium,Yes,1,Low,High,Neutral,3,No,High School,Near,6.8,21.36,0
+26,74,Medium,Low,Yes,8,9.6,Medium,Yes,2,Medium,High,Neutral,3,No,High School,Near,6.8,19.24,0
+15,70,High,High,No,6,8.5,High,Yes,0,Low,Medium,Positive,2,No,College,Moderate,6.5,10.5,0
+17,60,Medium,Medium,Yes,5,9.7,Medium,Yes,1,Medium,Medium,Negative,4,No,College,Far,6.2,10.2,1
+21,88,Medium,Medium,No,8,9.4,Medium,Yes,0,Medium,High,Neutral,3,No,College,Near,7.0,18.48,0
+28,67,Medium,Medium,No,8,6.0,High,Yes,0,Medium,Medium,Positive,3,No,High School,Moderate,6.5,18.76,0
+21,95,Medium,High,No,9,7.5,Medium,Yes,1,Low,Medium,Neutral,2,No,College,Far,6.9,19.95,0
+21,63,Medium,Medium,Yes,7,6.4,Medium,Yes,0,Low,Medium,Negative,3,No,High School,Near,6.2,13.23,1
+17,76,Medium,High,No,7,8.7,High,Yes,1,Medium,High,Positive,4,No,High School,Near,6.8,12.92,0
+31,88,Medium,High,No,7,8.3,Medium,Yes,0,Low,Medium,Neutral,2,No,High School,Near,7.2,27.28,0
+29,74,High,Medium,No,8,6.8,Medium,Yes,0,Medium,High,Positive,4,No,High School,Near,6.9,21.46,0
+18,68,High,Medium,No,7,7.2,Medium,Yes,0,Medium,Medium,Neutral,3,No,College,Near,6.4,12.24,1
+17,87,Medium,Medium,Yes,7,6.1,Medium,Yes,4,High,Medium,Negative,3,Yes,High School,Near,6.7,14.79,0
+24,83,High,Medium,Yes,7,5.2,High,Yes,1,Medium,High,Positive,4,No,College,Near,7.1,19.92,0
+17,61,Medium,Medium,Yes,7,8.7,High,Yes,5,Medium,Medium,Neutral,3,No,High School,Near,6.5,10.37,0
+32,68,Low,Medium,Yes,7,5.4,Medium,Yes,1,Low,Medium,Neutral,1,No,Postgraduate,Near,6.6,21.76,0
+9,98,High,High,No,7,5.8,Medium,Yes,2,Medium,Medium,Negative,4,No,College,Near,6.9,8.82,0
+28,93,Medium,Medium,No,7,7.9,High,Yes,0,Medium,Medium,Positive,4,No,Postgraduate,Near,7.4,26.04,0
+21,84,Medium,Medium,Yes,6,5.2,Medium,Yes,2,High,High,Negative,5,No,High School,Moderate,6.8,17.64,0
+14,76,Low,Medium,No,7,6.4,Medium,Yes,3,Medium,Medium,Positive,3,No,College,Near,6.4,10.64,1
+20,98,Medium,Medium,No,9,7.1,Medium,Yes,0,Low,Medium,Negative,4,No,College,Moderate,6.9,19.6,0
+15,61,Medium,High,Yes,6,5.4,Medium,Yes,0,High,High,Neutral,2,No,Postgraduate,Near,6.3,9.15,1
+27,94,Low,Medium,Yes,7,8.9,Medium,Yes,3,Low,Medium,Positive,2,No,College,Near,7.3,25.38,0
+15,66,Medium,Medium,No,9,6.3,Medium,Yes,3,Medium,Medium,Neutral,3,No,High School,Near,6.3,9.9,1
+23,66,Medium,Low,Yes,8,7.3,High,Yes,2,High,Medium,Positive,2,No,College,Near,6.6,15.18,0
+8,94,High,Low,No,8,8.9,High,Yes,0,Medium,Medium,Neutral,2,No,High School,Near,6.6,7.52,0
+28,94,Medium,Low,Yes,5,8.0,Medium,Yes,2,High,Medium,Negative,2,No,High School,Moderate,7.1,26.32,0
+14,66,Medium,Medium,Yes,5,9.3,Medium,Yes,1,Medium,Medium,Negative,2,No,High School,Near,6.2,9.24,1
+22,72,High,Medium,Yes,5,6.7,Low,Yes,2,Medium,Medium,Neutral,4,No,College,Near,6.7,15.84,0
+17,68,Low,Medium,Yes,9,10.0,High,Yes,1,Medium,High,Negative,3,No,High School,Moderate,6.4,11.56,1
+15,95,Medium,Medium,No,9,5.6,Medium,No,3,Low,High,Positive,1,No,High School,Near,6.7,14.25,0
+27,78,High,Low,Yes,5,7.7,Medium,Yes,0,Medium,Low,Neutral,3,No,Postgraduate,Near,6.9,21.06,0
+12,80,Medium,High,Yes,6,6.1,Medium,Yes,0,High,High,Neutral,2,No,High School,Near,6.5,9.6,0
+30,70,High,Low,No,6,8.4,High,Yes,2,Medium,Medium,Positive,3,No,Postgraduate,Near,7.0,21.0,0
+34,93,Low,Medium,No,6,9.1,Low,Yes,2,High,Medium,Neutral,3,No,High School,Moderate,7.3,31.62,0
+23,89,Low,Low,Yes,7,5.6,Low,Yes,4,Medium,Low,Positive,4,No,Postgraduate,Near,6.9,20.47,0
+20,90,Medium,Medium,No,7,7.8,High,Yes,0,Medium,High,Positive,4,Yes,Postgraduate,Far,6.9,18.0,0
+14,63,Medium,Medium,Yes,8,6.4,High,Yes,1,Low,Medium,Neutral,3,No,High School,Moderate,6.1,8.82,1
+10,98,Low,Medium,Yes,6,6.5,Medium,Yes,1,Low,High,Positive,2,No,High School,Near,6.6,9.8,0
+23,70,Medium,High,Yes,9,9.3,Medium,Yes,0,Low,High,Neutral,2,Yes,Postgraduate,Moderate,6.7,16.1,0
+14,98,High,High,Yes,7,7.6,Medium,Yes,0,Low,Medium,Neutral,2,No,Postgraduate,Near,7.1,13.72,0
+24,88,Medium,Medium,Yes,6,5.1,High,Yes,4,Medium,Low,Positive,4,No,High School,Near,7.1,21.12,0
+11,98,High,High,Yes,5,8.2,High,Yes,1,Medium,Medium,Neutral,2,No,Postgraduate,Near,7.1,10.78,0
+16,96,High,Medium,Yes,5,5.8,Medium,Yes,2,High,Low,Positive,5,No,Postgraduate,Moderate,7.1,15.36,0
+31,83,Low,High,Yes,6,7.0,Medium,Yes,3,Low,Medium,Negative,3,No,College,Near,7.1,25.73,0
+18,72,Medium,Low,No,9,8.4,Medium,Yes,2,Medium,Medium,Neutral,4,No,High School,Near,6.4,12.96,1
+30,85,Medium,Medium,Yes,6,9.6,Low,Yes,1,Medium,Medium,Neutral,4,No,High School,Near,7.2,25.5,0
+17,95,Medium,Low,Yes,8,8.5,Low,No,1,Low,High,Negative,2,No,College,Moderate,6.6,16.15,0
+21,79,Medium,Medium,Yes,8,9.5,High,Yes,0,Medium,Medium,Neutral,2,No,Postgraduate,Near,6.9,16.59,0
+21,95,Low,Medium,No,7,7.8,High,Yes,2,Low,High,Neutral,2,Yes,High School,Near,6.9,19.95,0
+23,71,High,Medium,Yes,4,7.9,Medium,No,2,Low,Medium,Positive,3,No,High School,Near,6.7,16.33,0
+28,64,High,Medium,No,7,8.3,Low,Yes,2,High,Medium,Neutral,4,No,High School,Moderate,6.7,17.92,0
+26,78,High,Medium,No,8,6.5,Medium,Yes,3,Medium,Medium,Positive,3,No,College,Near,7.0,20.28,0
+29,94,Low,Medium,Yes,7,9.5,Medium,No,2,Low,Medium,Neutral,3,Yes,College,Moderate,7.0,27.26,0
+16,73,High,Low,Yes,8,5.8,Medium,Yes,1,Medium,Medium,Neutral,4,No,High School,Near,6.4,11.68,1
+9,64,Medium,Low,Yes,10,6.8,Low,Yes,0,Medium,Medium,Negative,3,No,High School,Near,5.7,5.76,1
+21,75,Low,Medium,Yes,5,9.1,Medium,Yes,2,Low,Low,Neutral,3,No,High School,Near,6.6,15.75,0
+15,68,Medium,Medium,Yes,5,9.5,Medium,Yes,0,High,Medium,Negative,5,No,College,Near,6.4,10.2,1
+23,93,Medium,Medium,Yes,6,9.7,Low,No,1,Medium,Medium,Positive,2,No,College,Moderate,7.0,21.39,0
+22,88,Low,Medium,Yes,9,6.2,Medium,Yes,1,High,Medium,Negative,3,No,College,Near,6.8,19.36,0
+25,69,Low,Medium,Yes,5,6.3,Medium,Yes,1,High,Medium,Neutral,2,No,High School,Near,6.5,17.25,0
+23,63,Medium,Medium,Yes,9,7.9,High,Yes,0,Low,Medium,Negative,4,No,High School,Far,6.3,14.49,1
+25,98,Low,Medium,No,7,9.8,Medium,Yes,1,Medium,Medium,Negative,4,No,Postgraduate,Near,7.2,24.5,0
+15,71,High,High,No,7,10.0,Low,Yes,2,Low,Low,Neutral,4,No,High School,Near,6.6,10.65,0
+17,64,High,Low,Yes,7,7.4,Low,Yes,2,Medium,Low,Positive,2,No,Postgraduate,Near,6.4,10.88,1
+22,61,High,Medium,No,8,8.8,Low,Yes,1,Medium,High,Neutral,4,No,High School,Near,6.5,13.42,0
+25,93,High,Medium,No,8,5.8,Medium,Yes,0,High,Medium,Positive,4,No,High School,Moderate,7.1,23.25,0
+14,74,Low,Medium,Yes,7,6.6,Medium,Yes,0,Medium,High,Negative,3,No,Postgraduate,Near,6.3,10.36,1
+25,67,High,Medium,Yes,6,6.5,Medium,Yes,1,Low,Medium,Negative,3,No,High School,Near,6.5,16.75,0
+20,68,High,Medium,Yes,7,5.5,High,Yes,0,Low,Low,Positive,3,Yes,High School,Near,6.3,13.6,1
+25,89,Low,Low,Yes,6,8.2,High,Yes,2,Low,Medium,Neutral,6,No,Postgraduate,Near,7.1,22.25,0
+22,96,Low,High,Yes,7,9.9,High,Yes,4,Low,Medium,Positive,4,No,College,Moderate,7.4,21.12,0
+17,86,Medium,Medium,Yes,5,5.1,Medium,Yes,2,Low,Medium,Neutral,2,No,Postgraduate,Moderate,6.6,14.62,0
+29,81,Medium,Medium,Yes,7,5.2,Medium,No,1,High,Medium,Neutral,4,No,College,Near,6.9,23.49,0
+15,76,High,High,No,8,5.3,Medium,Yes,1,Low,Medium,Neutral,4,No,College,Near,6.5,11.4,0
+12,68,Medium,High,No,8,8.8,High,Yes,3,Low,Medium,Negative,3,No,Postgraduate,Moderate,6.4,8.16,1
+33,70,Medium,Medium,Yes,6,8.2,Low,Yes,1,Low,High,Neutral,4,No,College,Near,6.9,23.1,0
+28,76,Medium,Medium,Yes,10,9.9,High,Yes,1,Medium,Medium,Neutral,3,No,High School,Near,7.0,21.28,0
+10,73,Medium,Low,Yes,9,5.8,Low,Yes,5,Low,Medium,Negative,3,No,High School,Moderate,6.1,7.3,1
+26,84,Medium,Medium,No,8,7.6,Medium,Yes,5,Medium,High,Neutral,2,No,High School,Moderate,7.1,21.84,0
+17,66,Medium,Medium,Yes,9,8.9,Medium,No,1,Medium,High,Positive,4,No,High School,Moderate,6.4,11.22,1
+16,91,Medium,Medium,No,8,6.3,High,Yes,2,Medium,High,Neutral,3,No,College,Near,6.9,14.56,0
+14,68,High,High,Yes,9,7.9,Low,Yes,2,Low,Medium,Positive,4,No,College,Near,6.6,9.52,0
+17,68,Medium,Low,Yes,7,9.9,High,Yes,2,Medium,Medium,Positive,3,No,High School,Near,6.5,11.56,0
+13,99,Low,Medium,No,7,5.4,High,Yes,3,High,Medium,Negative,3,No,High School,Far,6.7,12.87,0
+14,81,Medium,High,No,9,9.0,Medium,Yes,3,High,High,Neutral,3,No,Postgraduate,Near,6.9,11.34,0
+30,88,Medium,Medium,Yes,6,6.2,High,Yes,4,Low,Medium,Positive,5,No,College,Far,7.3,26.4,0
+22,97,Medium,High,Yes,8,5.9,Medium,Yes,1,Low,Medium,Negative,3,No,High School,Near,7.0,21.34,0
+19,92,Medium,Medium,Yes,6,8.8,Low,Yes,1,High,Medium,Positive,2,No,Postgraduate,Near,7.1,17.48,0
+17,92,Medium,Medium,Yes,8,7.9,Medium,Yes,1,Low,Medium,Positive,3,No,Postgraduate,Near,7.0,15.64,0
+21,73,High,Medium,No,7,9.8,High,Yes,0,High,High,Positive,4,Yes,Postgraduate,Near,6.9,15.33,0
+15,94,High,Medium,Yes,8,5.2,Low,Yes,1,Medium,Medium,Positive,2,No,College,Far,6.7,14.1,0
+16,90,Low,High,Yes,8,5.1,Medium,Yes,1,High,Medium,Neutral,5,No,High School,Moderate,6.7,14.4,0
+23,99,Low,Medium,No,8,6.1,Low,Yes,2,High,High,Positive,3,Yes,High School,Near,7.0,22.77,0
+23,65,Medium,High,Yes,7,5.8,Low,Yes,1,Low,Medium,Neutral,3,Yes,College,Moderate,6.3,14.95,1
+21,82,High,Medium,No,7,5.2,Medium,Yes,4,Low,Medium,Neutral,3,No,High School,Far,6.7,17.22,0
+20,89,High,High,Yes,8,5.2,Low,Yes,2,Medium,Medium,Negative,3,No,College,Moderate,6.9,17.8,0
+35,72,High,High,Yes,5,7.5,Medium,Yes,1,Low,Medium,Positive,5,No,College,Moderate,7.2,25.2,0
+27,99,Medium,High,No,5,6.3,Medium,Yes,0,Medium,High,Neutral,4,No,High School,Near,7.3,26.73,0
+21,80,Medium,High,No,7,7.8,Medium,Yes,1,Low,High,Negative,4,No,High School,Moderate,6.7,16.8,0
+18,78,High,Low,Yes,7,8.5,High,Yes,3,Low,Low,Negative,2,No,College,Near,6.7,14.04,0
+18,66,Medium,Medium,Yes,7,8.9,High,Yes,4,Low,Medium,Positive,3,Yes,High School,Near,6.5,11.88,0
+17,79,Medium,Low,Yes,6,7.5,Low,Yes,1,Medium,High,Neutral,4,No,High School,Near,6.5,13.43,0
+18,65,Medium,High,No,6,8.3,Low,Yes,1,Medium,High,Neutral,2,No,High School,Near,6.4,11.7,1
+26,84,Low,High,No,4,6.2,Medium,No,3,High,High,Positive,2,No,High School,Near,7.0,21.84,0
+30,70,Medium,High,Yes,9,8.3,Medium,Yes,1,High,Medium,Neutral,2,No,Postgraduate,Near,7.1,21.0,0
+26,88,Low,High,Yes,7,6.2,High,No,1,High,High,Positive,2,No,High School,Near,7.0,22.88,0
+21,75,Medium,Medium,Yes,7,7.0,Low,Yes,3,Medium,Medium,Positive,4,Yes,Postgraduate,Near,6.7,15.75,0
+17,74,Medium,Medium,No,9,5.6,Medium,Yes,1,Medium,High,Negative,3,No,High School,Moderate,6.3,12.58,1
+12,92,High,Medium,No,4,5.8,Low,Yes,2,Medium,Medium,Positive,2,Yes,College,Moderate,6.6,11.04,0
+17,92,Medium,Medium,No,7,6.6,Low,Yes,2,Low,Medium,Negative,3,No,High School,Near,6.6,15.64,0
+7,64,Medium,High,No,9,7.0,High,Yes,4,Low,Low,Neutral,4,Yes,High School,Far,5.9,4.48,1
+25,93,Medium,Medium,No,5,6.2,Medium,Yes,0,Low,Medium,Neutral,3,No,High School,Far,6.8,23.25,0
+25,77,High,High,No,8,8.5,Medium,Yes,2,Medium,Medium,Positive,1,No,College,Near,7.1,19.25,0
+10,94,Medium,High,No,5,7.3,Medium,Yes,1,Medium,Medium,Negative,3,No,High School,Moderate,6.6,9.4,0
+30,84,Low,Medium,No,6,9.5,Medium,Yes,2,High,High,Negative,2,No,College,Near,7.2,25.2,0
+12,85,Medium,Medium,Yes,6,7.8,High,Yes,3,Medium,Medium,Neutral,4,No,College,Near,6.8,10.2,0
+23,72,High,Medium,No,8,5.8,Medium,No,2,Low,High,Positive,2,No,College,Near,6.6,16.56,0
+20,62,High,Low,No,8,9.4,High,Yes,1,Medium,Medium,Positive,3,No,High School,Near,6.5,12.4,0
+9,64,Medium,High,Yes,6,9.9,Medium,Yes,6,Low,High,Positive,6,Yes,High School,Moderate,6.5,5.76,0
+28,62,Low,High,No,8,8.5,Medium,Yes,2,Low,High,Positive,3,No,High School,Moderate,6.6,17.36,0
+18,70,Medium,Medium,Yes,4,5.6,Medium,Yes,1,High,High,Neutral,4,No,High School,Near,6.5,12.6,0
+26,67,Low,Medium,Yes,8,7.1,Medium,Yes,2,High,Medium,Negative,3,No,High School,Near,6.5,17.42,0
+27,84,Medium,Medium,No,8,9.8,Medium,Yes,0,Low,Medium,Neutral,4,No,High School,Moderate,6.9,22.68,0
+18,97,Medium,High,Yes,7,9.3,Medium,Yes,5,High,Medium,Positive,4,No,College,Near,7.5,17.46,0
+28,89,High,Low,Yes,4,9.0,High,Yes,3,Low,High,Positive,2,Yes,Postgraduate,Moderate,7.3,24.92,0
+25,63,High,Low,Yes,8,6.3,Medium,Yes,0,Medium,High,Positive,1,Yes,Postgraduate,Near,6.5,15.75,0
+23,74,Low,Low,No,9,6.1,Low,Yes,0,Medium,Low,Positive,4,No,Postgraduate,Near,6.4,17.02,1
+13,64,Medium,High,Yes,5,7.2,Medium,Yes,2,Medium,Medium,Neutral,2,No,Postgraduate,Moderate,6.3,8.32,1
+26,92,High,High,No,5,8.4,High,Yes,0,Medium,High,Neutral,2,No,Postgraduate,Near,7.4,23.92,0
+27,95,Low,High,Yes,6,9.4,High,Yes,2,Medium,Medium,Neutral,4,No,Postgraduate,Far,7.4,25.65,0
+24,67,High,Medium,No,8,8.9,Medium,Yes,2,High,Low,Positive,3,No,High School,Near,6.8,16.08,0
+16,87,High,Medium,No,9,5.3,High,Yes,3,Medium,High,Neutral,5,No,College,Near,7.0,13.92,0
+14,60,Medium,Low,Yes,7,8.9,Low,Yes,2,Medium,Medium,Neutral,3,No,High School,Moderate,6.0,8.4,1
+26,97,Medium,Low,No,5,7.9,High,Yes,2,Low,Low,Positive,3,No,High School,Near,7.1,25.22,0
+19,98,Medium,High,Yes,8,8.7,High,Yes,1,Medium,Medium,Positive,4,No,Postgraduate,Moderate,7.4,18.62,0
+27,76,High,High,Yes,7,6.8,Medium,Yes,1,Medium,Medium,Neutral,3,No,Postgraduate,Moderate,7.1,20.52,0
+17,81,High,Low,Yes,9,6.8,High,Yes,1,Low,Low,Positive,3,No,College,Near,6.6,13.77,0
+19,63,Low,High,No,7,9.4,Medium,Yes,1,Medium,Medium,Positive,3,No,High School,Moderate,6.4,11.97,1
+18,90,High,Medium,No,7,8.1,Medium,Yes,2,Medium,Low,Negative,3,No,Postgraduate,Moderate,6.9,16.2,0
+11,82,High,High,No,8,8.1,High,Yes,2,Low,High,Positive,2,No,High School,Moderate,6.7,9.02,0
+22,82,High,High,No,10,8.3,Medium,Yes,1,Low,High,Neutral,2,Yes,College,Moderate,6.9,18.04,0
+29,78,High,Medium,Yes,9,6.6,Medium,Yes,2,Low,Medium,Neutral,4,No,High School,Moderate,6.9,22.62,0
+14,81,High,High,No,9,7.8,Medium,Yes,0,Medium,Medium,Positive,4,No,College,Near,6.8,11.34,0
+27,63,Medium,High,No,6,9.8,Low,Yes,0,Medium,Medium,Negative,3,No,High School,Near,6.6,17.01,0
+31,84,Medium,Medium,No,5,5.0,Medium,No,2,Low,High,Positive,3,No,High School,Near,6.9,26.04,0
+30,91,Medium,Medium,Yes,7,7.8,High,Yes,3,Medium,Medium,Positive,2,No,Postgraduate,Near,7.5,27.3,0
+9,71,Low,High,Yes,7,8.9,Medium,Yes,0,Low,Medium,Negative,2,No,High School,Near,6.1,6.39,1
+18,93,Low,Low,Yes,8,9.3,Medium,Yes,3,Low,High,Negative,3,No,Postgraduate,Moderate,6.9,16.74,0
+14,81,Medium,Medium,No,9,8.1,Medium,Yes,1,Low,High,Negative,3,No,Postgraduate,Near,6.6,11.34,0
+20,67,Low,Low,Yes,7,9.8,Medium,Yes,1,Medium,Medium,Neutral,4,No,College,Near,6.4,13.4,1
+14,67,Medium,Medium,Yes,9,6.8,Low,Yes,1,Low,Medium,Neutral,3,Yes,High School,Near,6.0,9.38,1
+15,91,Low,Medium,No,10,7.8,Low,Yes,2,Medium,High,Neutral,3,No,High School,Near,6.7,13.65,0
+23,97,Medium,Medium,Yes,9,9.6,Medium,Yes,2,Medium,High,Neutral,4,No,College,Near,7.4,22.31,0
+25,84,Medium,Low,Yes,6,8.4,Low,Yes,2,Medium,High,Positive,3,No,High School,Near,7.0,21.0,0
+18,62,Medium,Low,Yes,8,8.7,Medium,Yes,4,Low,Medium,Positive,4,No,College,Near,6.4,11.16,1
+19,65,High,High,Yes,5,7.4,Medium,Yes,1,Low,Medium,Positive,3,No,High School,Near,6.6,12.35,0
+16,97,Medium,Medium,No,7,8.7,Medium,Yes,1,High,Medium,Neutral,3,No,High School,Near,7.0,15.52,0
+16,96,Medium,Medium,Yes,4,7.7,High,Yes,1,High,High,Positive,2,No,High School,Near,7.1,15.36,0
+19,88,Medium,Medium,Yes,8,8.9,Medium,Yes,3,Medium,Medium,Positive,3,No,Postgraduate,Near,7.1,16.72,0
+14,82,Medium,Medium,Yes,8,8.3,Medium,Yes,0,Medium,Medium,Negative,2,No,High School,Moderate,6.4,11.48,1
+20,69,High,Medium,Yes,7,7.6,High,Yes,1,Medium,Medium,Positive,3,No,High School,Near,6.7,13.8,0
+27,68,Low,Low,Yes,8,8.0,High,Yes,3,Medium,Medium,Positive,4,Yes,High School,Near,6.6,18.36,0
+17,85,High,Medium,Yes,10,6.6,Medium,Yes,1,High,Medium,Neutral,1,Yes,Postgraduate,Moderate,6.7,14.45,0
+16,68,Medium,Low,Yes,10,6.4,Medium,Yes,2,High,Low,Negative,2,No,High School,Moderate,6.1,10.88,1
+21,74,Medium,High,Yes,6,7.7,High,No,0,Medium,Medium,Neutral,3,No,College,Near,6.6,15.54,0
+24,70,Medium,High,Yes,9,5.2,High,Yes,1,Low,Medium,Positive,2,No,Postgraduate,Moderate,8.5,16.8,0
+14,99,Medium,Medium,Yes,8,8.0,High,Yes,3,Medium,Low,Neutral,4,No,College,Near,7.1,13.86,0
+27,78,Medium,Medium,No,6,9.8,Low,Yes,1,Medium,Medium,Positive,3,No,High School,Far,6.8,21.06,0
+25,77,High,Medium,Yes,7,7.0,Medium,Yes,0,Medium,Medium,Neutral,5,No,High School,Near,6.8,19.25,0
+14,79,High,Medium,Yes,10,9.3,Medium,Yes,2,Medium,Medium,Neutral,3,No,College,Near,6.8,11.06,0
+20,86,Medium,Medium,No,6,9.7,Low,Yes,1,Low,Medium,Neutral,2,No,High School,Moderate,6.7,17.2,0
+14,94,High,Medium,Yes,5,8.9,Medium,Yes,0,Medium,Medium,Positive,1,No,Postgraduate,Near,7.0,13.16,0
+22,72,Medium,Medium,No,5,7.8,High,Yes,1,Low,High,Positive,3,No,High School,Near,6.6,15.84,0
+14,78,High,Medium,No,6,5.5,Low,Yes,2,Low,Medium,Neutral,2,No,High School,Near,6.3,10.92,1
+31,93,High,Medium,No,6,8.0,Medium,Yes,3,Medium,Medium,Neutral,2,No,High School,Near,7.4,28.83,0
+21,65,Medium,High,Yes,8,6.7,Low,No,1,Low,Medium,Positive,4,No,High School,Near,6.4,13.65,1
+17,69,Medium,Medium,No,10,5.6,Medium,Yes,1,Medium,Medium,Neutral,4,No,High School,Near,6.3,11.73,1
+14,93,Medium,Low,Yes,5,7.5,Low,Yes,0,Medium,High,Negative,3,No,High School,Moderate,6.5,13.02,0
+15,78,High,High,Yes,10,8.9,Low,Yes,0,Medium,Medium,Neutral,3,No,High School,Near,6.7,11.7,0
+19,82,Medium,Medium,No,5,9.0,Medium,Yes,1,High,Medium,Negative,3,No,College,Near,6.8,15.58,0
+23,85,Medium,Medium,Yes,6,9.1,Low,Yes,1,Low,High,Neutral,3,No,High School,Far,6.8,19.55,0
+23,68,Low,Medium,Yes,5,8.1,Low,Yes,1,Low,Low,Neutral,2,No,Postgraduate,Near,6.4,15.64,1
+32,84,Medium,High,Yes,10,6.8,Medium,Yes,1,Low,Medium,Positive,5,No,High School,Near,7.3,26.88,0
+20,75,Medium,Low,Yes,6,5.9,Medium,Yes,2,Medium,Medium,Negative,1,No,Postgraduate,Moderate,6.4,15.0,1
+21,79,Medium,Low,No,5,8.6,Low,Yes,1,High,Medium,Positive,2,No,High School,Moderate,6.6,16.59,0
+17,68,Medium,Medium,No,7,9.9,Medium,Yes,1,Medium,Low,Neutral,1,No,Postgraduate,Near,6.5,11.56,0
+26,76,Medium,Medium,No,7,5.9,Low,Yes,0,Medium,Medium,Neutral,1,Yes,Postgraduate,Near,6.5,19.76,0
+17,65,High,High,No,9,5.5,Medium,Yes,1,Medium,Medium,Positive,2,No,High School,Near,6.4,11.05,1
+29,83,Medium,Low,Yes,6,7.7,High,Yes,1,Medium,Medium,Neutral,4,No,High School,Near,7.0,24.07,0
+19,69,Medium,High,Yes,6,7.2,Medium,No,1,Low,Medium,Neutral,1,No,College,Near,6.4,13.11,1
+12,82,Low,Medium,No,5,9.8,Medium,Yes,0,Low,High,Neutral,1,No,High School,Moderate,6.3,9.84,1
+21,69,Medium,Medium,Yes,9,8.0,High,Yes,2,Medium,High,Positive,5,No,College,Near,6.8,14.49,0
+14,83,High,Medium,Yes,7,9.5,Low,Yes,1,Low,Medium,Neutral,2,Yes,High School,Near,6.5,11.62,0
+21,76,Low,Medium,Yes,7,8.0,High,Yes,3,Low,Medium,Negative,2,Yes,College,Near,6.5,15.96,0
+19,82,Medium,Medium,Yes,8,8.2,High,Yes,2,Medium,Medium,Positive,3,No,College,Moderate,6.9,15.58,0
+21,63,High,Medium,No,7,6.3,Medium,Yes,2,Medium,Medium,Neutral,2,No,High School,Far,6.3,13.23,1
+29,84,High,Medium,Yes,6,9.0,Medium,Yes,0,Medium,High,Positive,3,No,Postgraduate,Far,7.3,24.36,0
+20,64,Medium,High,No,6,5.3,High,No,4,High,Medium,Neutral,4,No,College,Moderate,6.5,12.8,0
+15,65,Medium,Medium,No,9,6.5,Medium,Yes,1,Low,Medium,Neutral,2,No,College,Near,6.1,9.75,1
+27,94,High,High,Yes,7,7.0,Low,Yes,1,Medium,High,Neutral,2,No,High School,Moderate,7.3,25.38,0
+24,70,Medium,High,No,8,5.5,Medium,Yes,4,Low,High,Positive,4,No,Postgraduate,Moderate,6.8,16.8,0
+13,77,Low,Medium,Yes,6,7.6,Low,No,1,Medium,Low,Neutral,4,No,College,Moderate,6.2,10.01,1
+25,90,Medium,Medium,Yes,7,9.6,Medium,Yes,1,Medium,Medium,Positive,4,No,College,Moderate,7.2,22.5,0
+26,90,High,High,Yes,9,5.3,Medium,Yes,1,Low,Medium,Neutral,4,No,High School,Far,7.1,23.4,0
+17,77,Medium,Medium,Yes,8,6.9,Low,Yes,3,High,Medium,Neutral,3,Yes,High School,Near,6.5,13.09,0
+17,65,Low,High,Yes,5,7.5,Medium,Yes,2,Low,Medium,Positive,3,No,High School,Near,6.3,11.05,1
+2,98,High,Medium,No,4,6.4,Medium,Yes,1,Low,High,Neutral,2,No,High School,Near,6.5,1.96,0
+24,70,Medium,Medium,Yes,7,7.1,Medium,Yes,1,Medium,Low,Negative,4,No,High School,Near,6.5,16.8,0
+19,79,Medium,High,Yes,7,9.0,Medium,Yes,1,High,Medium,Negative,4,No,College,Far,6.8,15.01,0
+19,94,High,Low,Yes,7,7.5,Medium,Yes,2,High,Medium,Negative,5,No,College,Near,7.1,17.86,0
+29,73,Medium,Medium,No,7,7.6,Medium,Yes,2,Low,High,Neutral,3,No,High School,Near,6.8,21.17,0
+14,63,High,Low,No,7,7.9,Medium,Yes,1,Low,Medium,Neutral,3,No,High School,Near,6.1,8.82,1
+16,81,Medium,Medium,Yes,8,5.7,High,Yes,1,Medium,Medium,Positive,2,No,High School,Near,6.6,12.96,0
+22,64,Medium,High,Yes,8,6.8,Medium,Yes,2,Medium,Medium,Negative,4,No,High School,Near,6.5,14.08,0
+19,72,Medium,Medium,Yes,8,9.6,Low,Yes,1,Medium,High,Positive,2,No,Postgraduate,Moderate,6.7,13.68,0
+12,68,High,Low,No,6,5.2,Low,Yes,5,High,High,Neutral,3,No,College,Near,6.3,8.16,1
+27,78,Medium,Medium,Yes,7,8.6,Medium,Yes,3,Medium,Medium,Positive,2,No,High School,Moderate,7.0,21.06,0
+21,70,High,Medium,Yes,5,9.3,High,Yes,1,Low,Medium,Neutral,3,No,College,Near,6.8,14.7,0
+7,84,Medium,High,No,7,6.7,Medium,Yes,1,Medium,Medium,Neutral,3,No,College,Near,6.4,5.88,1
+16,61,High,Medium,Yes,6,5.3,Low,Yes,0,High,Medium,Positive,4,Yes,High School,Moderate,6.0,9.76,1
+14,98,High,High,Yes,7,8.3,Medium,No,3,Low,Medium,Positive,3,No,College,Near,7.2,13.72,0
+11,99,Medium,High,Yes,7,8.8,High,No,4,Medium,Low,Neutral,3,No,College,Near,7.1,10.89,0
+16,86,Medium,Medium,Yes,6,6.2,Low,Yes,1,Low,High,Positive,4,No,High School,Near,6.6,13.76,0
+15,86,Medium,Medium,No,7,7.9,Medium,Yes,1,Low,Medium,Neutral,3,Yes,High School,Moderate,6.4,12.9,1
+26,90,High,High,No,9,7.1,Low,Yes,0,High,Low,Negative,2,No,College,Near,7.1,23.4,0
+22,89,Medium,Medium,Yes,7,5.4,Medium,Yes,1,High,Medium,Positive,3,No,High School,Near,6.9,19.58,0
+19,96,Medium,Medium,Yes,7,9.5,High,Yes,3,Medium,High,Negative,3,No,College,Near,7.3,18.24,0
+9,74,Medium,Low,No,6,6.9,Low,Yes,3,Low,Medium,Positive,2,No,High School,Moderate,6.1,6.66,1
+19,78,Medium,Medium,Yes,6,5.8,Medium,Yes,1,Low,Medium,Neutral,3,No,Postgraduate,Near,6.6,14.82,0
+18,66,Medium,Medium,Yes,7,9.0,Medium,Yes,0,Medium,Medium,Negative,4,No,Postgraduate,Near,6.4,11.88,1
+11,83,Medium,Medium,Yes,5,6.3,Medium,Yes,2,Low,Medium,Neutral,3,No,College,Near,6.5,9.13,0
+25,70,Low,High,No,8,7.3,High,Yes,1,Low,Low,Negative,2,No,Postgraduate,Near,6.5,17.5,0
+12,72,Low,Medium,Yes,6,6.0,High,Yes,0,Low,Medium,Neutral,4,No,Postgraduate,Near,6.2,8.64,1
+16,99,Medium,High,Yes,7,6.0,Medium,Yes,2,Low,High,Neutral,3,No,Postgraduate,Moderate,7.1,15.84,0
+10,62,Medium,Medium,No,6,8.7,High,Yes,2,Low,High,Neutral,3,No,High School,Near,6.1,6.2,1
+30,71,High,Low,No,10,7.0,Low,Yes,3,Medium,Medium,Neutral,4,Yes,High School,Near,6.7,21.3,0
+27,86,High,Medium,Yes,8,6.7,High,Yes,5,High,High,Positive,2,Yes,Postgraduate,Near,7.5,23.22,0
+15,86,Low,Medium,No,9,9.7,Medium,Yes,2,Medium,Medium,Negative,4,No,High School,Near,6.7,12.9,0
+25,69,Medium,Medium,Yes,8,6.4,Medium,Yes,1,High,Low,Negative,3,No,Postgraduate,Moderate,6.6,17.25,0
+30,87,Medium,Medium,No,8,5.3,Low,Yes,1,Low,High,Neutral,1,No,Postgraduate,Near,7.0,26.1,0
+20,65,Medium,Low,No,6,7.4,Low,Yes,0,Medium,Medium,Positive,3,No,College,Moderate,6.2,13.0,1
+23,76,Medium,High,Yes,8,9.8,Medium,Yes,0,Medium,Low,Neutral,2,No,Postgraduate,Moderate,6.9,17.48,0
+16,86,Low,Low,Yes,5,8.2,Low,Yes,0,Low,Medium,Neutral,4,No,High School,Moderate,6.3,13.76,1
+12,96,Low,Medium,Yes,7,7.1,High,Yes,2,Medium,Medium,Positive,2,No,College,Near,6.8,11.52,0
+18,90,High,High,Yes,6,5.4,Low,Yes,1,Medium,High,Negative,3,No,High School,Near,9.5,16.2,0
+28,88,High,Medium,No,8,7.9,Medium,Yes,0,Medium,Medium,Positive,3,No,High School,Far,7.1,24.64,0

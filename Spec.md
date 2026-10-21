@@ -1,8 +1,9 @@
 # Spec.md — Hệ thống Hỗ trợ Học tập Lớp 12
 
-> **Phiên bản:** 2.0  
-> **Cập nhật lần cuối:** 2026-10-19  
-> **Thay đổi lớn so với v1:** Bỏ OULAD + Stage 1 OULAD. Dùng duy nhất `StudentPerformanceFactors.csv` cho cả 2 tầng. Scope đổi sang **học sinh lớp 12 Việt Nam**.
+> **Phiên bản:** 2.1  
+> **Cập nhật lần cuối:** 2026-10-21  
+> **Thay đổi lớn so với v1:** Bỏ OULAD + Stage 1 OULAD. Dùng duy nhất `StudentPerformanceFactors.csv` cho cả 2 tầng. Scope đổi sang **học sinh lớp 12 Việt Nam**.  
+> **Thay đổi so với v2.0:** Bỏ `Gender` + `School_Type` (còn 18 feature); bổ sung metric đánh giá; ghi nhận thực tế `at_risk` ~22%, Interaction Terms đã loại; **quyết định không dùng dataset thứ 2** (xem mục 12).
 
 ---
 
@@ -62,13 +63,20 @@ Internet_Access        # Có Internet không (Yes/No)
 Learning_Disabilities  # Có khó khăn học tập không (Yes/No)
 Peer_Influence         # Ảnh hưởng bạn bè (Positive/Neutral/Negative)
 Distance_from_Home     # Khoảng cách từ nhà (Near/Moderate/Far)
-Gender                 # Giới tính
+Parental_Education_Level  # Trình độ học vấn của PH
+Physical_Activity      # Giờ vận động/tuần
 ```
+
+**Cột bị loại (v2.1):** `Gender`, `School_Type` — permutation importance ≈ 0 ở cả 2 tầng; bỏ thêm giúp model không dùng giới tính để dự đoán. Thử nghiệm: bỏ 2 cột → MAE Tầng 2 0.0506→0.0505, F1 Tầng 1 0.9771→0.9748 (nằm trong nhiễu).
+
+**Cột dẫn xuất:** `effective_study_index = Hours_Studied × Attendance / 100` (tính trước khi đưa vào pipeline).
+
+**Số feature đầu vào: 18.**
 
 **Cột mục tiêu:**
 ```
 Exam_Score             # Điểm thi cuối kỳ (0–10 sau convert)
-at_risk                # NHÃN TẦNG 1: 1 nếu Exam_Score < 6.5 (Không đạt loại Khá: 32.3%), else 0
+at_risk                # NHÃN TẦNG 1: 1 nếu Exam_Score < 6.5 (Không đạt loại Khá: ~21.98%), else 0
 ```
 
 > **Lưu ý quan trọng:** `at_risk` được tạo ra từ `Exam_Score` — **không dùng `Exam_Score` làm feature của Tầng 1**.
@@ -77,9 +85,11 @@ at_risk                # NHÃN TẦNG 1: 1 nếu Exam_Score < 6.5 (Không đạt
 
 ## 3. Splitting dữ liệu
 
-- **Train:** 70% — dùng cho cả Tầng 1 và Tầng 2
-- **Dev (Blackbox):** 15% — tuning, chọn model
-- **Test:** 15% — đánh giá cuối cùng, **không động vào trong quá trình phát triển**
+- **Train:** 70% (4,624) — dùng cho cả Tầng 1 và Tầng 2
+- **Dev:** 15% — tách thành Dev Blackbox (693, tuning/chọn model) + Dev Eyeball (298, soi lỗi thủ công)
+- **Test:** 15% (992) — đánh giá cuối cùng, **không động vào trong quá trình phát triển**
+- `stratify = at_risk`
+- Outlier nhiễu nhãn: chỉ lọc trên **Train** (HuberRegressor, |residual| > 1.5, 32 ca); **Test giữ nguyên**, báo cáo cả Raw lẫn Clean (loại 10 ca) làm sensitivity analysis
 - `random_state = 42` cho tất cả các bước split
 - **Cùng 1 lần split duy nhất** → cả 2 tầng dùng chung index → không bị leakage
 
@@ -91,23 +101,31 @@ at_risk                # NHÃN TẦNG 1: 1 nếu Exam_Score < 6.5 (Không đạt
 Phân loại học sinh có nguy cơ rớt môn (`at_risk = 1`) trước khi thi.
 
 ### Ngưỡng nguy hiểm
-`at_risk = 1` khi `Exam_Score (thang 10) < 6.5` (Không đạt loại Khá chuẩn đầu ra THPT / xét tuyển Đại học; chiếm ~32.3% mẫu). Điểm dưới 6.5 cần can thiệp sớm.
+`at_risk = 1` khi `Exam_Score (thang 10) < 6.5` (Không đạt loại Khá chuẩn đầu ra THPT / xét tuyển Đại học; chiếm ~22% mẫu). Điểm dưới 6.5 cần can thiệp sớm. (Dataset không có mẫu nào < 5.5 nên ngưỡng 5.0 không khả thi.)
 
 ### Features
-Tất cả các cột (hành vi + hoàn cảnh), **trừ `Exam_Score`**.
+18 feature (xem mục 2), **trừ `Exam_Score` và `at_risk`**.
 
 ### Thuật toán
-Thử cả 3, chọn cái tốt nhất theo F1-score trên Dev:
-1. **Logistic Regression** (baseline đơn giản)
-2. **Random Forest** (cân bằng giữa hiệu suất và giải thích được)
-3. **XGBoost + SMOTE** (xử lý mất cân bằng nhãn)
+Thử cả 3, chọn cái tốt nhất theo F1-score trên Dev Blackbox:
+1. **Logistic Regression + SMOTE** (baseline, kết quả thực tế: thắng)
+2. **Random Forest**
+3. **XGBoost + SMOTE**
+
+Tối ưu ngưỡng quyết định T* trên Dev (hiện tại 0.53).
 
 ### Metric đánh giá
-| Metric | Ưu tiên | Lý do |
-|---|---|---|
-| **Recall** | ⭐ Cao nhất | Không bỏ sót học sinh nguy hiểm |
-| F1-score | Cân bằng Recall và Precision | |
-| ROC-AUC | Đánh giá tổng quát | |
+| Metric | Ưu tiên | Target | Lý do |
+|---|---|---|---|
+| **Recall** | ⭐ Cao nhất | ≥ 0.85 | Không bỏ sót học sinh nguy hiểm |
+| F1-score | | ≥ 0.85 | Cân bằng Recall và Precision |
+| ROC-AUC | | ≥ 0.90 | Đánh giá tổng quát |
+| **PR-AUC** (mới) | Bổ sung | báo cáo | Chặt hơn ROC-AUC khi nhãn lệch ~22% |
+| **MCC** (mới) | Bổ sung | báo cáo | Cân bằng khi nhãn lệch |
+| **Balanced Accuracy, Specificity** (mới) | Bổ sung | báo cáo | Thấy rõ mức báo động nhầm |
+| **Confusion matrix** (mới) | Bổ sung | báo cáo | Số ca tuyệt đối TP/FP/FN/TN |
+| **Brier score + Calibration curve** (mới) | Bổ sung | báo cáo | Xác suất hiển thị cho PH phải đáng tin |
+| **5-fold CV (mean ± std)** (mới) | Bổ sung | báo cáo | Kết quả không phụ thuộc một lần split |
 
 ### Output
 - Xác suất nguy cơ (0.0–1.0) cho từng học sinh
@@ -122,32 +140,40 @@ Thử cả 3, chọn cái tốt nhất theo F1-score trên Dev:
 Dự đoán điểm thi (thang 10) và mô phỏng "Nếu học sinh thay đổi hành vi X thì điểm thay đổi bao nhiêu?"
 
 ### Features
-Tất cả các cột (hành vi + hoàn cảnh), **trừ `at_risk`**.
+18 feature (xem mục 2), **trừ `Exam_Score` và `at_risk`**.
 
 ### Thuật toán
-- **Ridge Regression** + **Interaction Terms** (như kế hoạch cũ)
+- **Ridge Regression** (alpha = 1.0)
 - Preprocessing: `ColumnTransformer` gồm `StandardScaler` (số) + `OrdinalEncoder` + `OneHotEncoder` (categorical)
 - Xử lý nhiễu label: `HuberRegressor` filter trên tập Train (loại ca bất thường)
 
-### Interaction Terms (thêm mới)
+### Interaction Terms — ĐÃ THỬ, ĐÃ LOẠI
 ```python
 hours_x_access        = Hours_Studied × access_ordinal
 tutoring_x_motivation = Tutoring_Sessions × motivation_ordinal
 attend_x_parental     = Attendance × parental_ordinal
 ```
-Chỉ giữ nếu Dev MAE giảm > 0.005 so với baseline.
+Quy tắc: chỉ giữ nếu Dev MAE giảm > 0.005. Kết quả thực tế: ΔMAE = -0.00005 → loại để giữ model tinh gọn.
 
 ### What-If Simulator
 - GV/PH điều chỉnh **các cột hành vi** (slider)
 - **Các cột hoàn cảnh** giữ cố định theo hồ sơ học sinh
 - Output: Điểm dự đoán mới + chênh lệch so với hiện tại
 - Gợi ý ưu tiên: Sắp xếp hành động theo marginal effect (hành động nào tăng điểm nhiều nhất)
+- `Sleep_Hours` **giữ nguyên** là slider What-If như cũ (dù permutation importance ≈ 0; GV/PH vẫn thấy tác động nhỏ)
+- Actionable chính (importance cao nhất): `Attendance`, `Hours_Studied`, `Tutoring_Sessions`
 
 ### Metric đánh giá
 | Metric | Target |
 |---|---|
 | **MAE (Test Raw)** | ≤ 0.08 (thang 10) |
 | R² (Test Raw) | > 0.60 |
+| MAE / R² (Test Clean, loại ca nhiễu) | báo cáo (sensitivity) |
+| **Median AE** (mới) | báo cáo (không bị outlier kéo lệch) |
+| **% dự đoán lệch ≤ 0.5 điểm, P95 \|error\|** (mới) | báo cáo (dễ hiểu với GV/PH) |
+| **Adjusted R²** (mới) | báo cáo (n=992, p=18) |
+| **5-fold CV MAE (mean ± std), Bootstrap 95% CI** (mới) | báo cáo |
+| **Permutation Importance** (mới) | xếp hạng feature, kiểm tra chiều tác động What-If đơn điệu |
 
 ---
 
@@ -188,7 +214,7 @@ Chỉ giữ nếu Dev MAE giảm > 0.005 so với baseline.
 | `02_data_splitting.ipynb` | Split Train/Dev/Test (70/15/15), lưu splits, kiểm tra phân phối |
 | `03_stage1_baseline.ipynb` | Logistic Regression baseline cho Tầng 1 |
 | `04_stage1_advanced.ipynb` | Random Forest + XGBoost + SMOTE, threshold tuning, chọn model tốt nhất |
-| `05_stage2_regression_whatif.ipynb` | Ridge + interaction terms, What-If Simulator, export model |
+| `05_stage2_regression_whatif.ipynb` | Ridge (đã thử & loại interaction terms), What-If Simulator, export model |
 
 ---
 
@@ -303,3 +329,40 @@ Response:
   ]
 }
 ```
+
+
+
+---
+
+## 12. Quyết định v2.1 & Kế hoạch thực hiện
+
+### Quyết định
+| Quyết định | Lý do |
+|---|---|
+| **Giữ 1 dataset** (`StudentPerformanceFactors.csv`) cho cả 2 tầng | Cùng một học sinh phải có cùng bộ feature ở cả 2 tầng |
+| **Không dùng "Student Performance" 10k dòng (Performance Index) cho Tầng 2** | Chỉ 5 feature, mất `Attendance` (feature quan trọng nhất) và `Tutoring_Sessions`; target không phải điểm thi nên không nối được ngưỡng 6.5 của Tầng 1; hai tầng lệch đầu vào; phải viết lại Tầng 2 |
+| **Bỏ `Gender`, `School_Type`** | Importance ≈ 0 ở cả 2 tầng; thử nghiệm cho thấy không mất điểm; giảm rủi ro thiên vị giới tính |
+| **Giữ `Sleep_Hours`** trong model và What-If | Quyết định của nhóm |
+| **Thêm metric đánh giá** (mục 4, 5) | Bổ sung bằng chứng, trả lời câu hỏi outlier mà không xóa dữ liệu |
+| **Tích hợp Explainable AI (SHAP) cho cả 2 tầng** | Tầng 1: Giải thích xác suất nguy cơ + trích xuất `top_risk_factors` cho API/Dashboard. Tầng 2: Phân tích đóng góp điểm cho từng học sinh và trước/sau What-If. Xuất cả Beeswarm plot toàn cục và Waterfall plot cá nhân hóa. |
+
+### Kết quả thử nghiệm bỏ 2 feature (Test, 992 HS)
+| | 20 feature | 18 feature |
+|---|---|---|
+| Tầng 1 F1 / Precision / Recall / AUC | 0.9771 / 0.9771 / 0.9771 / 0.9974 | 0.9748 / 0.9726 / 0.9771 / 0.9974 |
+| Tầng 2 MAE / R² (Raw) | 0.0506 / 0.6666 | 0.0505 / 0.6666 |
+
+### Các task thực hiện (mỗi task = 1 commit riêng, user tự push)
+| Task | Nội dung chi tiết | File liên quan |
+|---|---|---|
+| **5.1** | **Chuẩn hóa 18 features**: Bỏ `Gender`, `School_Type` khỏi master dataset, splits (train, dev, test) và định nghĩa pipeline Tầng 1 & Tầng 2. Huấn luyện lại, lưu model `.pkl` + `model_metadata.json`. | `notebooks/01..05`, `data/processed/`, `data/splits/`, `models/` |
+| **5.2** | **Tầng 1 Advanced Metrics & SHAP XAI**: Thêm PR-AUC, MCC, Balanced Acc, Specificity, Brier score, Calibration curve, 5-fold CV vào `04_stage1_advanced.ipynb`. Tích hợp SHAP (LinearExplainer): vẽ Beeswarm plot (`fig12_shap_summary_stage1.png`), Waterfall plot cá nhân (`fig13_shap_waterfall_stage1.png`), viết hàm `extract_top_risk_factors()` cho API. | `notebooks/04_stage1_advanced.ipynb`, `reports/figures/` |
+| **5.3** | **Tầng 2 Robust Metrics & SHAP What-If**: Thêm Median AE, % lệch ≤0.5, P95, Adjusted R², 5-fold CV, Bootstrap 95% CI vào `05_stage2_regression_whatif.ipynb`. Tích hợp SHAP: vẽ Beeswarm plot (`fig14_shap_summary_stage2.png`), Waterfall plot What-If (`fig15_shap_waterfall_whatif.png`), kiểm tra tính đơn điệu. | `notebooks/05_stage2_regression_whatif.ipynb`, `reports/figures/` |
+| **5.4** | **Tài liệu Bàn giao & FastAPI Service với SHAP**: Cập nhật `BAO_CAO_DO_AN.md`, `HANDOFF_APP.md` (chuẩn 18 features, code FastAPI hoàn chỉnh có endpoint `/explain` và field `top_risk_factors` từ SHAP, NestJS / Next.js UI component), cập nhật `requirements.txt` (`shap>=0.42.0`). | `docs/`, `requirements.txt`, `Spec.md` |
+
+### Acceptance Criteria
+- Tầng 1 Test: Recall ≥ 0.85, F1 ≥ 0.85, ROC-AUC ≥ 0.90
+- Tầng 2 Test Raw: MAE ≤ 0.08, R² > 0.60
+- Không còn tham chiếu `Gender` / `School_Type` trong code, dữ liệu, docs, API
+- Đầy đủ 4 hình SHAP trong `reports/figures/` (fig12 -> fig15)
+- Code FastAPI có hàm trích xuất `top_risk_factors` hoạt động thực tế
