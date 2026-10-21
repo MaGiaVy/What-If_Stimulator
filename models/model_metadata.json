@@ -64,7 +64,13 @@
       "mae": 0.05053942172457831,
       "rmse": 0.24403032575512373,
       "r2": 0.6665568215195221,
-      "sample_count": 992
+      "sample_count": 992,
+      "median_absolute_error": 0.0252,
+      "pct_error_le_025": 98.99,
+      "pct_error_le_050": 98.99,
+      "p90_error": 0.0512,
+      "p95_error": 0.0592,
+      "adjusted_r2": 0.6604
     },
     "test_metrics_sensitivity_clean": {
       "mae": 0.026988783552984993,
