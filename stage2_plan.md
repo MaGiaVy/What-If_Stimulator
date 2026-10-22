@@ -1,5 +1,7 @@
 # KẾ HOẠCH KỸ THUẬT CHI TIẾT: NÂNG CẤP TẦNG 2 — CONTEXTUAL WHAT-IF SIMULATOR & XỬ LÝ NHIỄU NHÃN (LABEL NOISE)
 
+> ⚠️ **LƯU Ý LỊCH SỬ:** Tài liệu này là kế hoạch kỹ thuật sơ bộ ban đầu của Tầng 2. Toàn bộ nội dung, phân tích nhiễu nhãn và kiến trúc thực tế đã được chuẩn hóa và hợp nhất chính thức tại **[Spec.md](file:///d:/What-If%20Simulator/Spec.md)** (v2.1) và **[BAO_CAO_DO_AN.md](file:///d:/What-If%20Simulator/docs/BAO_CAO_DO_AN.md)**. Vui lòng tham chiếu các tài liệu chính thức đó.
+
 **Phạm vi áp dụng:** Notebook `04_stage2_training_and_whatif_sim.ipynb`, Backend `api.py` (Project 1) và Giao diện `app.py` (Project 2)  
 **Người phụ trách:** Gia Vỹ (Data & ML Leader)  
 **Mục tiêu cốt lõi:**  

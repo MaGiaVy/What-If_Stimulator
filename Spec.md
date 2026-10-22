@@ -352,13 +352,13 @@ Response:
 | Tầng 1 F1 / Precision / Recall / AUC | 0.9771 / 0.9771 / 0.9771 / 0.9974 | 0.9748 / 0.9726 / 0.9771 / 0.9974 |
 | Tầng 2 MAE / R² (Raw) | 0.0506 / 0.6666 | 0.0505 / 0.6666 |
 
-### Các task thực hiện (mỗi task = 1 commit riêng, user tự push)
-| Task | Nội dung chi tiết | File liên quan |
-|---|---|---|
-| **5.1** | **Chuẩn hóa 18 features**: Bỏ `Gender`, `School_Type` khỏi master dataset, splits (train, dev, test) và định nghĩa pipeline Tầng 1 & Tầng 2. Huấn luyện lại, lưu model `.pkl` + `model_metadata.json`. | `notebooks/01..05`, `data/processed/`, `data/splits/`, `models/` |
-| **5.2** | **Tầng 1 Advanced Metrics & SHAP XAI**: Thêm PR-AUC, MCC, Balanced Acc, Specificity, Brier score, Calibration curve, 5-fold CV vào `04_stage1_advanced.ipynb`. Tích hợp SHAP (LinearExplainer): vẽ Beeswarm plot (`fig12_shap_summary_stage1.png`), Waterfall plot cá nhân (`fig13_shap_waterfall_stage1.png`), viết hàm `extract_top_risk_factors()` cho API. | `notebooks/04_stage1_advanced.ipynb`, `reports/figures/` |
-| **5.3** | **Tầng 2 Robust Metrics & SHAP What-If**: Thêm Median AE, % lệch ≤0.5, P95, Adjusted R², 5-fold CV, Bootstrap 95% CI vào `05_stage2_regression_whatif.ipynb`. Tích hợp SHAP: vẽ Beeswarm plot (`fig14_shap_summary_stage2.png`), Waterfall plot What-If (`fig15_shap_waterfall_whatif.png`), kiểm tra tính đơn điệu. | `notebooks/05_stage2_regression_whatif.ipynb`, `reports/figures/` |
-| **5.4** | **Tài liệu Bàn giao & FastAPI Service với SHAP**: Cập nhật `BAO_CAO_DO_AN.md`, `HANDOFF_APP.md` (chuẩn 18 features, code FastAPI hoàn chỉnh có endpoint `/explain` và field `top_risk_factors` từ SHAP, NestJS / Next.js UI component), cập nhật `requirements.txt` (`shap>=0.42.0`). | `docs/`, `requirements.txt`, `Spec.md` |
+### Các task thực hiện (ĐÃ HOÀN THÀNH 100% — 4 commits độc lập trên main)
+| Task | Trạng thái | Nội dung chi tiết | File liên quan |
+|---|:---:|---|---|
+| **5.1** | ✅ Hoàn thành (`76701a1`) | **Chuẩn hóa 18 features**: Bỏ `Gender`, `School_Type` khỏi master dataset, splits (train, dev, test) và định nghĩa pipeline Tầng 1 & Tầng 2. Huấn luyện lại, lưu model `.pkl` + `model_metadata.json`. | `notebooks/01..05`, `data/processed/`, `data/splits/`, `models/` |
+| **5.2** | ✅ Hoàn thành (`793bc81`) | **Tầng 1 Advanced Metrics & SHAP XAI**: Thêm PR-AUC, MCC, Balanced Acc, Specificity, Brier score, Calibration curve, 5-fold CV vào `04_stage1_advanced.ipynb`. Tích hợp SHAP (LinearExplainer): vẽ Beeswarm plot (`fig12_shap_summary_stage1.png`), Waterfall plot cá nhân (`fig13_shap_waterfall_stage1.png`), viết hàm `extract_top_risk_factors()` cho API. | `notebooks/04_stage1_advanced.ipynb`, `reports/figures/` |
+| **5.3** | ✅ Hoàn thành (`3411191`) | **Tầng 2 Robust Metrics & SHAP What-If**: Thêm Median AE, % lệch ≤0.5, P95, Adjusted R², 5-fold CV, Bootstrap 95% CI vào `05_stage2_regression_whatif.ipynb`. Tích hợp SHAP: vẽ Beeswarm plot (`fig14_shap_summary_stage2.png`), Waterfall plot What-If (`fig15_shap_waterfall_whatif.png`), kiểm tra tính đơn điệu. | `notebooks/05_stage2_regression_whatif.ipynb`, `reports/figures/` |
+| **5.4** | ✅ Hoàn thành (`2128dc2`) | **Tài liệu Bàn giao & FastAPI Service với SHAP**: Cập nhật `BAO_CAO_DO_AN.md`, `HANDOFF_APP.md` (chuẩn 18 features, code FastAPI hoàn chỉnh có endpoint `/explain` và field `top_risk_factors` từ SHAP, NestJS / Next.js UI component), cập nhật `requirements.txt` (`shap>=0.42.0`). | `docs/`, `requirements.txt`, `Spec.md` |
 
 ### Acceptance Criteria
 - Tầng 1 Test: Recall ≥ 0.85, F1 ≥ 0.85, ROC-AUC ≥ 0.90

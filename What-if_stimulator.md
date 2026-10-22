@@ -1,3 +1,5 @@
+> ℹ️ **LƯU Ý:** Đây là tài liệu khảo sát, đối sánh 10 bộ dữ liệu ban đầu phục vụ giai đoạn đề xuất đề tài. Bộ dữ liệu duy nhất được lựa chọn chính thức cho toàn bộ hệ thống là `StudentPerformanceFactors.csv` (Kaggle), chi tiết chuẩn hóa xem tại **[Spec.md](file:///d:/What-If%20Simulator/Spec.md)** và **[BAO_CAO_DO_AN.md](file:///d:/What-If%20Simulator/docs/BAO_CAO_DO_AN.md)**.
+
 **TÀI LIỆU TỔNG HỢP DATASET & HƯỚNG DẪN TRIỂN KHAI ĐỒ ÁN**
 
 **ĐỀ TÀI: HỆ THỐNG CẢNH BÁO SỚM HỌC VỤ VÀ MÔ PHỎNG KỊCH BẢN HỌC TẬP 2 TẦNG**
